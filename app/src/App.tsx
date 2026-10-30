@@ -5,7 +5,8 @@ import { ScansProvider, useScans } from "./lib/scans";
 import Drives from "./screens/Drives";
 import Scans from "./screens/Scans";
 import Settings from "./screens/Settings";
-import Placeholder from "./screens/Placeholder";
+import Compare from "./screens/Compare";
+import Search from "./screens/Search";
 
 export type Screen = "drives" | "scans" | "compare" | "search" | "settings";
 
@@ -77,8 +78,8 @@ function Shell() {
         <div className="max-w-[1400px] mx-auto px-8 py-7">
           {screen === "drives" && <Drives onScanStarted={() => setScreen("scans")} />}
           {screen === "scans" && <Scans onDone={() => setScreen("drives")} />}
-          {screen === "compare" && <Placeholder title="Compare" />}
-          {screen === "search" && <Placeholder title="Search" />}
+          {screen === "compare" && <Compare />}
+          {screen === "search" && <Search />}
           {screen === "settings" && <Settings />}
         </div>
       </main>

@@ -12,7 +12,7 @@
 - [x] Phase 5: MCP server
 - [x] Phase 6: Verify and export
 - [x] Phase 7: Tauri app (shell and drives/scan)
-- [ ] Phase 8: Tauri app (compare and search)
+- [x] Phase 8: Tauri app (compare and search)
 - [ ] Phase 9: Real-world acceptance and release prep
 
 Tick the boxes as phases merge. Keep this file updated in each PR.

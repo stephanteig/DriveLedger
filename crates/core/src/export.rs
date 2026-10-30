@@ -11,6 +11,9 @@ use std::io::Write;
 use chrono::{DateTime, Local};
 use serde::Serialize;
 
+use std::path::Path;
+
+use crate::compare::{CompareResult, Hint, Side};
 use crate::error::{Error, Result};
 use crate::index::{FileRecord, Index, ScanError, ScanInfo};
 use crate::overview::FolderStat;
@@ -62,6 +65,71 @@ pub fn write_overview_tsv(folders: &[FolderStat], out: &mut dyn Write) -> Result
     writeln!(out, "size\tfiles\tpath").map_err(io)?;
     for f in folders {
         writeln!(out, "{}\t{} files\t{}", du_size(f.bytes), f.files, f.path).map_err(io)?;
+    }
+    Ok(())
+}
+
+/// Write a comparison as TSV, one row per source file:
+/// `status, size_bytes, modified, path, target_path, target_copies, newer_side, hints`.
+pub fn write_compare_tsv(result: &CompareResult, out: &mut dyn Write) -> Result<()> {
+    let io = |e| Error::io("export", e);
+    writeln!(
+        out,
+        "status\tsize_bytes\tmodified\tpath\ttarget_path\ttarget_copies\tnewer_side\thints"
+    )
+    .map_err(io)?;
+    for f in &result.files {
+        let hints: Vec<&str> = f
+            .hints
+            .iter()
+            .map(|h| match h {
+                Hint::PossiblyTruncated => "possibly_truncated",
+                Hint::SourceUnreadable => "source_unreadable",
+            })
+            .collect();
+        let newer = match f.newer_side {
+            Some(Side::Source) => "source",
+            Some(Side::Target) => "target",
+            Some(Side::Same) => "same",
+            None => "",
+        };
+        writeln!(
+            out,
+            "{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}",
+            f.status.as_str(),
+            f.size,
+            f.modified
+                .as_deref()
+                .map(|m| &m[..10.min(m.len())])
+                .unwrap_or(""),
+            f.rel_path,
+            f.target_locations
+                .first()
+                .map_or("", |l| l.rel_path.as_str()),
+            f.target_locations.len(),
+            newer,
+            hints.join(",")
+        )
+        .map_err(io)?;
+    }
+    Ok(())
+}
+
+/// DriveLedger never writes to a scanned drive: refuse an output file whose
+/// folder lies inside any of `roots`.
+pub fn ensure_outside_scanned_roots(out: &Path, roots: &[&str]) -> Result<()> {
+    let parent = out
+        .parent()
+        .filter(|p| !p.as_os_str().is_empty())
+        .unwrap_or(Path::new("."));
+    let resolved = parent.canonicalize().map_err(|e| Error::io(parent, e))?;
+    for root in roots {
+        if resolved.starts_with(root) {
+            return Err(Error::InvalidArgument(format!(
+                "refusing to write {} inside the scanned folder {root}; DriveLedger never writes to scanned drives",
+                out.display()
+            )));
+        }
     }
     Ok(())
 }
