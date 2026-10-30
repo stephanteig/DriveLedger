@@ -3,7 +3,8 @@
 //! A thin layer over `driveledger-core`: parse arguments, call core, print
 //! the result as a table or (with `--json`) as JSON on stdout.
 //!
-//! Exit codes: 0 success, 1 error, 2 usage error, 3 target unavailable.
+//! Exit codes: 0 success, 1 error, 2 usage error, 3 target unavailable,
+//! 4 verify found differences.
 
 mod mcp;
 mod progress;
@@ -13,13 +14,16 @@ use std::path::{Path, PathBuf};
 use std::process::ExitCode;
 use std::time::Duration;
 
-use anyhow::Context;
+use std::io::Write as _;
+
+use anyhow::{Context, bail};
 use clap::{Args, Parser, Subcommand};
 use driveledger_core::compare::{CompareOptions, Status};
+use driveledger_core::export;
 use driveledger_core::paging::paginate;
 use driveledger_core::{
-    Index, LiveOptions, SearchQuery, Settings, SystemProbe, folder_overview, list_indexes,
-    open_or_scan, scan_to_library, search, volume_statuses,
+    Index, LiveOptions, SearchQuery, Settings, SystemProbe, VerifyOptions, folder_overview,
+    list_indexes, open_or_scan, scan_to_library, search, verify, volume_statuses,
 };
 use serde::Serialize;
 
@@ -125,8 +129,42 @@ enum Command {
         depth: usize,
         #[arg(long, value_name = "PATH")]
         subpath: Option<String>,
+        /// Print TSV in the `mapper.sh` layout (size, files, path).
+        #[arg(long, conflicts_with = "json")]
+        tsv: bool,
         #[command(flatten)]
         out: Output,
+    },
+    /// Hash matched files in full on both drives to confirm they are identical.
+    ///
+    /// Run this before deleting anything. Both drives must be mounted. Exit
+    /// code 4 if any pair differs or could not be read.
+    Verify {
+        /// Source index ID or file.
+        source: String,
+        /// Target index ID or file.
+        target: String,
+        /// Only verify source files below this folder.
+        #[arg(long, value_name = "PATH")]
+        subpath: Option<String>,
+        /// Only verify this source file (relative path), repeatable.
+        #[arg(long = "path", value_name = "PATH")]
+        paths: Vec<String>,
+        #[command(flatten)]
+        out: Output,
+    },
+    /// Export an index as a TSV file list (like `filliste.sh`) or JSON.
+    Export {
+        index: String,
+        /// TSV with columns size_mb, modified, path.
+        #[arg(long, required_unless_present = "json", conflicts_with = "json")]
+        tsv: bool,
+        /// JSON with scan metadata, files and errors.
+        #[arg(long)]
+        json: bool,
+        /// Write to this file instead of stdout. Refused inside the scanned folder.
+        #[arg(long, value_name = "FILE")]
+        out: Option<PathBuf>,
     },
     /// Run the MCP server (stdio by default) so any MCP client can query DriveLedger.
     Mcp {
@@ -160,7 +198,9 @@ impl Command {
             | Command::Volumes { out }
             | Command::Search { out, .. }
             | Command::Overview { out, .. }
+            | Command::Verify { out, .. }
             | Command::Config { out, .. } => out.json,
+            Command::Export { json, out, .. } => *json && out.is_none(),
             Command::Mcp { .. } => false,
         }
     }
@@ -178,11 +218,17 @@ fn main() -> ExitCode {
 fn report_error(err: &anyhow::Error, json: bool) -> ExitCode {
     let core = err.downcast_ref::<driveledger_core::Error>();
     let kind = core.map(|e| e.kind()).unwrap_or("error");
-    if json {
+    if err.downcast_ref::<VerifyFailed>().is_some() {
+        // The report was already printed; only add the reason on stderr.
+        eprintln!("error: {err}");
+    } else if json {
         let body = serde_json::json!({ "error": { "kind": kind, "message": format!("{err:#}") } });
         println!("{}", serde_json::to_string_pretty(&body).unwrap());
     } else {
         eprintln!("error: {err:#}");
+    }
+    if err.downcast_ref::<VerifyFailed>().is_some() {
+        return ExitCode::from(4);
     }
     match core {
         Some(driveledger_core::Error::TargetUnavailable(_)) => ExitCode::from(3),
@@ -327,16 +373,84 @@ fn run(cli: Cli) -> anyhow::Result<()> {
             index,
             depth,
             subpath,
+            tsv,
             out,
         } => {
             let entry = driveledger_core::resolve_index_entry(&library, &index)?;
             let folders = folder_overview(&Index::open(&entry.path)?, depth, subpath.as_deref())?;
             if out.json {
                 print_json(&folders)
+            } else if tsv {
+                Ok(export::write_overview_tsv(
+                    &folders,
+                    &mut std::io::stdout().lock(),
+                )?)
             } else {
                 print!("{}", render::overview(&folders, &style));
                 Ok(())
             }
+        }
+
+        Command::Verify {
+            source,
+            target,
+            subpath,
+            paths,
+            out,
+        } => {
+            let source = driveledger_core::resolve_index_entry(&library, &source)?;
+            let target = driveledger_core::resolve_index_entry(&library, &target)?;
+            let options = VerifyOptions {
+                source_subpath: subpath,
+                paths,
+                concurrency: None,
+            };
+            let progress = progress::Reporter::new("verifying");
+            let report = verify(&source.path, &target.path, &options, &|p| {
+                progress.update_verify(p)
+            });
+            progress.finish();
+            let report = report?;
+            if out.json {
+                print_json(&report)?;
+            } else {
+                print!("{}", render::verify(&report, &style));
+            }
+            let problems = report.summary.mismatch.files + report.summary.unreadable.files;
+            if problems > 0 {
+                return Err(anyhow::Error::new(VerifyFailed(problems)));
+            }
+            Ok(())
+        }
+
+        Command::Export {
+            index,
+            tsv,
+            json: _,
+            out,
+        } => {
+            let entry = driveledger_core::resolve_index_entry(&library, &index)?;
+            let index = Index::open(&entry.path)?;
+            let mut writer: Box<dyn std::io::Write> = match &out {
+                Some(path) => {
+                    refuse_inside_scanned_root(path, &entry.info.root_path)?;
+                    Box::new(std::io::BufWriter::new(
+                        std::fs::File::create(path)
+                            .with_context(|| format!("creating {}", path.display()))?,
+                    ))
+                }
+                None => Box::new(std::io::stdout().lock()),
+            };
+            if tsv {
+                export::write_file_list_tsv(&index, &mut writer)?;
+            } else {
+                export::write_json(&index, &mut writer)?;
+            }
+            writer.flush()?;
+            if let Some(path) = out {
+                eprintln!("Wrote {}", path.display());
+            }
+            Ok(())
         }
 
         Command::Mcp { http } => {
@@ -374,6 +488,41 @@ fn run(cli: Cli) -> anyhow::Result<()> {
             }
         }
     }
+}
+
+/// Verify found differences or unreadable files; reported with exit code 4.
+#[derive(Debug)]
+struct VerifyFailed(u64);
+
+impl std::fmt::Display for VerifyFailed {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        write!(
+            f,
+            "{} file pairs did not verify; do not delete them",
+            self.0
+        )
+    }
+}
+
+impl std::error::Error for VerifyFailed {}
+
+/// DriveLedger never writes to a scanned drive, so an export into the
+/// scanned folder is refused.
+fn refuse_inside_scanned_root(out: &Path, root: &str) -> anyhow::Result<()> {
+    let parent = out
+        .parent()
+        .filter(|p| !p.as_os_str().is_empty())
+        .unwrap_or(Path::new("."));
+    let resolved = parent
+        .canonicalize()
+        .with_context(|| format!("output folder {}", parent.display()))?;
+    if resolved.starts_with(root) {
+        bail!(
+            "refusing to write {} inside the scanned folder {root}; DriveLedger never writes to scanned drives",
+            out.display()
+        );
+    }
+    Ok(())
 }
 
 fn print_json<T: Serialize>(value: &T) -> anyhow::Result<()> {

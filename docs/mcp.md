@@ -14,9 +14,9 @@ driveledger mcp --http 127.0.0.1:7341    # Streamable HTTP at http://127.0.0.1:7
   sites get `403`).
 - The server uses the library from `--library`, `DRIVELEDGER_LIBRARY`, the saved setting or
   `~/Documents/DriveLedger Library`, in that order.
-- DriveLedger never writes to scanned drives. Every tool is `readOnlyHint: true` except `scan`,
-  which writes a new index file into the library (`readOnlyHint: false`,
-  `destructiveHint: false`).
+- DriveLedger never writes to scanned drives. Every tool is `readOnlyHint: true` except `scan`
+  (writes a new index file into the library) and `verify` (caches full hashes in the library's
+  index files). Both are `readOnlyHint: false, destructiveHint: false`.
 
 Install the binary first (`cargo install --path crates/cli`, or copy `driveledger` to
 `/usr/local/bin`). GUI apps such as Claude Desktop don't inherit your shell `PATH`, so use the
@@ -124,8 +124,11 @@ text summary, the same data as JSON text (for clients that ignore structured con
 | `find_file` | Every location of one file's content across all indexes. |
 | `find_duplicates` | Groups of identical content within or across indexes. |
 | `scan` | Scan a path into the library (`path`), or follow a running scan (`scan_id`). |
+| `verify` | Full BLAKE3 of every matched pair on both drives before deleting (`source` + `target`, or follow with `verify_id`). Returns `verified`, `mismatch`, `unreadable`. |
 
-`verify` (full-file hashing before deletion) arrives with the verify feature.
+`scan` and `verify` can take minutes on large drives. They run in the background: the call
+waits up to `wait_seconds` (default 20, max 300) and then returns progress plus an ID to call
+again with.
 
 ### What the compare statuses mean
 
@@ -162,7 +165,8 @@ A good agent will:
    (follow with `scan_id` until `state` is `done`).
 3. Call `compare` with the two index IDs, then report `summary.content_not_found` and the
    largest folders in `folders` that still have `missing` or `same_name_different_content` files.
-4. Suggest `driveledger verify` on the matched pairs before anything is deleted.
+4. Before anything is deleted, call `verify` on the same pair (optionally limited with
+   `source_subpath` or `paths`) and only call files safe when they are `verified`.
 
 ## Without MCP
 

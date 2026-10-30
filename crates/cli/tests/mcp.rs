@@ -110,6 +110,7 @@ fn tools_are_listed_with_schemas_and_hints() {
             "list_volumes",
             "scan",
             "search_files",
+            "verify",
         ]
     );
     for tool in tools.as_array().unwrap() {
@@ -117,7 +118,7 @@ fn tools_are_listed_with_schemas_and_hints() {
         assert_eq!(tool["inputSchema"]["type"], "object", "{name}");
         assert_eq!(tool["outputSchema"]["type"], "object", "{name}");
         let read_only = tool["annotations"]["readOnlyHint"].as_bool();
-        if name == "scan" {
+        if name == "scan" || name == "verify" {
             assert_eq!(read_only, Some(false));
             assert_eq!(tool["annotations"]["destructiveHint"], false);
         } else {
@@ -198,6 +199,7 @@ fn scan_tool_creates_an_index_usable_by_other_tools() {
     let status = &scan["structuredContent"];
     assert_eq!(status["state"], "done", "{scan}");
     let id = status["index_id"].as_str().unwrap().to_string();
+    assert_eq!(status["result"]["info"]["file_count"], 3);
 
     let indexes = client.call("list_indexes", json!({}));
     assert_eq!(indexes["structuredContent"]["indexes"]["total"], 1);
@@ -237,4 +239,29 @@ fn http_refuses_non_loopback_addresses() {
         .unwrap();
     assert!(!out.status.success());
     assert!(String::from_utf8_lossy(&out.stderr).contains("only binds to loopback"));
+}
+
+#[test]
+fn verify_tool_confirms_matched_pairs() {
+    let env = setup();
+    let src = index_id(&env.json(&["scan", env.source.to_str().unwrap(), "--json"]));
+    let tgt = index_id(&env.json(&["scan", env.target.to_str().unwrap(), "--json"]));
+    let mut client = McpClient::start(&env);
+    let result = client.call(
+        "verify",
+        json!({ "source": src, "target": tgt, "wait_seconds": 60 }),
+    );
+    let out = &result["structuredContent"];
+    assert_eq!(out["state"], "done", "{result}");
+    assert_eq!(out["summary"]["verified"]["files"], 2);
+    assert_eq!(out["summary"]["mismatch"]["files"], 0);
+    assert_eq!(out["summary"]["not_found_on_target"]["files"], 2);
+    assert_eq!(out["items"]["total"], 2);
+
+    // The finished job can be read again by ID.
+    let again = client.call(
+        "verify",
+        json!({ "verify_id": out["verify_id"], "statuses": ["mismatch"] }),
+    );
+    assert_eq!(again["structuredContent"]["items"]["total"], 0);
 }

@@ -16,11 +16,12 @@ use driveledger_core::compare::{
     CompareOptions, CompareSummary, FileComparison, FolderRollup, IndexRef, Status,
 };
 use driveledger_core::paging::{Page, paginate};
+use driveledger_core::verify::{VerifyItem, VerifyProgress, VerifySummary};
 use driveledger_core::{
     DuplicateGroup, Error as CoreError, FolderStat, IndexArg, IndexSummary, ScanOutcome,
-    ScanProgress, SearchHit, SearchQuery, Settings, SystemProbe, VolumeStatus, classify_arg,
-    find_duplicates, folder_overview, list_indexes, resolve_index_entry, scan_to_library, search,
-    volume_statuses,
+    ScanProgress, SearchHit, SearchQuery, Settings, SystemProbe, VerifyOptions, VerifyReport,
+    VerifyStatus, VolumeStatus, classify_arg, find_duplicates, folder_overview, list_indexes,
+    resolve_index_entry, scan_to_library, search, volume_statuses,
 };
 use rmcp::handler::server::common::schema_for_output;
 use rmcp::handler::server::router::tool::ToolRouter;
@@ -46,6 +47,7 @@ pub struct DriveLedgerMcp {
     library: PathBuf,
     settings: Settings,
     jobs: Arc<Mutex<HashMap<String, Arc<ScanJob>>>>,
+    verify_jobs: Arc<Mutex<HashMap<String, Arc<VerifyJob>>>>,
     tool_router: ToolRouter<Self>,
 }
 
@@ -221,7 +223,7 @@ pub struct ScanArgs {
 
 #[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, JsonSchema)]
 #[serde(rename_all = "snake_case")]
-pub enum ScanState {
+pub enum JobState {
     Running,
     Done,
     Failed,
@@ -231,7 +233,7 @@ pub enum ScanState {
 pub struct ScanStatusOutput {
     pub scan_id: String,
     pub path: String,
-    pub state: ScanState,
+    pub state: JobState,
     /// Latest progress while running.
     pub progress: Option<ScanProgress>,
     /// The finished scan. Its index ID is the index file name without `.dlidx.sqlite`.
@@ -250,6 +252,53 @@ struct ScanJob {
     status: Mutex<ScanStatusOutput>,
 }
 
+#[derive(Debug, Default, Deserialize, JsonSchema)]
+pub struct VerifyArgs {
+    /// Source index ID or file. Starts a new verify together with `target`.
+    #[serde(default)]
+    pub source: Option<String>,
+    /// Target index ID or file.
+    #[serde(default)]
+    pub target: Option<String>,
+    /// Only verify source files below this folder.
+    #[serde(default)]
+    pub source_subpath: Option<String>,
+    /// Only verify these source files (relative paths). Default: every matched file.
+    #[serde(default)]
+    pub paths: Vec<String>,
+    /// ID of a verify started earlier, to check its progress or page its results.
+    #[serde(default)]
+    pub verify_id: Option<String>,
+    /// Wait up to this many seconds for the verify to finish (default 20, max 300).
+    #[serde(default)]
+    pub wait_seconds: Option<u64>,
+    /// Only list items with these results: verified, mismatch, unreadable. Default: all.
+    #[serde(default)]
+    pub statuses: Vec<VerifyStatus>,
+    #[serde(flatten)]
+    pub page: PageArgs,
+}
+
+#[derive(Debug, Clone, Serialize, JsonSchema)]
+pub struct VerifyStatusOutput {
+    pub verify_id: String,
+    pub state: JobState,
+    pub progress: Option<VerifyProgress>,
+    /// Set when done.
+    pub summary: Option<VerifySummary>,
+    pub source: Option<IndexRef>,
+    pub target: Option<IndexRef>,
+    /// Per-pair results when done, paged.
+    pub items: Option<Page<VerifyItem>>,
+    pub error: Option<ErrorBody>,
+}
+
+struct VerifyJob {
+    id: String,
+    progress: Mutex<Option<VerifyProgress>>,
+    outcome: Mutex<Option<Result<VerifyReport, ErrorBody>>>,
+}
+
 // ---------------------------------------------------------------------------
 // Tools
 // ---------------------------------------------------------------------------
@@ -261,6 +310,7 @@ impl DriveLedgerMcp {
             library,
             settings,
             jobs: Arc::default(),
+            verify_jobs: Arc::default(),
             tool_router: Self::tool_router(),
         }
     }
@@ -546,15 +596,85 @@ impl DriveLedgerMcp {
         let deadline = Instant::now() + wait;
         loop {
             let status = job.status.lock().unwrap().clone();
-            if status.state != ScanState::Running || Instant::now() >= deadline {
+            if status.state != JobState::Running || Instant::now() >= deadline {
                 return scan_result(status);
             }
             tokio::time::sleep(Duration::from_millis(100)).await;
         }
     }
+
+    #[tool(
+        description = "Full-file verify before deleting: reads every byte of each matched source/target pair from a compare and confirms the content is identical (BLAKE3). Start with `source` and `target` index IDs (optionally `source_subpath` or `paths`), or follow a running verify with `verify_id`. Both drives must be mounted. Read-only on the drives; the full hashes are cached in the library's index files. Results: verified, mismatch, unreadable; files with no match on the target are counted as not_found_on_target.",
+        output_schema = schema_for_output::<VerifyStatusOutput>(),
+        annotations(read_only_hint = false, destructive_hint = false, idempotent_hint = true, open_world_hint = false)
+    )]
+    async fn verify(&self, Parameters(args): Parameters<VerifyArgs>) -> CallToolResult {
+        let job = match &args.verify_id {
+            Some(id) => match self.verify_jobs.lock().unwrap().get(id) {
+                Some(job) => job.clone(),
+                None => {
+                    return tool_error(&CoreError::InvalidArgument(format!("no verify `{id}`")));
+                }
+            },
+            None => match self.start_verify(&args) {
+                Ok(job) => job,
+                Err(e) => return tool_error(&e),
+            },
+        };
+
+        let wait = Duration::from_secs(args.wait_seconds.unwrap_or(20).min(300));
+        let deadline = Instant::now() + wait;
+        while job.outcome.lock().unwrap().is_none() && Instant::now() < deadline {
+            tokio::time::sleep(Duration::from_millis(100)).await;
+        }
+        verify_result(&job, &args)
+    }
 }
 
 impl DriveLedgerMcp {
+    /// Resolve both indexes, check both drives, then verify on a background
+    /// thread.
+    fn start_verify(&self, args: &VerifyArgs) -> Result<Arc<VerifyJob>, CoreError> {
+        let (Some(source), Some(target)) = (&args.source, &args.target) else {
+            return Err(CoreError::InvalidArgument(
+                "give `source` and `target` to start a verify, or `verify_id` to check one".into(),
+            ));
+        };
+        let target = resolve_index_entry(&self.library, target)?;
+        let source = resolve_index_entry(&self.library, source)?;
+        driveledger_core::volume::ensure_available(Path::new(&target.info.root_path))?;
+        driveledger_core::volume::ensure_available(Path::new(&source.info.root_path))?;
+
+        let id = format!(
+            "verify-{}-{}",
+            chrono::Utc::now().format("%Y%m%d%H%M%S"),
+            self.verify_jobs.lock().unwrap().len() + 1
+        );
+        let job = Arc::new(VerifyJob {
+            id: id.clone(),
+            progress: Mutex::new(None),
+            outcome: Mutex::new(None),
+        });
+        self.verify_jobs.lock().unwrap().insert(id, job.clone());
+
+        let options = VerifyOptions {
+            source_subpath: args.source_subpath.clone(),
+            paths: args.paths.clone(),
+            concurrency: None,
+        };
+        let worker = job.clone();
+        std::thread::spawn(move || {
+            let report = driveledger_core::verify(&source.path, &target.path, &options, &|p| {
+                *worker.progress.lock().unwrap() = Some(p.clone());
+            });
+            *worker.outcome.lock().unwrap() = Some(report.map_err(|e| ErrorBody {
+                kind: e.kind().into(),
+                message: e.to_string(),
+            }));
+        });
+        Ok(job)
+    }
+
     /// Check the path, then run the scan on a background thread.
     fn start_scan(&self, path: &str, full: bool) -> Result<Arc<ScanJob>, CoreError> {
         let root = PathBuf::from(path);
@@ -568,7 +688,7 @@ impl DriveLedgerMcp {
             status: Mutex::new(ScanStatusOutput {
                 scan_id: scan_id.clone(),
                 path: path.to_string(),
-                state: ScanState::Running,
+                state: JobState::Running,
                 progress: None,
                 result: None,
                 index_id: None,
@@ -588,12 +708,12 @@ impl DriveLedgerMcp {
             let mut status = worker.status.lock().unwrap();
             match outcome {
                 Ok(outcome) => {
-                    status.state = ScanState::Done;
+                    status.state = JobState::Done;
                     status.index_id = Some(index_id_of(&outcome.index_path));
                     status.result = Some(outcome);
                 }
                 Err(e) => {
-                    status.state = ScanState::Failed;
+                    status.state = JobState::Failed;
                     status.error = Some(ErrorBody {
                         kind: e.kind().into(),
                         message: e.to_string(),
@@ -663,7 +783,7 @@ fn tool_error(e: &CoreError) -> CallToolResult {
 
 fn scan_result(status: ScanStatusOutput) -> CallToolResult {
     let summary = match status.state {
-        ScanState::Running => {
+        JobState::Running => {
             let p = status.progress.as_ref();
             format!(
                 "Scan {} of {} is still running: {}/{} files. Call `scan` again with scan_id to follow it.",
@@ -673,7 +793,7 @@ fn scan_result(status: ScanStatusOutput) -> CallToolResult {
                 thousands(p.map_or(0, |p| p.files_seen)),
             )
         }
-        ScanState::Done => {
+        JobState::Done => {
             let r = status.result.as_ref().expect("done scans have a result");
             format!(
                 "Scanned {} files ({}) on {}, {} errors. Index ID: {}",
@@ -684,16 +804,83 @@ fn scan_result(status: ScanStatusOutput) -> CallToolResult {
                 status.index_id.as_deref().unwrap_or_default()
             )
         }
-        ScanState::Failed => {
+        JobState::Failed => {
             let e = status.error.as_ref().expect("failed scans have an error");
             format!("Scan of {} failed: {}: {}", status.path, e.kind, e.message)
         }
     };
     let mut result = tool_ok(summary, &status);
-    if status.state == ScanState::Failed {
+    if status.state == JobState::Failed {
         result.is_error = Some(true);
     }
     result
+}
+
+fn verify_result(job: &VerifyJob, args: &VerifyArgs) -> CallToolResult {
+    let mut output = VerifyStatusOutput {
+        verify_id: job.id.clone(),
+        state: JobState::Running,
+        progress: job.progress.lock().unwrap().clone(),
+        summary: None,
+        source: None,
+        target: None,
+        items: None,
+        error: None,
+    };
+    let summary = match &*job.outcome.lock().unwrap() {
+        None => {
+            let p = output.progress.clone().unwrap_or_default();
+            format!(
+                "Verify {} is still running: {}/{} pairs, {} read. Call `verify` again with verify_id to follow it.",
+                job.id,
+                thousands(p.pairs_done),
+                thousands(p.pairs_total),
+                human_bytes(p.bytes_hashed)
+            )
+        }
+        Some(Err(e)) => {
+            output.state = JobState::Failed;
+            output.error = Some(e.clone());
+            let mut result = tool_ok(format!("Verify failed: {}: {}", e.kind, e.message), &output);
+            result.is_error = Some(true);
+            return result;
+        }
+        Some(Ok(report)) => {
+            let items: Vec<VerifyItem> = report
+                .items
+                .iter()
+                .filter(|i| args.statuses.is_empty() || args.statuses.contains(&i.status))
+                .cloned()
+                .collect();
+            let items_page = match page(&items, &args.page) {
+                Ok(p) => p,
+                Err(e) => return tool_error(&e),
+            };
+            let s = &report.summary;
+            let problems = s.mismatch.files + s.unreadable.files;
+            let text = format!(
+                "{} pairs verified identical ({}), {} mismatch, {} unreadable, {} source files had no match on the target. {}{}",
+                thousands(s.verified.files),
+                human_bytes(s.verified.bytes),
+                thousands(s.mismatch.files),
+                thousands(s.unreadable.files),
+                thousands(s.not_found_on_target.files),
+                if problems > 0 {
+                    "Do NOT delete the files that did not verify."
+                } else {
+                    "All matched pairs are byte-identical."
+                },
+                more_note(&items_page)
+            );
+            output.state = JobState::Done;
+            output.summary = Some(report.summary);
+            output.source = Some(report.source.clone());
+            output.target = Some(report.target.clone());
+            output.items = Some(items_page);
+            text
+        }
+    };
+    tool_ok(summary, &output)
 }
 
 /// Open a saved index for compare. A folder argument is refused (scan it

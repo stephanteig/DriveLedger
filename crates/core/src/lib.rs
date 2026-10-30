@@ -9,6 +9,7 @@
 pub mod compare;
 pub mod duplicates;
 pub mod error;
+pub mod export;
 pub mod fingerprint;
 pub mod index;
 pub mod library;
@@ -18,6 +19,7 @@ pub mod resolve;
 pub mod scan;
 pub mod search;
 pub mod settings;
+pub mod verify;
 pub mod volume;
 
 pub use compare::{
@@ -36,6 +38,7 @@ pub use resolve::{IndexArg, LiveOptions, OpenedIndex, classify_arg, open_or_scan
 pub use scan::{ScanOptions, ScanOutcome, ScanProgress, ScanStats, SkipList, scan_to_library};
 pub use search::{SearchHit, SearchQuery, search};
 pub use settings::Settings;
+pub use verify::{VerifyOptions, VerifyReport, VerifyStatus, verify};
 pub use volume::{SystemProbe, VolumeInfo, VolumeProbe};
 
 /// Version of the tool, recorded in every index it writes.

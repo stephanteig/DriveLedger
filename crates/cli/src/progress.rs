@@ -70,6 +70,29 @@ impl Reporter {
         let _ = stderr.flush();
     }
 
+    pub fn update_verify(&self, p: &driveledger_core::verify::VerifyProgress) {
+        if !self.enabled {
+            return;
+        }
+        let mut last = self.last.lock().unwrap();
+        let now = Instant::now();
+        if last.is_some_and(|t| now.duration_since(t) < INTERVAL) {
+            return;
+        }
+        *last = Some(now);
+        let mut stderr = std::io::stderr().lock();
+        let _ = write!(
+            stderr,
+            "\r\x1b[2K{} · {}/{} pairs · {} read  {}",
+            self.label,
+            thousands(p.pairs_done),
+            thousands(p.pairs_total),
+            human_bytes(p.bytes_hashed),
+            p.current_path
+        );
+        let _ = stderr.flush();
+    }
+
     /// Clear the progress line.
     pub fn finish(&self) {
         if self.enabled && self.last.lock().unwrap().is_some() {

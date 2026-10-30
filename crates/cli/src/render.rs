@@ -572,6 +572,76 @@ pub fn overview(folders: &[FolderStat], style: &Style) -> String {
     table.render(style)
 }
 
+pub fn verify(report: &driveledger_core::VerifyReport, style: &Style) -> String {
+    use driveledger_core::VerifyStatus;
+    let mut out = index_line(
+        "Source",
+        &report.source.volume_name,
+        &report.source.root_path,
+        &report.source.scanned_at,
+        report.source.file_count,
+    );
+    out.push_str(&index_line(
+        "Target",
+        &report.target.volume_name,
+        &report.target.root_path,
+        &report.target.scanned_at,
+        report.target.file_count,
+    ));
+    out.push('\n');
+    let s = &report.summary;
+    let mut table = Table::new(&[
+        ("RESULT", Align::Left),
+        ("FILES", Align::Right),
+        ("SIZE", Align::Right),
+    ]);
+    for (label, totals, color) in [
+        ("verified", s.verified, Color::Cyan),
+        ("mismatch", s.mismatch, Color::Amber),
+        ("unreadable", s.unreadable, Color::Magenta),
+        (
+            "not on target (not verified)",
+            s.not_found_on_target,
+            Color::Dim,
+        ),
+    ] {
+        table.row(vec![
+            colored(label, color),
+            thousands(totals.files).into(),
+            human_bytes(totals.bytes).into(),
+        ]);
+    }
+    out.push_str(&table.render(style));
+    let problems: Vec<_> = report
+        .items
+        .iter()
+        .filter(|i| i.status != VerifyStatus::Verified)
+        .collect();
+    if !problems.is_empty() {
+        out.push('\n');
+        for item in problems {
+            let color = if item.status == VerifyStatus::Mismatch {
+                Color::Amber
+            } else {
+                Color::Magenta
+            };
+            let _ = writeln!(
+                out,
+                "{}  {:>9}  {}  ↔ {}{}",
+                style.paint(&format!("{:<10}", item.status.as_str()), color),
+                human_bytes(item.size),
+                item.source_path,
+                item.target_path,
+                item.message
+                    .as_deref()
+                    .map(|m| format!("  [{m}]"))
+                    .unwrap_or_default()
+            );
+        }
+    }
+    out
+}
+
 pub fn config(settings: &Settings, library: &std::path::Path) -> String {
     let path = Settings::path()
         .map(|p| p.display().to_string())

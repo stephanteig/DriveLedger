@@ -247,6 +247,10 @@ impl Index {
         &self.conn
     }
 
+    pub(crate) fn conn_mut(&mut self) -> &mut Connection {
+        &mut self.conn
+    }
+
     /// Path of the index file, `None` for in-memory indexes.
     pub fn path(&self) -> Option<&Path> {
         self.path.as_deref()
