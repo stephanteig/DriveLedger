@@ -16,7 +16,7 @@ use std::time::Duration;
 
 use std::io::Write as _;
 
-use anyhow::{Context, bail};
+use anyhow::Context;
 use clap::{Args, Parser, Subcommand};
 use driveledger_core::compare::{CompareOptions, Status};
 use driveledger_core::export;
@@ -433,7 +433,7 @@ fn run(cli: Cli) -> anyhow::Result<()> {
             let index = Index::open(&entry.path)?;
             let mut writer: Box<dyn std::io::Write> = match &out {
                 Some(path) => {
-                    refuse_inside_scanned_root(path, &entry.info.root_path)?;
+                    export::ensure_outside_scanned_roots(path, &[&entry.info.root_path])?;
                     Box::new(std::io::BufWriter::new(
                         std::fs::File::create(path)
                             .with_context(|| format!("creating {}", path.display()))?,
@@ -505,25 +505,6 @@ impl std::fmt::Display for VerifyFailed {
 }
 
 impl std::error::Error for VerifyFailed {}
-
-/// DriveLedger never writes to a scanned drive, so an export into the
-/// scanned folder is refused.
-fn refuse_inside_scanned_root(out: &Path, root: &str) -> anyhow::Result<()> {
-    let parent = out
-        .parent()
-        .filter(|p| !p.as_os_str().is_empty())
-        .unwrap_or(Path::new("."));
-    let resolved = parent
-        .canonicalize()
-        .with_context(|| format!("output folder {}", parent.display()))?;
-    if resolved.starts_with(root) {
-        bail!(
-            "refusing to write {} inside the scanned folder {root}; DriveLedger never writes to scanned drives",
-            out.display()
-        );
-    }
-    Ok(())
-}
 
 fn print_json<T: Serialize>(value: &T) -> anyhow::Result<()> {
     println!("{}", serde_json::to_string_pretty(value)?);

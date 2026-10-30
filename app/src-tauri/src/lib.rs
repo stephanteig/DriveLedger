@@ -18,6 +18,11 @@ pub fn run() {
             commands::list_saved_indexes,
             commands::start_scan,
             commands::cancel_scan,
+            commands::compare,
+            commands::export_compare,
+            commands::verify,
+            commands::search_files,
+            commands::is_available,
         ])
         .run(tauri::generate_context!())
         .expect("error while running DriveLedger");
