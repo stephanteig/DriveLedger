@@ -13,6 +13,7 @@ use std::time::{SystemTime, UNIX_EPOCH};
 
 use chrono::{Local, SecondsFormat, Utc};
 use rayon::prelude::*;
+use schemars::JsonSchema;
 use serde::{Deserialize, Serialize};
 use unicode_normalization::UnicodeNormalization;
 use walkdir::WalkDir;
@@ -25,7 +26,7 @@ use crate::volume::{VolumeInfo, VolumeProbe};
 
 /// Names that are never indexed. Matching entries are skipped entirely
 /// (including everything below a matching folder).
-#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 pub struct SkipList {
     /// Exact file or folder names.
     pub names: Vec<String>,
@@ -113,7 +114,7 @@ impl ScanOptions {
 }
 
 /// Which stage a scan is in.
-#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 #[serde(rename_all = "snake_case")]
 pub enum ScanPhase {
     Walking,
@@ -123,7 +124,7 @@ pub enum ScanPhase {
 }
 
 /// A progress update, delivered through the callback passed to the scan.
-#[derive(Debug, Clone, Serialize, Deserialize)]
+#[derive(Debug, Clone, Serialize, Deserialize, JsonSchema)]
 pub struct ScanProgress {
     pub phase: ScanPhase,
     /// Files found by the walk so far.
@@ -140,7 +141,7 @@ pub struct ScanProgress {
 pub type ProgressFn<'a> = &'a (dyn Fn(&ScanProgress) + Sync);
 
 /// Counters describing how a scan did its work.
-#[derive(Debug, Clone, Default, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, Default, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 pub struct ScanStats {
     /// Files fingerprinted by reading their content.
     pub files_hashed: u64,
@@ -152,7 +153,7 @@ pub struct ScanStats {
 }
 
 /// Result of [`scan_to_library`].
-#[derive(Debug, Clone, Serialize, Deserialize)]
+#[derive(Debug, Clone, Serialize, Deserialize, JsonSchema)]
 pub struct ScanOutcome {
     pub index_path: PathBuf,
     pub info: ScanInfo,

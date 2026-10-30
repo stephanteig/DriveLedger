@@ -2,6 +2,7 @@
 
 use std::path::{Path, PathBuf};
 
+use schemars::JsonSchema;
 use serde::{Deserialize, Serialize};
 
 use crate::error::{Error, Result};
@@ -9,7 +10,7 @@ use crate::index::{INDEX_SUFFIX, Index, ScanInfo};
 use crate::volume::{VolumeInfo, VolumeProbe, list_volumes};
 
 /// A finished index found in the library.
-#[derive(Debug, Clone, Serialize, Deserialize)]
+#[derive(Debug, Clone, Serialize, Deserialize, JsonSchema)]
 pub struct IndexEntry {
     pub path: PathBuf,
     pub info: ScanInfo,
@@ -43,7 +44,7 @@ impl IndexEntry {
 }
 
 /// Flat description of a saved index, as shown by `list` and `list_indexes`.
-#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 pub struct IndexSummary {
     /// File name without `.dlidx.sqlite`; accepted wherever an index is
     /// expected.
@@ -60,7 +61,7 @@ pub struct IndexSummary {
 }
 
 /// A mounted volume and the indexes the library holds for it.
-#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 pub struct VolumeStatus {
     pub volume: VolumeInfo,
     pub index_count: usize,
@@ -109,6 +110,25 @@ fn relative_root(info: &ScanInfo) -> PathBuf {
         .strip_prefix(&info.mount_point)
         .map(Path::to_path_buf)
         .unwrap_or_else(|_| PathBuf::from(&info.root_path))
+}
+
+/// An index given as a file path or an ID. Folders are refused: they need a
+/// scan first.
+pub fn resolve_index_entry(library: &Path, arg: &str) -> Result<IndexEntry> {
+    let path = Path::new(arg);
+    if path.is_file() {
+        let info = Index::open(path)?.scan_info()?;
+        return Ok(IndexEntry {
+            path: path.to_path_buf(),
+            info,
+        });
+    }
+    if path.is_dir() {
+        return Err(Error::InvalidArgument(format!(
+            "`{arg}` is a folder, not an index; scan it first"
+        )));
+    }
+    find_index(library, arg)
 }
 
 /// Find an index by ID (exact, or a unique prefix).

@@ -7,12 +7,13 @@
 use std::path::{Path, PathBuf};
 use std::process::Command;
 
+use schemars::JsonSchema;
 use serde::{Deserialize, Serialize};
 
 use crate::error::{Error, Result};
 
 /// Identity of a mounted volume.
-#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 pub struct VolumeInfo {
     pub name: String,
     pub uuid: Option<String>,
@@ -109,10 +110,10 @@ pub fn list_volumes(probe: &dyn VolumeProbe) -> Vec<VolumeInfo> {
             if !is_dir || !is_mount_point(&path) {
                 continue;
             }
-            if let Ok(info) = probe.probe(&path) {
-                if !volumes.iter().any(|v| v.mount_point == info.mount_point) {
-                    volumes.push(info);
-                }
+            if let Ok(info) = probe.probe(&path)
+                && !volumes.iter().any(|v| v.mount_point == info.mount_point)
+            {
+                volumes.push(info);
             }
         }
     }

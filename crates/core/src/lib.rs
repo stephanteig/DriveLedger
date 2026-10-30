@@ -7,6 +7,7 @@
 //! performs are index files inside the user-chosen library folder.
 
 pub mod compare;
+pub mod duplicates;
 pub mod error;
 pub mod fingerprint;
 pub mod index;
@@ -23,10 +24,12 @@ pub use compare::{
     CompareOptions, CompareResult, CompareSummary, FileComparison, Hint, Side, Status, compare,
     compare_with_live_target,
 };
+pub use duplicates::{DuplicateGroup, find_duplicates};
 pub use error::{Error, Result};
 pub use index::{FileRecord, FingerprintKind, Index, ScanError, ScanInfo};
 pub use library::{
-    IndexEntry, IndexSummary, VolumeStatus, find_index, list_indexes, volume_statuses,
+    IndexEntry, IndexSummary, VolumeStatus, find_index, list_indexes, resolve_index_entry,
+    volume_statuses,
 };
 pub use overview::{FolderStat, folder_overview};
 pub use resolve::{IndexArg, LiveOptions, OpenedIndex, classify_arg, open_or_scan};

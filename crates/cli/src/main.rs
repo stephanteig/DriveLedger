@@ -5,6 +5,7 @@
 //!
 //! Exit codes: 0 success, 1 error, 2 usage error, 3 target unavailable.
 
+mod mcp;
 mod progress;
 mod render;
 
@@ -12,7 +13,7 @@ use std::path::{Path, PathBuf};
 use std::process::ExitCode;
 use std::time::Duration;
 
-use anyhow::{Context, bail};
+use anyhow::Context;
 use clap::{Args, Parser, Subcommand};
 use driveledger_core::compare::{CompareOptions, Status};
 use driveledger_core::paging::paginate;
@@ -127,6 +128,12 @@ enum Command {
         #[command(flatten)]
         out: Output,
     },
+    /// Run the MCP server (stdio by default) so any MCP client can query DriveLedger.
+    Mcp {
+        /// Serve Streamable HTTP on this loopback address instead, e.g. 127.0.0.1:7341.
+        #[arg(long, value_name = "ADDR")]
+        http: Option<std::net::SocketAddr>,
+    },
     /// Show settings, or save a default library folder.
     Config {
         /// Save this folder as the default library.
@@ -154,6 +161,7 @@ impl Command {
             | Command::Search { out, .. }
             | Command::Overview { out, .. }
             | Command::Config { out, .. } => out.json,
+            Command::Mcp { .. } => false,
         }
     }
 }
@@ -289,8 +297,8 @@ fn run(cli: Cli) -> anyhow::Result<()> {
             } else {
                 indexes
                     .iter()
-                    .map(|arg| resolve_index_entry(&library, arg))
-                    .collect::<anyhow::Result<_>>()?
+                    .map(|arg| driveledger_core::resolve_index_entry(&library, arg))
+                    .collect::<driveledger_core::Result<_>>()?
             };
             let hits = search(
                 &entries,
@@ -321,13 +329,22 @@ fn run(cli: Cli) -> anyhow::Result<()> {
             subpath,
             out,
         } => {
-            let entry = resolve_index_entry(&library, &index)?;
+            let entry = driveledger_core::resolve_index_entry(&library, &index)?;
             let folders = folder_overview(&Index::open(&entry.path)?, depth, subpath.as_deref())?;
             if out.json {
                 print_json(&folders)
             } else {
                 print!("{}", render::overview(&folders, &style));
                 Ok(())
+            }
+        }
+
+        Command::Mcp { http } => {
+            let server = mcp::DriveLedgerMcp::new(library, settings);
+            let runtime = tokio::runtime::Runtime::new()?;
+            match http {
+                Some(addr) => runtime.block_on(mcp::serve_http(server, addr)),
+                None => runtime.block_on(mcp::serve_stdio(server)),
             }
         }
 
@@ -357,22 +374,6 @@ fn run(cli: Cli) -> anyhow::Result<()> {
             }
         }
     }
-}
-
-/// An index given as a file path or an ID.
-fn resolve_index_entry(library: &Path, arg: &str) -> anyhow::Result<driveledger_core::IndexEntry> {
-    let path = Path::new(arg);
-    if path.is_file() {
-        let info = Index::open(path)?.scan_info()?;
-        return Ok(driveledger_core::IndexEntry {
-            path: path.to_path_buf(),
-            info,
-        });
-    }
-    if path.is_dir() {
-        bail!("`{arg}` is a folder; this command needs an index (scan it first)");
-    }
-    Ok(driveledger_core::find_index(library, arg)?)
 }
 
 fn print_json<T: Serialize>(value: &T) -> anyhow::Result<()> {

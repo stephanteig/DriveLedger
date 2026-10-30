@@ -31,6 +31,16 @@ into the library first (`--reuse` reuses a scan younger than 24 h). Every comman
 The library defaults to `~/Documents/DriveLedger Library` and can be changed with `--library`,
 `DRIVELEDGER_LIBRARY` or `driveledger config --set-library`.
 
+## MCP
+
+```bash
+claude mcp add driveledger -- driveledger mcp      # Claude Code, stdio
+driveledger mcp --http 127.0.0.1:7341              # Streamable HTTP, loopback only
+```
+
+Setup for Claude Desktop, Cursor, Codex CLI, Gemini CLI and generic clients is in
+[docs/mcp.md](docs/mcp.md).
+
 ## Build
 
 ```bash

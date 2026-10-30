@@ -3,6 +3,7 @@
 use chrono::{DateTime, NaiveDate, Utc};
 use globset::{GlobBuilder, GlobMatcher};
 use rusqlite::types::Value;
+use schemars::JsonSchema;
 use serde::{Deserialize, Serialize};
 use unicode_normalization::UnicodeNormalization;
 
@@ -11,7 +12,7 @@ use crate::index::{FileRecord, Index, file_from_row};
 use crate::library::IndexEntry;
 
 /// Search criteria. All set fields must match.
-#[derive(Debug, Clone, Default, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, Default, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 #[serde(default)]
 pub struct SearchQuery {
     /// Case-insensitive substring of the NFC path.
@@ -32,7 +33,7 @@ pub struct SearchQuery {
 }
 
 /// One matching file and the index it was found in.
-#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 pub struct SearchHit {
     pub index_id: String,
     pub volume_name: String,
@@ -144,10 +145,10 @@ impl CompiledQuery {
     }
 
     fn matches(&self, file: &FileRecord) -> bool {
-        if let Some(text) = &self.text {
-            if !file.rel_path_nfc.to_lowercase().contains(text.as_str()) {
-                return false;
-            }
+        if let Some(text) = &self.text
+            && !file.rel_path_nfc.to_lowercase().contains(text.as_str())
+        {
+            return false;
         }
         if let Some((glob, full_path)) = &self.glob {
             let subject = if *full_path {
