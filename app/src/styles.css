@@ -1,0 +1,79 @@
+@import "tailwindcss";
+
+/* Fonts are bundled locally (SIL OFL, see assets/fonts/LICENSE-*). */
+@font-face { font-family: "Space Grotesk"; font-weight: 400; font-display: swap; src: url("./assets/fonts/space-grotesk-latin-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "Space Grotesk"; font-weight: 500; font-display: swap; src: url("./assets/fonts/space-grotesk-latin-500-normal.woff2") format("woff2"); }
+@font-face { font-family: "Space Grotesk"; font-weight: 600; font-display: swap; src: url("./assets/fonts/space-grotesk-latin-600-normal.woff2") format("woff2"); }
+@font-face { font-family: "Space Grotesk"; font-weight: 700; font-display: swap; src: url("./assets/fonts/space-grotesk-latin-700-normal.woff2") format("woff2"); }
+@font-face { font-family: "JetBrains Mono"; font-weight: 400; font-display: swap; src: url("./assets/fonts/jetbrains-mono-latin-400-normal.woff2") format("woff2"); }
+@font-face { font-family: "JetBrains Mono"; font-weight: 500; font-display: swap; src: url("./assets/fonts/jetbrains-mono-latin-500-normal.woff2") format("woff2"); }
+
+/* Design tokens (CLAUDE.md, UI & Design). Dark is the only theme in v1. */
+@theme {
+  --color-bg: #0b0d12;
+  --color-surface: #12151c;
+  --color-surface-2: #1a1e27;
+  --color-border: #262b36;
+  --color-text: #e6e9ef;
+  --color-muted: #8b93a4;
+  --color-faint: #5b6375;
+
+  --color-cyan: #22d3ee;
+  --color-violet: #a78bfa;
+  --color-amber: #fbbf24;
+  --color-magenta: #f472b6;
+
+  --font-sans: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+
+:root {
+  color-scheme: dark;
+  /* Status colours, also used by components outside Tailwind classes. */
+  --status-present: var(--color-cyan);
+  --status-present-elsewhere: var(--color-violet);
+  --status-only-in-bundle: var(--color-violet);
+  --status-same-name-different-content: var(--color-amber);
+  --status-missing: var(--color-magenta);
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+  font-size: 13px;
+  -webkit-font-smoothing: antialiased;
+  user-select: none;
+  cursor: default;
+}
+
+/* Paths, sizes and hashes are selectable so they can be copied. */
+.mono {
+  font-family: var(--font-mono);
+  font-feature-settings: "zero" 1;
+  user-select: text;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-thumb { background: var(--color-border); border-radius: 5px; border: 2px solid var(--color-bg); }
+::-webkit-scrollbar-track { background: transparent; }
+
+/* A faint grid behind the content area, for the technical look. */
+.grid-bg {
+  background-image:
+    linear-gradient(to right, rgb(38 43 54 / 0.35) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(38 43 54 / 0.35) 1px, transparent 1px);
+  background-size: 32px 32px;
+  background-position: -1px -1px;
+}
