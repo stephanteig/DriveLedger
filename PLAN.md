@@ -11,7 +11,7 @@
 - [x] Phase 4: CLI
 - [x] Phase 5: MCP server
 - [x] Phase 6: Verify and export
-- [ ] Phase 7: Tauri app (shell and drives/scan)
+- [x] Phase 7: Tauri app (shell and drives/scan)
 - [ ] Phase 8: Tauri app (compare and search)
 - [ ] Phase 9: Real-world acceptance and release prep
 

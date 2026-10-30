@@ -17,6 +17,17 @@ jobs:
         with:
           components: rustfmt, clippy
       - uses: Swatinem/rust-cache@v2
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: app/package-lock.json
+      # The Tauri crate embeds the built frontend, so build it before cargo.
+      - name: Frontend
+        working-directory: app
+        run: |
+          npm ci
+          npm run build
       - name: Format
         run: cargo fmt --all --check
       - name: Clippy
