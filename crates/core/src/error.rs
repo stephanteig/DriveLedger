@@ -24,9 +24,10 @@ pub enum Error {
     #[error("scan root {0} does not exist or is not a directory")]
     InvalidRoot(PathBuf),
 
-    /// The target of a comparison is not mounted or not readable. Callers must
-    /// surface this instead of reporting every file as missing.
-    #[error("target {0} is not mounted or not readable")]
+    /// A live path (usually a comparison target) is not mounted or not
+    /// readable. Callers must surface this instead of reporting every file as
+    /// missing.
+    #[error("{0} is not mounted or not readable; connect the drive and try again")]
     TargetUnavailable(PathBuf),
 
     #[error("index {path} has schema version {found}, this build supports {supported}")]

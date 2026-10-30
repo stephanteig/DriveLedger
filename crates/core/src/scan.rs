@@ -171,6 +171,10 @@ pub fn scan_to_library(
     probe: &dyn VolumeProbe,
     progress: ProgressFn<'_>,
 ) -> Result<ScanOutcome> {
+    // An unmounted drive can leave an empty `/Volumes/<name>` folder behind.
+    // Scanning it would produce an empty index that makes every file look
+    // missing in a later compare, so refuse it up front.
+    crate::volume::ensure_available(root)?;
     let root = canonical_root(root)?;
     ensure_library_outside_root(library, &root)?;
     std::fs::create_dir_all(library).map_err(|e| Error::io(library, e))?;
