@@ -125,3 +125,64 @@ fn config_saves_library() {
     assert_eq!(body["library"], chosen.to_str().unwrap());
     assert!(env.config.join("settings.json").is_file());
 }
+
+#[test]
+fn verify_and_export() {
+    let env = setup();
+    let src = index_id(&env.json(&["scan", env.source.to_str().unwrap(), "--json"]));
+    let tgt = index_id(&env.json(&["scan", env.target.to_str().unwrap(), "--json"]));
+
+    let report = env.json(&["verify", &src, &tgt, "--json"]);
+    assert_eq!(report["summary"]["verified"]["files"], 2);
+    assert_eq!(report["summary"]["not_found_on_target"]["files"], 2);
+
+    let tsv = env.run(&["export", &tgt, "--tsv"]);
+    assert!(tsv.status.success());
+    let tsv = String::from_utf8(tsv.stdout).unwrap();
+    let lines: Vec<&str> = tsv.lines().collect();
+    assert_eq!(lines[0], "size_mb\tmodified\tpath");
+    assert_eq!(lines.len(), 4);
+    assert!(lines.iter().any(|l| l.ends_with("\tOther/SW-FX30001.MP4")));
+
+    let json = env.json(&["export", &tgt, "--json"]);
+    assert_eq!(json["files"].as_array().unwrap().len(), 3);
+
+    let overview = env.run(&["overview", &tgt, "--tsv", "--depth", "1"]);
+    let overview = String::from_utf8(overview.stdout).unwrap();
+    assert_eq!(overview.lines().next(), Some("size\tfiles\tpath"));
+    assert!(overview.contains("\t2 files\tHYSJ"));
+}
+
+#[test]
+fn export_refuses_to_write_into_the_scanned_folder() {
+    let env = setup();
+    let tgt = index_id(&env.json(&["scan", env.target.to_str().unwrap(), "--json"]));
+    let inside = env.target.join("HYSJ/list.tsv");
+    let out = env.run(&["export", &tgt, "--tsv", "--out", inside.to_str().unwrap()]);
+    assert_eq!(out.status.code(), Some(1));
+    assert!(String::from_utf8_lossy(&out.stderr).contains("never writes to scanned drives"));
+    assert!(!inside.exists());
+
+    let outside = env.library.join("list.tsv");
+    let out = env.run(&["export", &tgt, "--tsv", "--out", outside.to_str().unwrap()]);
+    assert!(out.status.success());
+    assert!(outside.is_file());
+}
+
+#[test]
+fn verify_exits_4_when_a_pair_differs() {
+    // Same size and same three 1 MiB samples, one byte different in a gap.
+    let env = setup();
+    let mib = 1024 * 1024;
+    let mut data = common::bytes(6 * mib, 13);
+    common::write(&env.source, "big/almost.MP4", &data);
+    data[mib + mib / 2] ^= 0xFF;
+    common::write(&env.target, "big/almost.MP4", &data);
+    let src = index_id(&env.json(&["scan", env.source.to_str().unwrap(), "--json"]));
+    let tgt = index_id(&env.json(&["scan", env.target.to_str().unwrap(), "--json"]));
+
+    let out = env.run(&["verify", &src, &tgt, "--path", "big/almost.MP4"]);
+    assert_eq!(out.status.code(), Some(4));
+    let text = String::from_utf8(out.stdout).unwrap();
+    assert!(text.contains("mismatch"), "{text}");
+}

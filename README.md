@@ -20,13 +20,17 @@ Work in progress (v1.0.0 MVP). See `PLAN.md` for the implementation plan.
 driveledger scan "/Volumes/HYSJ-2026_1/untitled folder2/HYSJ"
 driveledger compare "/Volumes/HYSJ-2026_1/untitled folder2/HYSJ" /Volumes/ByHola_1
 driveledger compare <source-id> <target-id> --status missing --json
+driveledger verify <source-id> <target-id> [--subpath P]   # full hash before deleting
+driveledger export <id> --tsv [--out list.tsv]             # like filliste.sh
+driveledger overview <id> --tsv                            # like mapper.sh
 driveledger list | volumes | search <text> [--glob 'SW-FX3*.MP4'] | overview <id>
 driveledger config --set-library ~/Documents/DriveLedger\ Library
 ```
 
 `compare` accepts index files, index IDs (from `list`) or live folders; live folders are scanned
 into the library first (`--reuse` reuses a scan younger than 24 h). Every command supports
-`--json`. Exit codes: 0 ok, 1 error, 2 usage, 3 target not mounted.
+`--json`. Exit codes: 0 ok, 1 error, 2 usage, 3 target not mounted, 4 verify
+found differences.
 
 The library defaults to `~/Documents/DriveLedger Library` and can be changed with `--library`,
 `DRIVELEDGER_LIBRARY` or `driveledger config --set-library`.
