@@ -40,11 +40,37 @@ pub enum Error {
     #[error("{0} is not a DriveLedger index")]
     NotAnIndex(PathBuf),
 
+    #[error("no index `{0}` in the library")]
+    IndexNotFound(String),
+
+    #[error("`{0}` matches more than one index; use more of the ID")]
+    AmbiguousIndex(String),
+
+    #[error("invalid argument: {0}")]
+    InvalidArgument(String),
+
     #[error("scan was cancelled")]
     Cancelled,
 }
 
 impl Error {
+    /// Short machine-readable error kind for JSON output.
+    pub fn kind(&self) -> &'static str {
+        match self {
+            Error::Io { .. } => "io",
+            Error::Sqlite(_) => "index_database",
+            Error::LibraryInsideScanRoot { .. } => "library_inside_scan_root",
+            Error::InvalidRoot(_) => "invalid_root",
+            Error::TargetUnavailable(_) => "target_unavailable",
+            Error::UnsupportedSchema { .. } => "unsupported_schema",
+            Error::NotAnIndex(_) => "not_an_index",
+            Error::IndexNotFound(_) => "index_not_found",
+            Error::AmbiguousIndex(_) => "ambiguous_index",
+            Error::InvalidArgument(_) => "invalid_argument",
+            Error::Cancelled => "cancelled",
+        }
+    }
+
     pub(crate) fn io(path: impl Into<PathBuf>, source: std::io::Error) -> Self {
         Error::Io {
             path: path.into(),

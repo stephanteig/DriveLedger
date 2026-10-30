@@ -1,0 +1,25 @@
+---
+source: crates/cli/src/render.rs
+expression: "compare(&sample_result(), &DEFAULT_LISTED, &Style::plain())"
+---
+Source  HYSJ-2026_1 · /Volumes/HYSJ-2026_1/untitled folder2/HYSJ · scanned 2026-10-30 · 4 files
+Target  ByHola_1 · /Volumes/ByHola_1 · scanned 2026-10-30 · 12,000 files
+
+STATUS                        FILES      SIZE
+present                           1  812.0 MB
+present elsewhere                 1  120.0 KB
+only in bundle                    0       0 B
+same name, different content      1   1.78 GB
+missing                           1  36.70 GB
+content found                     2  812.1 MB
+content not found                 2  38.48 GB
+
+FILES      SIZE  PRESENT  ELSEWHERE  BUNDLE  DIFFERENT  MISSING  NOT FOUND SIZE  FOLDER
+    1  36.70 GB        ·          ·       ·          ·        1        36.70 GB  04_Partnere/Partnerslipp/Red-Bull
+
+FILES (3)
+elsewhere   120.0 KB  2026-06-02  04_Partnere/Logoer/cmyk_pos (1).pdf
+            120.0 KB  2026-08-07  → HYSJ/2026/04_Partnere/Logoer/cmyk_pos.pdf
+different    1.78 GB  2026-08-07  _SVAL/2027/SW-FX30157.MP4  [possibly truncated, target is newer]
+             2.42 GB  2026-08-07  ≠ SVAL/2027/SW-FX30157.MP4  (+1 more)
+missing     36.70 GB  2026-05-01  04_Partnere/Partnerslipp/Red-Bull/C0001.MP4

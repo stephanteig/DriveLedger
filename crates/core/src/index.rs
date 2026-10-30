@@ -241,6 +241,11 @@ impl Index {
         Ok(())
     }
 
+    /// Raw connection, for read queries in other core modules.
+    pub(crate) fn conn(&self) -> &Connection {
+        &self.conn
+    }
+
     /// Path of the index file, `None` for in-memory indexes.
     pub fn path(&self) -> Option<&Path> {
         self.path.as_deref()
