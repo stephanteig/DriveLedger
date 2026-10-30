@@ -1,0 +1,156 @@
+---
+source: crates/cli/src/render.rs
+expression: sample_result()
+---
+{
+  "source": {
+    "index_path": null,
+    "volume_name": "HYSJ-2026_1",
+    "root_path": "/Volumes/HYSJ-2026_1/untitled folder2/HYSJ",
+    "scanned_at": "2026-10-30T12:00:00Z",
+    "file_count": 4
+  },
+  "target": {
+    "index_path": null,
+    "volume_name": "ByHola_1",
+    "root_path": "/Volumes/ByHola_1",
+    "scanned_at": "2026-10-30T12:00:00Z",
+    "file_count": 12000
+  },
+  "source_subpath": null,
+  "summary": {
+    "total": {
+      "files": 4,
+      "bytes": 39296088960
+    },
+    "content_found": {
+      "files": 2,
+      "bytes": 812120000
+    },
+    "content_not_found": {
+      "files": 2,
+      "bytes": 38483848960
+    },
+    "by_status": {
+      "present": {
+        "files": 1,
+        "bytes": 812000000
+      },
+      "present_elsewhere": {
+        "files": 1,
+        "bytes": 120000
+      },
+      "only_in_bundle": {
+        "files": 0,
+        "bytes": 0
+      },
+      "same_name_different_content": {
+        "files": 1,
+        "bytes": 1783848960
+      },
+      "missing": {
+        "files": 1,
+        "bytes": 36700000000
+      }
+    }
+  },
+  "folders": [
+    {
+      "folder": "04_Partnere/Partnerslipp/Red-Bull",
+      "total": {
+        "files": 1,
+        "bytes": 36700000000
+      },
+      "by_status": {
+        "present": {
+          "files": 0,
+          "bytes": 0
+        },
+        "present_elsewhere": {
+          "files": 0,
+          "bytes": 0
+        },
+        "only_in_bundle": {
+          "files": 0,
+          "bytes": 0
+        },
+        "same_name_different_content": {
+          "files": 0,
+          "bytes": 0
+        },
+        "missing": {
+          "files": 1,
+          "bytes": 36700000000
+        }
+      }
+    }
+  ],
+  "files": [
+    {
+      "rel_path": "01_Artister/OdaRose/take1.mov",
+      "size": 812000000,
+      "modified": "2026-06-01T12:00:00Z",
+      "status": "present",
+      "target_locations": [
+        {
+          "rel_path": "HYSJ/2026/01_Artister/OdaRose/take1.mov",
+          "size": 812000000,
+          "modified": "2026-08-07T12:00:00Z",
+          "in_bundle": false
+        }
+      ],
+      "newer_side": null,
+      "hints": []
+    },
+    {
+      "rel_path": "04_Partnere/Logoer/cmyk_pos (1).pdf",
+      "size": 120000,
+      "modified": "2026-06-02T12:00:00Z",
+      "status": "present_elsewhere",
+      "target_locations": [
+        {
+          "rel_path": "HYSJ/2026/04_Partnere/Logoer/cmyk_pos.pdf",
+          "size": 120000,
+          "modified": "2026-08-07T12:00:00Z",
+          "in_bundle": false
+        }
+      ],
+      "newer_side": null,
+      "hints": []
+    },
+    {
+      "rel_path": "_SVAL/2027/SW-FX30157.MP4",
+      "size": 1783848960,
+      "modified": "2026-08-07T12:00:00Z",
+      "status": "same_name_different_content",
+      "target_locations": [
+        {
+          "rel_path": "SVAL/2027/SW-FX30157.MP4",
+          "size": 2416201903,
+          "modified": "2026-08-07T12:00:00Z",
+          "in_bundle": false
+        },
+        {
+          "rel_path": "Other/SW-FX30157.MP4",
+          "size": 900000000,
+          "modified": "2026-08-07T12:00:00Z",
+          "in_bundle": false
+        }
+      ],
+      "newer_side": "target",
+      "hints": [
+        "possibly_truncated"
+      ]
+    },
+    {
+      "rel_path": "04_Partnere/Partnerslipp/Red-Bull/C0001.MP4",
+      "size": 36700000000,
+      "modified": "2026-05-01T12:00:00Z",
+      "status": "missing",
+      "target_locations": [],
+      "newer_side": null,
+      "hints": []
+    }
+  ],
+  "warnings": []
+}

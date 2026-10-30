@@ -1,5 +1,426 @@
 //! `driveledger` command-line interface.
+//!
+//! A thin layer over `driveledger-core`: parse arguments, call core, print
+//! the result as a table or (with `--json`) as JSON on stdout.
+//!
+//! Exit codes: 0 success, 1 error, 2 usage error, 3 target unavailable.
 
-fn main() {
-    println!("driveledger {}", driveledger_core::TOOL_VERSION);
+mod progress;
+mod render;
+
+use std::path::{Path, PathBuf};
+use std::process::ExitCode;
+use std::time::Duration;
+
+use anyhow::{Context, bail};
+use clap::{Args, Parser, Subcommand};
+use driveledger_core::compare::{CompareOptions, Status};
+use driveledger_core::paging::paginate;
+use driveledger_core::{
+    Index, LiveOptions, SearchQuery, Settings, SystemProbe, folder_overview, list_indexes,
+    open_or_scan, scan_to_library, search, volume_statuses,
+};
+use serde::Serialize;
+
+use crate::render::Style;
+
+#[derive(Parser)]
+#[command(
+    name = "driveledger",
+    version,
+    about = "Read-only drive indexer and backup checker. Never writes to scanned drives."
+)]
+struct Cli {
+    /// Library folder for index files [env: DRIVELEDGER_LIBRARY]
+    /// [default: ~/Documents/DriveLedger Library]
+    #[arg(long, global = true, value_name = "DIR")]
+    library: Option<PathBuf>,
+
+    #[command(subcommand)]
+    command: Command,
+}
+
+#[derive(Subcommand)]
+enum Command {
+    /// Scan a drive or folder into a new index in the library.
+    Scan {
+        path: PathBuf,
+        /// Hash every file again instead of reusing unchanged fingerprints.
+        #[arg(long)]
+        full: bool,
+        #[command(flatten)]
+        out: Output,
+    },
+    /// Compare a source against a target: what from the source exists on the target?
+    ///
+    /// SOURCE and TARGET can each be an index file, an index ID (see `list`)
+    /// or a live folder, which is scanned into the library first.
+    Compare {
+        source: String,
+        target: String,
+        /// Only compare source files below this folder.
+        #[arg(long, value_name = "PATH")]
+        subpath: Option<String>,
+        /// Folder levels in the rollup.
+        #[arg(long, default_value_t = 3)]
+        depth: usize,
+        /// Statuses to list file by file (repeatable). Default: everything but `present`.
+        #[arg(long = "status", value_name = "STATUS", value_parser = parse_status)]
+        statuses: Vec<Status>,
+        /// For live folders, reuse an index of the same folder if it is recent enough.
+        #[arg(long)]
+        reuse: bool,
+        /// Maximum age in hours of an index reused by --reuse.
+        #[arg(long, default_value_t = 24, value_name = "HOURS")]
+        max_age: u64,
+        #[command(flatten)]
+        out: Output,
+    },
+    /// List saved indexes in the library.
+    List {
+        #[command(flatten)]
+        out: Output,
+    },
+    /// List mounted volumes and whether the library has indexes for them.
+    Volumes {
+        #[command(flatten)]
+        out: Output,
+    },
+    /// Search files across all indexes (or the ones given with --index).
+    Search {
+        /// Case-insensitive substring of the path.
+        query: Option<String>,
+        /// Glob on the file name (or the path, if it contains `/`), e.g. 'SW-FX3*.MP4'.
+        #[arg(long)]
+        glob: Option<String>,
+        /// Extension, repeatable.
+        #[arg(long = "ext", value_name = "EXT")]
+        extensions: Vec<String>,
+        /// Minimum size, e.g. 500M or 2G (decimal units).
+        #[arg(long, value_parser = parse_size)]
+        min_size: Option<u64>,
+        #[arg(long, value_parser = parse_size)]
+        max_size: Option<u64>,
+        /// Modified on or after this date (YYYY-MM-DD).
+        #[arg(long, value_name = "DATE")]
+        after: Option<String>,
+        /// Modified on or before this date (YYYY-MM-DD).
+        #[arg(long, value_name = "DATE")]
+        before: Option<String>,
+        /// Limit the search to these indexes (IDs or files), repeatable.
+        #[arg(long = "index", value_name = "INDEX")]
+        indexes: Vec<String>,
+        #[arg(long, default_value_t = 200)]
+        limit: usize,
+        #[arg(long)]
+        cursor: Option<String>,
+        #[command(flatten)]
+        out: Output,
+    },
+    /// Folder sizes and file counts of an index, a few levels deep.
+    Overview {
+        index: String,
+        #[arg(long, default_value_t = 4)]
+        depth: usize,
+        #[arg(long, value_name = "PATH")]
+        subpath: Option<String>,
+        #[command(flatten)]
+        out: Output,
+    },
+    /// Show settings, or save a default library folder.
+    Config {
+        /// Save this folder as the default library.
+        #[arg(long, value_name = "DIR")]
+        set_library: Option<PathBuf>,
+        #[command(flatten)]
+        out: Output,
+    },
+}
+
+#[derive(Args, Clone, Copy)]
+struct Output {
+    /// Print machine-readable JSON on stdout.
+    #[arg(long)]
+    json: bool,
+}
+
+impl Command {
+    fn json(&self) -> bool {
+        match self {
+            Command::Scan { out, .. }
+            | Command::Compare { out, .. }
+            | Command::List { out }
+            | Command::Volumes { out }
+            | Command::Search { out, .. }
+            | Command::Overview { out, .. }
+            | Command::Config { out, .. } => out.json,
+        }
+    }
+}
+
+fn main() -> ExitCode {
+    let cli = Cli::parse();
+    let json = cli.command.json();
+    match run(cli) {
+        Ok(()) => ExitCode::SUCCESS,
+        Err(err) => report_error(&err, json),
+    }
+}
+
+fn report_error(err: &anyhow::Error, json: bool) -> ExitCode {
+    let core = err.downcast_ref::<driveledger_core::Error>();
+    let kind = core.map(|e| e.kind()).unwrap_or("error");
+    if json {
+        let body = serde_json::json!({ "error": { "kind": kind, "message": format!("{err:#}") } });
+        println!("{}", serde_json::to_string_pretty(&body).unwrap());
+    } else {
+        eprintln!("error: {err:#}");
+    }
+    match core {
+        Some(driveledger_core::Error::TargetUnavailable(_)) => ExitCode::from(3),
+        _ => ExitCode::from(1),
+    }
+}
+
+fn run(cli: Cli) -> anyhow::Result<()> {
+    let settings = Settings::load()?;
+    let library = settings.resolve_library(cli.library.as_deref());
+    let style = Style::detect();
+
+    match cli.command {
+        Command::Scan { path, full, out } => {
+            let mut options = settings.scan_options();
+            options.incremental = !full;
+            let progress = progress::Reporter::new("scanning");
+            let outcome = scan_to_library(&path, &library, &options, &SystemProbe, &|p| {
+                progress.update(p)
+            })?;
+            progress.finish();
+            if out.json {
+                print_json(&outcome)
+            } else {
+                let errors = Index::open(&outcome.index_path)?.errors()?;
+                print!("{}", render::scan(&outcome, &errors, &style));
+                Ok(())
+            }
+        }
+
+        Command::Compare {
+            source,
+            target,
+            subpath,
+            depth,
+            statuses,
+            reuse,
+            max_age,
+            out,
+        } => {
+            let live = LiveOptions {
+                scan: settings.scan_options(),
+                reuse_max_age: reuse.then(|| Duration::from_secs(max_age * 3600)),
+            };
+            let open = |arg: &str, label: &str| {
+                let progress = progress::Reporter::new(&format!("scanning {label}"));
+                let opened =
+                    open_or_scan(arg, &library, &live, &SystemProbe, &|p| progress.update(p));
+                progress.finish();
+                opened.with_context(|| format!("{label} `{arg}`"))
+            };
+            // The target is resolved first so an unmounted drive fails fast,
+            // before a long scan of the source.
+            let target = open(&target, "target")?;
+            let source = open(&source, "source")?;
+            let options = CompareOptions {
+                source_subpath: subpath,
+                rollup_depth: depth,
+            };
+            let mut result = driveledger_core::compare(&source.index, &target.index, &options)?;
+            if out.json {
+                if !statuses.is_empty() {
+                    result.files.retain(|f| statuses.contains(&f.status));
+                }
+                print_json(&result)
+            } else {
+                let listed: &[Status] = if statuses.is_empty() {
+                    &render::DEFAULT_LISTED
+                } else {
+                    &statuses
+                };
+                print!("{}", render::compare(&result, listed, &style));
+                Ok(())
+            }
+        }
+
+        Command::List { out } => {
+            let indexes: Vec<_> = list_indexes(&library).iter().map(|e| e.summary()).collect();
+            if out.json {
+                print_json(&indexes)
+            } else {
+                print!("{}", render::list(&indexes, &style));
+                Ok(())
+            }
+        }
+
+        Command::Volumes { out } => {
+            let volumes = volume_statuses(&library, &SystemProbe);
+            if out.json {
+                print_json(&volumes)
+            } else {
+                print!("{}", render::volumes(&volumes, &style));
+                Ok(())
+            }
+        }
+
+        Command::Search {
+            query,
+            glob,
+            extensions,
+            min_size,
+            max_size,
+            after,
+            before,
+            indexes,
+            limit,
+            cursor,
+            out,
+        } => {
+            let entries = if indexes.is_empty() {
+                list_indexes(&library)
+            } else {
+                indexes
+                    .iter()
+                    .map(|arg| resolve_index_entry(&library, arg))
+                    .collect::<anyhow::Result<_>>()?
+            };
+            let hits = search(
+                &entries,
+                &SearchQuery {
+                    text: query,
+                    glob,
+                    extensions,
+                    min_size,
+                    max_size,
+                    modified_after: after,
+                    modified_before: before,
+                    fingerprint: None,
+                },
+            )?;
+            let page = paginate(&hits, Some(limit), cursor.as_deref())
+                .map_err(driveledger_core::Error::InvalidArgument)?;
+            if out.json {
+                print_json(&page)
+            } else {
+                print!("{}", render::search(&page, &style));
+                Ok(())
+            }
+        }
+
+        Command::Overview {
+            index,
+            depth,
+            subpath,
+            out,
+        } => {
+            let entry = resolve_index_entry(&library, &index)?;
+            let folders = folder_overview(&Index::open(&entry.path)?, depth, subpath.as_deref())?;
+            if out.json {
+                print_json(&folders)
+            } else {
+                print!("{}", render::overview(&folders, &style));
+                Ok(())
+            }
+        }
+
+        Command::Config { set_library, out } => {
+            let mut settings = settings;
+            if let Some(dir) = set_library {
+                let dir = std::path::absolute(&dir).with_context(|| dir.display().to_string())?;
+                settings.library = Some(dir);
+                settings.save()?;
+            }
+            let library = settings.resolve_library(cli.library.as_deref());
+            if out.json {
+                #[derive(Serialize)]
+                struct ConfigOut<'a> {
+                    settings_path: Option<PathBuf>,
+                    library: &'a Path,
+                    settings: &'a Settings,
+                }
+                print_json(&ConfigOut {
+                    settings_path: Settings::path(),
+                    library: &library,
+                    settings: &settings,
+                })
+            } else {
+                print!("{}", render::config(&settings, &library));
+                Ok(())
+            }
+        }
+    }
+}
+
+/// An index given as a file path or an ID.
+fn resolve_index_entry(library: &Path, arg: &str) -> anyhow::Result<driveledger_core::IndexEntry> {
+    let path = Path::new(arg);
+    if path.is_file() {
+        let info = Index::open(path)?.scan_info()?;
+        return Ok(driveledger_core::IndexEntry {
+            path: path.to_path_buf(),
+            info,
+        });
+    }
+    if path.is_dir() {
+        bail!("`{arg}` is a folder; this command needs an index (scan it first)");
+    }
+    Ok(driveledger_core::find_index(library, arg)?)
+}
+
+fn print_json<T: Serialize>(value: &T) -> anyhow::Result<()> {
+    println!("{}", serde_json::to_string_pretty(value)?);
+    Ok(())
+}
+
+fn parse_status(s: &str) -> Result<Status, String> {
+    s.parse()
+}
+
+/// Parse `1234`, `500K`, `2.5G`, `1TB` (decimal units) or `4MiB` (binary).
+fn parse_size(s: &str) -> Result<u64, String> {
+    let s = s.trim();
+    let split = s
+        .find(|c: char| !(c.is_ascii_digit() || c == '.'))
+        .unwrap_or(s.len());
+    let (number, unit) = s.split_at(split);
+    let value: f64 = number.parse().map_err(|_| format!("invalid size `{s}`"))?;
+    let multiplier: f64 = match unit.trim().to_ascii_lowercase().as_str() {
+        "" | "b" => 1.0,
+        "k" | "kb" => 1e3,
+        "m" | "mb" => 1e6,
+        "g" | "gb" => 1e9,
+        "t" | "tb" => 1e12,
+        "kib" => 1024.0,
+        "mib" => 1024.0 * 1024.0,
+        "gib" => 1024.0 * 1024.0 * 1024.0,
+        other => return Err(format!("unknown size unit `{other}`")),
+    };
+    Ok((value * multiplier).round() as u64)
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn sizes() {
+        assert_eq!(parse_size("1234").unwrap(), 1234);
+        assert_eq!(parse_size("2.5G").unwrap(), 2_500_000_000);
+        assert_eq!(parse_size("4MiB").unwrap(), 4 * 1024 * 1024);
+        assert!(parse_size("1X").is_err());
+    }
+
+    #[test]
+    fn cli_definition_is_valid() {
+        use clap::CommandFactory;
+        Cli::command().debug_assert();
+    }
 }

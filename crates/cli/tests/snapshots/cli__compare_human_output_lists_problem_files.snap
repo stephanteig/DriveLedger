@@ -1,0 +1,26 @@
+---
+source: crates/cli/tests/cli.rs
+expression: body
+---
+
+STATUS                        FILES     SIZE
+present                           1   5.0 KB
+present elsewhere                 1    800 B
+only in bundle                    0      0 B
+same name, different content      1   4.1 KB
+missing                           1   9.0 KB
+content found                     2   5.8 KB
+content not found                 2  13.1 KB
+
+FILES    SIZE  PRESENT  ELSEWHERE  BUNDLE  DIFFERENT  MISSING  NOT FOUND SIZE  FOLDER
+    1  5.0 KB        1          ·       ·          ·        ·               ·  01_Artister
+    1   800 B        ·          1       ·          ·        ·               ·  04_Partnere/Logoer
+    1  9.0 KB        ·          ·       ·          ·        1          9.0 KB  04_Partnere/Partnerslipp/Red-Bull
+    1  4.1 KB        ·          ·       ·          1        ·          4.1 KB  04_Partnere/Partnervideo
+
+FILES (3)
+elsewhere      800 B  2026-07-25  04_Partnere/Logoer/pos (1).pdf
+               800 B  2026-07-25  → HYSJ/2026/04_Partnere/Logoer/pos.pdf
+missing       9.0 KB  2026-07-25  04_Partnere/Partnerslipp/Red-Bull/C0001.MP4
+different     4.1 KB  2026-07-25  04_Partnere/Partnervideo/SW-FX30001.MP4  [same mtime]
+              4.1 KB  2026-07-25  ≠ Other/SW-FX30001.MP4
