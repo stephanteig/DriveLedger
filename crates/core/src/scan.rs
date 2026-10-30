@@ -5,6 +5,7 @@
 //! write goes to the index file, which is refused if it would land inside the
 //! scan root.
 
+use std::collections::HashMap;
 use std::path::{Path, PathBuf};
 use std::sync::Arc;
 use std::sync::atomic::{AtomicBool, AtomicU64, Ordering};
@@ -17,7 +18,9 @@ use unicode_normalization::UnicodeNormalization;
 use walkdir::WalkDir;
 
 use crate::error::{Error, Result};
-use crate::index::{FileRecord, INDEX_SUFFIX, Index, ScanError, ScanInfo};
+use crate::fingerprint;
+use crate::index::{FileRecord, FingerprintKind, INDEX_SUFFIX, Index, ScanError, ScanInfo};
+use crate::library::find_previous_index;
 use crate::volume::{VolumeInfo, VolumeProbe};
 
 /// Names that are never indexed. Matching entries are skipped entirely
@@ -77,6 +80,12 @@ pub struct ScanOptions {
     pub concurrency: Option<usize>,
     /// Set to `true` from another thread to stop the scan.
     pub cancel: Option<Arc<AtomicBool>>,
+    /// Reuse fingerprints from the newest earlier index of the same volume
+    /// and root in the library, for files whose path, size and mtime are
+    /// unchanged.
+    pub incremental: bool,
+    /// Use this index for reuse instead of searching the library.
+    pub previous_index: Option<PathBuf>,
 }
 
 impl Default for ScanOptions {
@@ -89,6 +98,8 @@ impl Default for ScanOptions {
                 .collect(),
             concurrency: None,
             cancel: None,
+            incremental: true,
+            previous_index: None,
         }
     }
 }
@@ -128,11 +139,24 @@ pub struct ScanProgress {
 /// Progress callback. Called from worker threads, so it must be `Sync`.
 pub type ProgressFn<'a> = &'a (dyn Fn(&ScanProgress) + Sync);
 
+/// Counters describing how a scan did its work.
+#[derive(Debug, Clone, Default, PartialEq, Eq, Serialize, Deserialize)]
+pub struct ScanStats {
+    /// Files fingerprinted by reading their content.
+    pub files_hashed: u64,
+    /// Files whose fingerprint was reused from the previous index.
+    pub files_reused: u64,
+    pub bytes_hashed: u64,
+    /// The index fingerprints were reused from, if any.
+    pub previous_index: Option<PathBuf>,
+}
+
 /// Result of [`scan_to_library`].
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct ScanOutcome {
     pub index_path: PathBuf,
     pub info: ScanInfo,
+    pub stats: ScanStats,
 }
 
 /// Scan `root` and write a new index file into `library`.
@@ -152,6 +176,18 @@ pub fn scan_to_library(
     std::fs::create_dir_all(library).map_err(|e| Error::io(library, e))?;
 
     let volume = probe.probe(&root)?;
+    let previous_path = match &options.previous_index {
+        Some(path) => Some(path.clone()),
+        None if options.incremental => {
+            find_previous_index(library, &volume, &root).map(|entry| entry.path)
+        }
+        None => None,
+    };
+    let previous = match &previous_path {
+        Some(path) => Some(Index::open(path)?),
+        None => None,
+    };
+
     let final_path = unique_index_path(library, &volume, &root);
     let partial_path = final_path.with_extension("partial");
     // A leftover partial file from a crashed run with the same timestamp
@@ -160,16 +196,27 @@ pub fn scan_to_library(
 
     let result = (|| {
         let mut index = Index::create(&partial_path)?;
-        let info = scan_into_index(&root, &volume, &mut index, options, progress)?;
+        let (info, mut stats) = scan_into_index(
+            &root,
+            &volume,
+            &mut index,
+            options,
+            previous.as_ref(),
+            progress,
+        )?;
         drop(index);
         std::fs::rename(&partial_path, &final_path).map_err(|e| Error::io(&final_path, e))?;
-        Ok(info)
+        if stats.files_reused > 0 {
+            stats.previous_index = previous_path.clone();
+        }
+        Ok((info, stats))
     })();
 
     match result {
-        Ok(info) => Ok(ScanOutcome {
+        Ok((info, stats)) => Ok(ScanOutcome {
             index_path: final_path,
             info,
+            stats,
         }),
         Err(e) => {
             let _ = std::fs::remove_file(&partial_path);
@@ -179,13 +226,15 @@ pub fn scan_to_library(
 }
 
 /// Scan `root` into an already-open (empty) index. `root` must be canonical.
+/// When `previous` is given, fingerprints of unchanged files are reused.
 pub fn scan_into_index(
     root: &Path,
     volume: &VolumeInfo,
     index: &mut Index,
     options: &ScanOptions,
+    previous: Option<&Index>,
     progress: ProgressFn<'_>,
-) -> Result<ScanInfo> {
+) -> Result<(ScanInfo, ScanStats)> {
     let mut info = ScanInfo {
         volume_name: volume.name.clone(),
         volume_uuid: volume.uuid.clone(),
@@ -201,6 +250,10 @@ pub fn scan_into_index(
     };
     index.write_scan_info(&info)?;
 
+    let reusable = match previous {
+        Some(prev) => reusable_fingerprints(prev)?,
+        None => HashMap::new(),
+    };
     let (candidates, mut errors) = walk(root, options, progress)?;
 
     let concurrency = options
@@ -215,26 +268,30 @@ pub fn scan_into_index(
     let files_seen = candidates.len() as u64;
     let files_done = AtomicU64::new(0);
     let bytes_hashed = AtomicU64::new(0);
-    let walk_errors = errors.len() as u64;
+    let error_count = AtomicU64::new(errors.len() as u64);
 
-    let results: Vec<std::result::Result<FileRecord, ScanError>> = pool.install(|| {
+    let results: Vec<Processed> = pool.install(|| {
         candidates
             .par_iter()
             .map(|candidate| {
                 if options.is_cancelled() {
-                    return Err(cancelled_marker());
+                    return Processed::default();
                 }
-                let result = process_file(candidate);
+                let processed = process_file(candidate, &reusable);
+                bytes_hashed.fetch_add(processed.bytes_read, Ordering::Relaxed);
+                if processed.error.is_some() {
+                    error_count.fetch_add(1, Ordering::Relaxed);
+                }
                 let done = files_done.fetch_add(1, Ordering::Relaxed) + 1;
                 progress(&ScanProgress {
                     phase: ScanPhase::Processing,
                     files_seen,
                     files_done: done,
                     bytes_hashed: bytes_hashed.load(Ordering::Relaxed),
-                    errors: walk_errors,
+                    errors: error_count.load(Ordering::Relaxed),
                     current_path: candidate.rel_path.clone(),
                 });
-                result
+                processed
             })
             .collect()
     });
@@ -242,12 +299,21 @@ pub fn scan_into_index(
         return Err(Error::Cancelled);
     }
 
+    let mut stats = ScanStats::default();
     let mut files = Vec::with_capacity(results.len());
-    for result in results {
-        match result {
-            Ok(file) => files.push(file),
-            Err(error) => errors.push(error),
+    for processed in results {
+        let fingerprinted = processed
+            .file
+            .as_ref()
+            .is_some_and(|f| f.fingerprint.is_some());
+        if processed.reused {
+            stats.files_reused += 1;
+        } else if fingerprinted {
+            stats.files_hashed += 1;
         }
+        stats.bytes_hashed += processed.bytes_read;
+        files.extend(processed.file);
+        errors.extend(processed.error);
     }
 
     progress(&ScanProgress {
@@ -275,7 +341,7 @@ pub fn scan_into_index(
         errors: info.error_count,
         current_path: String::new(),
     });
-    Ok(info)
+    Ok((info, stats))
 }
 
 /// A regular file found by the walk, not yet stat'ed or fingerprinted.
@@ -376,13 +442,61 @@ fn walk(
     Ok((candidates, errors))
 }
 
-/// Read metadata for one file and build its record.
-fn process_file(candidate: &Candidate) -> std::result::Result<FileRecord, ScanError> {
-    let meta = std::fs::symlink_metadata(&candidate.abs_path).map_err(|e| ScanError {
+/// Fingerprint data that may be carried over from a previous scan, keyed by
+/// the on-disk relative path.
+struct Reusable {
+    size: u64,
+    mtime: Option<i64>,
+    fingerprint: String,
+    full_hash: Option<String>,
+}
+
+fn reusable_fingerprints(previous: &Index) -> Result<HashMap<String, Reusable>> {
+    Ok(previous
+        .files()?
+        .into_iter()
+        .filter_map(|f| {
+            let fingerprint = f.fingerprint?;
+            Some((
+                f.rel_path,
+                Reusable {
+                    size: f.size,
+                    mtime: f.mtime,
+                    fingerprint,
+                    full_hash: f.full_hash,
+                },
+            ))
+        })
+        .collect())
+}
+
+/// Outcome of processing one file. A file that could be stat'ed but not
+/// read has both a record (without fingerprint) and an error.
+#[derive(Default)]
+struct Processed {
+    file: Option<FileRecord>,
+    error: Option<ScanError>,
+    reused: bool,
+    bytes_read: u64,
+}
+
+/// Read metadata for one file, fingerprint it (or reuse the previous
+/// fingerprint if path, size and mtime are unchanged) and build its record.
+fn process_file(candidate: &Candidate, reusable: &HashMap<String, Reusable>) -> Processed {
+    let error = |kind: &str, e: std::io::Error| ScanError {
         rel_path: candidate.rel_path.clone(),
-        kind: "metadata".into(),
+        kind: kind.into(),
         message: e.to_string(),
-    })?;
+    };
+    let meta = match std::fs::symlink_metadata(&candidate.abs_path) {
+        Ok(meta) => meta,
+        Err(e) => {
+            return Processed {
+                error: Some(error("metadata", e)),
+                ..Processed::default()
+            };
+        }
+    };
 
     let rel_path_nfc: String = candidate.rel_path.nfc().collect();
     let name_nfc = rel_path_nfc
@@ -395,28 +509,50 @@ fn process_file(candidate: &Candidate) -> std::result::Result<FileRecord, ScanEr
         .map(|e| e.to_string_lossy().to_lowercase())
         .unwrap_or_default();
 
-    Ok(FileRecord {
+    let size = meta.len();
+    let mtime = meta.modified().ok().and_then(system_time_to_nanos);
+
+    let mut processed = Processed::default();
+    let mut record = FileRecord {
         rel_path: candidate.rel_path.clone(),
         rel_path_nfc,
         name_nfc,
         ext,
-        size: meta.len(),
-        mtime: meta.modified().ok().and_then(system_time_to_nanos),
+        size,
+        mtime,
         ctime: meta.created().ok().and_then(system_time_to_nanos),
         in_bundle: candidate.in_bundle,
         fingerprint: None,
         fingerprint_kind: None,
         full_hash: None,
-    })
-}
+    };
 
-/// Placeholder error used to unwind the parallel stage on cancellation.
-fn cancelled_marker() -> ScanError {
-    ScanError {
-        rel_path: String::new(),
-        kind: "cancelled".into(),
-        message: "scan was cancelled".into(),
+    let previous = reusable
+        .get(&candidate.rel_path)
+        .filter(|prev| prev.size == size && prev.mtime.is_some() && prev.mtime == mtime);
+    match previous {
+        Some(prev) => {
+            record.fingerprint = Some(prev.fingerprint.clone());
+            record.full_hash = prev.full_hash.clone();
+            processed.reused = true;
+        }
+        None => match fingerprint::sample3(&candidate.abs_path) {
+            Ok(fp) => {
+                record.fingerprint = Some(fp.hex);
+                processed.bytes_read = fp.bytes_read;
+            }
+            Err(e) => processed.error = Some(error("read", e)),
+        },
     }
+    if record.fingerprint.is_some() {
+        record.fingerprint_kind = Some(if record.full_hash.is_some() {
+            FingerprintKind::Full
+        } else {
+            FingerprintKind::Sample3
+        });
+    }
+    processed.file = Some(record);
+    processed
 }
 
 fn default_concurrency(volume: &VolumeInfo) -> usize {
@@ -555,7 +691,7 @@ fn system_time_to_nanos(t: SystemTime) -> Option<i64> {
 }
 
 fn now_rfc3339() -> String {
-    Utc::now().to_rfc3339_opts(SecondsFormat::Secs, true)
+    Utc::now().to_rfc3339_opts(SecondsFormat::Millis, true)
 }
 
 #[cfg(test)]
