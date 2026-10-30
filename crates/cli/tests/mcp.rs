@@ -113,6 +113,13 @@ fn tools_are_listed_with_schemas_and_hints() {
             "verify",
         ]
     );
+    let text = tools.to_string();
+    for format in ["uint64", "uint", "int64", "double"] {
+        assert!(
+            !text.contains(&format!("\"format\":\"{format}\"")),
+            "non-standard format {format} in schemas"
+        );
+    }
     for tool in tools.as_array().unwrap() {
         let name = tool["name"].as_str().unwrap();
         assert_eq!(tool["inputSchema"]["type"], "object", "{name}");

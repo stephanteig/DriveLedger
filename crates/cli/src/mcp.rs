@@ -23,9 +23,10 @@ use driveledger_core::{
     VerifyStatus, VolumeStatus, classify_arg, find_duplicates, folder_overview, list_indexes,
     resolve_index_entry, scan_to_library, search, volume_statuses,
 };
-use rmcp::handler::server::common::schema_for_output;
+use rmcp::handler::server::common::{schema_for_output, schema_for_type};
 use rmcp::handler::server::router::tool::ToolRouter;
 use rmcp::handler::server::wrapper::Parameters;
+use rmcp::model::JsonObject;
 use rmcp::model::{CallToolResult, ContentBlock, Implementation, ServerCapabilities, ServerConfig};
 use rmcp::{ServerHandler, ServiceExt, tool, tool_handler, tool_router};
 use schemars::JsonSchema;
@@ -317,7 +318,8 @@ impl DriveLedgerMcp {
 
     #[tool(
         description = "List saved scans (indexes) in the library: volume, root path, scan date, file count and size. Index IDs from here are accepted by the other tools.",
-        output_schema = schema_for_output::<ListIndexesOutput>(),
+        input_schema = portable_input::<PageArgs>(),
+        output_schema = portable_output::<ListIndexesOutput>(),
         annotations(read_only_hint = true, open_world_hint = false)
     )]
     async fn list_indexes(&self, Parameters(args): Parameters<PageArgs>) -> CallToolResult {
@@ -339,7 +341,8 @@ impl DriveLedgerMcp {
 
     #[tool(
         description = "List mounted volumes (drives and network shares) and how many saved indexes each has. A volume with no recent index should be scanned before comparing.",
-        output_schema = schema_for_output::<ListVolumesOutput>(),
+        input_schema = portable_input::<EmptyArgs>(),
+        output_schema = portable_output::<ListVolumesOutput>(),
         annotations(read_only_hint = true, open_world_hint = false)
     )]
     async fn list_volumes(&self, Parameters(_): Parameters<EmptyArgs>) -> CallToolResult {
@@ -358,7 +361,8 @@ impl DriveLedgerMcp {
 
     #[tool(
         description = "Search files by name or path substring, glob, extension, size range or modification date, across all indexes or the ones given.",
-        output_schema = schema_for_output::<Page<SearchHit>>(),
+        input_schema = portable_input::<SearchArgs>(),
+        output_schema = portable_output::<Page<SearchHit>>(),
         annotations(read_only_hint = true, open_world_hint = false)
     )]
     async fn search_files(&self, Parameters(args): Parameters<SearchArgs>) -> CallToolResult {
@@ -392,7 +396,8 @@ impl DriveLedgerMcp {
 
     #[tool(
         description = "Folder tree of an index with total size and file count per folder, down to `depth` levels (default 4).",
-        output_schema = schema_for_output::<OverviewOutput>(),
+        input_schema = portable_input::<OverviewArgs>(),
+        output_schema = portable_output::<OverviewOutput>(),
         annotations(read_only_hint = true, open_world_hint = false)
     )]
     async fn folder_overview(&self, Parameters(args): Parameters<OverviewArgs>) -> CallToolResult {
@@ -425,7 +430,8 @@ impl DriveLedgerMcp {
 
     #[tool(
         description = "Compare a source index against a target index: for every source file, does identical CONTENT exist anywhere on the target? Matching is by content fingerprint regardless of folder structure, never by name. Statuses: present (same content, same name), present_elsewhere (same content, other name/path), only_in_bundle (same content only inside e.g. .dra/MediaFiles), same_name_different_content (a same-name file exists but is a different file, NOT a backup; has newer_side and possibly_truncated hints), missing (no identical content anywhere on the target). `summary.content_not_found` is what is not backed up. Both sides must be saved indexes; use `scan` first for drives without a recent index.",
-        output_schema = schema_for_output::<CompareOutput>(),
+        input_schema = portable_input::<CompareArgs>(),
+        output_schema = portable_output::<CompareOutput>(),
         annotations(read_only_hint = true, open_world_hint = false)
     )]
     async fn compare(&self, Parameters(args): Parameters<CompareArgs>) -> CallToolResult {
@@ -481,7 +487,8 @@ impl DriveLedgerMcp {
 
     #[tool(
         description = "Find every copy of one file's content across all indexes. Give a `fingerprint`, or an `index` plus the file's relative `path`.",
-        output_schema = schema_for_output::<FindFileOutput>(),
+        input_schema = portable_input::<FindFileArgs>(),
+        output_schema = portable_output::<FindFileOutput>(),
         annotations(read_only_hint = true, open_world_hint = false)
     )]
     async fn find_file(&self, Parameters(args): Parameters<FindFileArgs>) -> CallToolResult {
@@ -538,7 +545,8 @@ impl DriveLedgerMcp {
 
     #[tool(
         description = "Groups of files with identical content (same fingerprint), within or across indexes, largest redundant size first.",
-        output_schema = schema_for_output::<DuplicatesOutput>(),
+        input_schema = portable_input::<ScanArgs>(),
+        output_schema = portable_output::<DuplicatesOutput>(),
         annotations(read_only_hint = true, open_world_hint = false)
     )]
     async fn find_duplicates(
@@ -570,7 +578,8 @@ impl DriveLedgerMcp {
 
     #[tool(
         description = "Scan a drive or folder into a new index in the DriveLedger library (pass `path`), or check a running scan (pass `scan_id`). Read-only on the scanned path; it only writes the index file into the library. Unchanged files reuse fingerprints from the previous scan. Waits up to `wait_seconds` (default 20) and returns progress if the scan is still running; call again with `scan_id` to follow it. Fails with target_unavailable if the drive is not mounted.",
-        output_schema = schema_for_output::<ScanStatusOutput>(),
+        input_schema = portable_input::<ScanArgs>(),
+        output_schema = portable_output::<ScanStatusOutput>(),
         annotations(read_only_hint = false, destructive_hint = false, idempotent_hint = false, open_world_hint = false)
     )]
     async fn scan(&self, Parameters(args): Parameters<ScanArgs>) -> CallToolResult {
@@ -605,7 +614,8 @@ impl DriveLedgerMcp {
 
     #[tool(
         description = "Full-file verify before deleting: reads every byte of each matched source/target pair from a compare and confirms the content is identical (BLAKE3). Start with `source` and `target` index IDs (optionally `source_subpath` or `paths`), or follow a running verify with `verify_id`. Both drives must be mounted. Read-only on the drives; the full hashes are cached in the library's index files. Results: verified, mismatch, unreadable; files with no match on the target are counted as not_found_on_target.",
-        output_schema = schema_for_output::<VerifyStatusOutput>(),
+        input_schema = portable_input::<VerifyArgs>(),
+        output_schema = portable_output::<VerifyStatusOutput>(),
         annotations(read_only_hint = false, destructive_hint = false, idempotent_hint = true, open_world_hint = false)
     )]
     async fn verify(&self, Parameters(args): Parameters<VerifyArgs>) -> CallToolResult {
@@ -933,6 +943,44 @@ fn index_id_of(path: &Path) -> String {
     name.strip_suffix(driveledger_core::index::INDEX_SUFFIX)
         .unwrap_or(&name)
         .to_string()
+}
+
+/// Input schema without non-standard `format` values (see [`strip_formats`]).
+fn portable_input<T: JsonSchema + 'static>() -> Arc<JsonObject> {
+    strip_formats(schema_for_type::<T>())
+}
+
+/// Output schema without non-standard `format` values.
+fn portable_output<T: JsonSchema + 'static>() -> Arc<JsonObject> {
+    strip_formats(schema_for_output::<T>())
+}
+
+/// schemars annotates integers with formats such as `uint64` and `double`.
+/// They are not part of JSON Schema, and strict validators in some MCP
+/// clients warn about them, so drop them. Standard formats (`date-time`, ...)
+/// are kept.
+fn strip_formats(schema: Arc<JsonObject>) -> Arc<JsonObject> {
+    fn walk(value: &mut serde_json::Value) {
+        match value {
+            serde_json::Value::Object(map) => {
+                let numeric = map.get("format").and_then(|f| f.as_str()).is_some_and(|f| {
+                    f.starts_with("int") || f.starts_with("uint") || f == "float" || f == "double"
+                });
+                if numeric {
+                    map.remove("format");
+                }
+                map.values_mut().for_each(walk);
+            }
+            serde_json::Value::Array(items) => items.iter_mut().for_each(walk),
+            _ => {}
+        }
+    }
+    let mut value = serde_json::Value::Object((*schema).clone());
+    walk(&mut value);
+    match value {
+        serde_json::Value::Object(map) => Arc::new(map),
+        _ => schema,
+    }
 }
 
 // ---------------------------------------------------------------------------
