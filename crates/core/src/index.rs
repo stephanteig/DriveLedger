@@ -7,6 +7,7 @@
 use std::path::{Path, PathBuf};
 
 use rusqlite::{Connection, OpenFlags, OptionalExtension, params};
+use schemars::JsonSchema;
 use serde::{Deserialize, Serialize};
 
 use crate::error::{Error, Result};
@@ -67,7 +68,7 @@ CREATE INDEX idx_file_rel_path_nfc ON file(rel_path_nfc);
 "#;
 
 /// How the `fingerprint` column of a file was computed.
-#[derive(Debug, Clone, Copy, PartialEq, Eq, Hash, Serialize, Deserialize)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Hash, Serialize, Deserialize, JsonSchema)]
 #[serde(rename_all = "snake_case")]
 pub enum FingerprintKind {
     /// BLAKE3 over size and three 1 MiB samples (or the whole file if ≤ 3 MiB).
@@ -94,7 +95,7 @@ impl FingerprintKind {
 }
 
 /// Metadata about the scan that produced an index (the single `scan` row).
-#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 pub struct ScanInfo {
     pub volume_name: String,
     pub volume_uuid: Option<String>,
@@ -114,7 +115,7 @@ pub struct ScanInfo {
 }
 
 /// One indexed file. Paths are relative to the scan root and use `/`.
-#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 pub struct FileRecord {
     /// Path as found on disk (may be NFD on some file systems).
     pub rel_path: String,
@@ -141,7 +142,7 @@ pub struct FileRecord {
 
 /// A path that could not be indexed. Unreadable files are always recorded,
 /// never silently skipped.
-#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 pub struct ScanError {
     pub rel_path: String,
     /// Short machine-readable category, e.g. `walk`, `metadata`, `read`.
@@ -352,6 +353,22 @@ impl Index {
         )?;
         let rows = stmt.query_map([], file_from_row)?;
         Ok(rows.collect::<rusqlite::Result<Vec<_>>>()?)
+    }
+
+    /// Look up one file by its relative path (NFC-normalised before lookup).
+    pub fn file_by_path(&self, rel_path: &str) -> Result<Option<FileRecord>> {
+        use unicode_normalization::UnicodeNormalization;
+        let nfc: String = rel_path
+            .nfc()
+            .collect::<String>()
+            .trim_matches('/')
+            .to_string();
+        let mut stmt = self.conn.prepare_cached(
+            "SELECT rel_path, rel_path_nfc, name_nfc, ext, size, mtime, ctime, in_bundle,
+                    fingerprint, fingerprint_kind, full_hash
+             FROM file WHERE rel_path_nfc = ?1",
+        )?;
+        Ok(stmt.query_row([nfc], file_from_row).optional()?)
     }
 
     pub fn errors(&self) -> Result<Vec<ScanError>> {

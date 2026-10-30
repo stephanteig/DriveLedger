@@ -4,6 +4,7 @@
 //! that is computed deterministically, so the same request returns the same
 //! pages.
 
+use schemars::JsonSchema;
 use serde::{Deserialize, Serialize};
 
 /// Default page size when a caller does not pass `limit`.
@@ -11,7 +12,7 @@ pub const DEFAULT_LIMIT: usize = 200;
 /// Upper bound for `limit`, so a single response stays manageable.
 pub const MAX_LIMIT: usize = 5000;
 
-#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 pub struct Page<T> {
     pub items: Vec<T>,
     /// Number of items across all pages.

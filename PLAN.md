@@ -9,7 +9,7 @@
 - [x] Phase 2: Fingerprinting and incremental rescan
 - [x] Phase 3: Compare engine
 - [x] Phase 4: CLI
-- [ ] Phase 5: MCP server
+- [x] Phase 5: MCP server
 - [ ] Phase 6: Verify and export
 - [ ] Phase 7: Tauri app (shell and drives/scan)
 - [ ] Phase 8: Tauri app (compare and search)

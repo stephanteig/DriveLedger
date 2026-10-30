@@ -3,6 +3,7 @@
 
 use std::path::{Path, PathBuf};
 
+use schemars::JsonSchema;
 use serde::{Deserialize, Serialize};
 
 use crate::error::{Error, Result};
@@ -13,7 +14,7 @@ pub const LIBRARY_ENV: &str = "DRIVELEDGER_LIBRARY";
 /// Environment variable that overrides the config directory (used by tests).
 pub const CONFIG_DIR_ENV: &str = "DRIVELEDGER_CONFIG_DIR";
 
-#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 #[serde(default)]
 pub struct Settings {
     /// Library folder. `None` means the default location.

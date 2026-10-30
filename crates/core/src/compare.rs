@@ -13,6 +13,7 @@ use std::collections::{BTreeMap, HashMap};
 use std::path::Path;
 
 use chrono::{DateTime, SecondsFormat, Utc};
+use schemars::JsonSchema;
 use serde::{Deserialize, Serialize};
 use unicode_normalization::UnicodeNormalization;
 
@@ -22,7 +23,9 @@ use crate::scan::{ProgressFn, ScanOptions, ScanOutcome, scan_to_library};
 use crate::volume::{VolumeProbe, ensure_available};
 
 /// Classification of one source file. Ordered by precedence.
-#[derive(Debug, Clone, Copy, PartialEq, Eq, PartialOrd, Ord, Hash, Serialize, Deserialize)]
+#[derive(
+    Debug, Clone, Copy, PartialEq, Eq, PartialOrd, Ord, Hash, Serialize, Deserialize, JsonSchema,
+)]
 #[serde(rename_all = "snake_case")]
 pub enum Status {
     /// Identical content exists on the target under the same file name.
@@ -79,7 +82,7 @@ impl std::str::FromStr for Status {
 }
 
 /// Which side holds the newer modification time.
-#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 #[serde(rename_all = "snake_case")]
 pub enum Side {
     Source,
@@ -88,7 +91,7 @@ pub enum Side {
 }
 
 /// Extra observations attached to a file.
-#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, Copy, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 #[serde(rename_all = "snake_case")]
 pub enum Hint {
     /// The source is smaller than the same-name target file and its size is a
@@ -101,7 +104,7 @@ pub enum Hint {
 }
 
 /// A file on the target that relates to a source file.
-#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 pub struct Location {
     pub rel_path: String,
     pub size: u64,
@@ -111,7 +114,7 @@ pub struct Location {
 }
 
 /// The comparison result for one source file.
-#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 pub struct FileComparison {
     /// NFC path relative to the source root.
     pub rel_path: String,
@@ -129,7 +132,7 @@ pub struct FileComparison {
 }
 
 /// File count and byte total.
-#[derive(Debug, Clone, Copy, Default, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, Copy, Default, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 pub struct Totals {
     pub files: u64,
     pub bytes: u64,
@@ -143,7 +146,7 @@ impl Totals {
 }
 
 /// Totals for each status.
-#[derive(Debug, Clone, Copy, Default, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, Copy, Default, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 pub struct StatusTotals {
     pub present: Totals,
     pub present_elsewhere: Totals,
@@ -174,7 +177,7 @@ impl StatusTotals {
     }
 }
 
-#[derive(Debug, Clone, Copy, Default, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, Copy, Default, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 pub struct CompareSummary {
     pub total: Totals,
     /// Identical content found on the target (present, present elsewhere,
@@ -187,7 +190,7 @@ pub struct CompareSummary {
 }
 
 /// Per-folder totals, grouped a few levels deep.
-#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 pub struct FolderRollup {
     /// Folder relative to the source root, cut to the rollup depth. `.` for
     /// files directly in the root.
@@ -197,7 +200,7 @@ pub struct FolderRollup {
 }
 
 /// Which index a side of the comparison came from.
-#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 pub struct IndexRef {
     pub index_path: Option<String>,
     pub volume_name: String,
@@ -218,7 +221,7 @@ impl IndexRef {
     }
 }
 
-#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 pub struct CompareResult {
     pub source: IndexRef,
     pub target: IndexRef,
@@ -242,7 +245,7 @@ impl CompareResult {
     }
 }
 
-#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize)]
+#[derive(Debug, Clone, PartialEq, Eq, Serialize, Deserialize, JsonSchema)]
 pub struct CompareOptions {
     /// Only compare source files below this folder (relative to the source
     /// root).
@@ -451,7 +454,7 @@ fn classify(source: &FileRecord, lookup: &TargetLookup<'_>) -> FileComparison {
             (Some(_), Some(_)) => Some(Side::Same),
             _ => None,
         };
-        if source.size < closest.size && source.size > 0 && source.size % 4096 == 0 {
+        if source.size < closest.size && source.size > 0 && source.size.is_multiple_of(4096) {
             result.hints.push(Hint::PossiblyTruncated);
         }
         result.target_locations = same_name.into_iter().map(location).collect();
