@@ -1,0 +1,13 @@
+[package]
+name = "driveledger-core"
+description = "Read-only drive indexing and content-based comparison engine for DriveLedger"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+rust-version.workspace = true
+
+[dependencies]
+
+[lints]
+workspace = true

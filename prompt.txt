@@ -1,0 +1,16 @@
+You are building DriveLedger, a read-only drive scanner, backup checker and open MCP server. The project folder is ~/Documents/Dev/DriveLedger.
+
+Read these files in order before doing anything:
+1. CLAUDE.md: the spec and non-negotiable rules
+2. PLAN.md: the phase-by-phase plan (one PR per phase)
+3. reference/README.md: ground truth from the manual drive checks this tool automates
+4. BRIEF.md: background and the reasons behind the decisions
+
+Then execute PLAN.md from Phase 0, in order, one phase at a time. Rules:
+- Never write to any scanned drive or path. The only writes allowed are to the project folder and the DriveLedger library folder.
+- One branch and one PR per phase. Phase 0 is the only direct commit to main.
+- Tick off each phase in PLAN.md as it merges.
+- Ask me only for decisions that are genuinely mine (creating the GitHub repo, which drives to use for the Phase 9 live test). Otherwise keep going.
+- After each phase, give me a 2–3 line status and continue with the next one.
+
+Start now: confirm the stack in a few sentences, then begin Phase 0.

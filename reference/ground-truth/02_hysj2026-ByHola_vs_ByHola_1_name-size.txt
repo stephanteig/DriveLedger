@@ -1,0 +1,1695 @@
+MATCH (same name+size): 834
+  ByHola/Profil/byHola-logo-samlet.af
+    -> ByHola/Profil/byHola-logo-samlet.af
+  ByHola/Profil/byHola-logo-emblem-sort.png
+    -> ByHola/Profil/byHola-logo-emblem-sort.png
+  ByHola/Profil/byHola-logo-liggende_sort.jpg
+    -> ByHola/Profil/byHola-logo-liggende_sort.jpg
+  ByHola/Profil/byHola-logo-liggende_sort.png
+    -> ByHola/Profil/byHola-logo-liggende_sort.png
+  ByHola/Profil/byHola-logo-kvadrat_stor_sort.png
+    -> ByHola/Profil/byHola-logo-kvadrat_stor_sort.png
+  ByHola/Profil/byHola-logo-kvadrat_stor_sort.jpg
+    -> ByHola/Profil/byHola-logo-kvadrat_stor_sort.jpg
+  ByHola/Profil/byHola-logo-kvadrat_stor_hvit.png
+    -> ByHola/Profil/byHola-logo-kvadrat_stor_hvit.png
+  ByHola/Profil/byHola-logo-kvadrat_stor_hvit.jpg
+    -> ByHola/Profil/byHola-logo-kvadrat_stor_hvit.jpg
+  ByHola/Profil/byHola-logo-liggende_hvit.jpg
+    -> ByHola/Profil/byHola-logo-liggende_hvit.jpg
+  ByHola/Profil/byHola-logo-liggende_hvit.png
+    -> ByHola/Profil/byHola-logo-liggende_hvit.png
+  ByHola/Profil/byHola-logo-samlet.pdf
+    -> ByHola/Profil/byHola-logo-samlet.pdf
+  ByHola/Profil/byHola-logo-emblem-hvit.png
+    -> ByHola/Profil/byHola-logo-emblem-hvit.png
+  ByHola/Profil/byHola-logo-kvadrat_liten_hvit.jpg
+    -> ByHola/Profil/byHola-logo-kvadrat_liten_hvit.jpg
+  ByHola/Profil/byHola-logo-kvadrat_liten_hvit.png
+    -> ByHola/Profil/byHola-logo-kvadrat_liten_hvit.png
+  ByHola/Profil/byHola-logo-kvadrat_liten_sort.jpg
+    -> ByHola/Profil/byHola-logo-kvadrat_liten_sort.jpg
+  ByHola/Profil/byHola-logo-kvadrat_liten_sort.png
+    -> ByHola/Profil/byHola-logo-kvadrat_liten_sort.png
+  ByHola/Nettside/SVAL.png
+    -> ByHola/Nettside/SVAL.png
+  ByHola/Nettside/HYSJ.png
+    -> ByHola/Nettside/HYSJ.png
+  ByHola/Nettside/byHola-FestivalLogoer_Hvit.af
+    -> ByHola/Nettside/byHola-FestivalLogoer_Hvit.af
+  ByHola/Nettside/STØY.png
+    -> ByHola/Nettside/STØY.png
+  ByHola/Nettside/LUSH.png
+    -> ByHola/Nettside/LUSH.png
+  ByHola/Nettside/Pyro-Forsidebilde/HYSJFESTIVALEN_@MAJAMOAN_STUDIOWALLIN_20260716_0142.af
+    -> ByHola/Nettside/Pyro-Forsidebilde/HYSJFESTIVALEN_@MAJAMOAN_STUDIOWALLIN_20260716_0142.af
+  ByHola/Nettside/Pyro-Forsidebilde/Document.jpg
+    -> ByHola/Nettside/Pyro-Forsidebilde/Document.jpg
+  ByHola/Nettside/Pyro-Forsidebilde/Matoma Fyrverkeri.mov
+    -> ByHola/Nettside/Pyro-Forsidebilde/Matoma Fyrverkeri.mov
+  ByHola/Nettside/Pyro-Forsidebilde/Ayi fredag.mov
+    -> ByHola/Nettside/Pyro-Forsidebilde/Ayi fredag.mov
+  ByHola/Nettside/Pyro-Forsidebilde/Firefly.jpg
+    -> ByHola/Nettside/Pyro-Forsidebilde/Firefly.jpg
+  ByHola/Nettside/Pyro-Forsidebilde/HYSJFESTIVALEN_@MAJAMOAN_STUDIOWALLIN_20260716_0142.jpg
+    -> ByHola/Nettside/Pyro-Forsidebilde/HYSJFESTIVALEN_@MAJAMOAN_STUDIOWALLIN_20260716_0142.jpg
+  _SVAL/99_ARKIV/SVAL-gammel-backup.zip
+    -> SVAL/99_ARKIV/SVAL-gammel-backup.zip
+  _SVAL/2027/01_SOME/SVAL-Socials.af
+    -> SVAL/2027/01_SOME/SVAL-Socials.af
+  _SVAL/2027/01_SOME/Profilbilder-og-cover/Facebook-Cover2.jpg
+    -> SVAL/2027/01_SOME/Profilbilder-og-cover/Facebook-Cover2.jpg
+  _SVAL/2027/01_SOME/Profilbilder-og-cover/Facebook-Cover.jpg
+    -> SVAL/2027/01_SOME/Profilbilder-og-cover/Facebook-Cover.jpg
+  _SVAL/2027/01_SOME/Profilbilder-og-cover/Profilbilde/sval-bakgrunn-3-wide.jpg
+    -> SVAL/2027/01_SOME/Profilbilder-og-cover/Profilbilde/sval-bakgrunn-3-wide.jpg
+  _SVAL/2027/01_SOME/Profilbilder-og-cover/Profilbilde/Profilbilde-Sval.jpg
+    -> SVAL/2027/01_SOME/Profilbilder-og-cover/Profilbilde/Profilbilde-Sval.jpg
+  _SVAL/2027/01_SOME/Profilbilder-og-cover/Profilbilde/Profilbilde-Sval
+    -> SVAL/2027/01_SOME/Profilbilder-og-cover/Profilbilde/Profilbilde-Sval
+  _SVAL/2027/01_SOME/Instagram/Sval-Puslespill-1.jpg
+    -> SVAL/2027/01_SOME/Instagram/Sval-Puslespill-1.jpg
+  _SVAL/2027/01_SOME/Instagram/Sval-Puslespill-2.jpg
+    -> SVAL/2027/01_SOME/Instagram/Sval-Puslespill-2.jpg
+  _SVAL/2027/01_SOME/Instagram/Sval-Puslespill-3.jpg
+    -> SVAL/2027/01_SOME/Instagram/Sval-Puslespill-3.jpg
+  _SVAL/2027/01_SOME/Instagram/SOME-TBA/SOME-TBA-07.jpg
+    -> SVAL/2027/01_SOME/Instagram/SOME-TBA/SOME-TBA-07.jpg
+  _SVAL/2027/01_SOME/Instagram/SOME-TBA/SOME-TBA-06.jpg
+    -> SVAL/2027/01_SOME/Instagram/SOME-TBA/SOME-TBA-06.jpg
+  _SVAL/2027/01_SOME/Instagram/SOME-TBA/SOME-TBA-04.jpg
+    -> SVAL/2027/01_SOME/Instagram/SOME-TBA/SOME-TBA-04.jpg
+  _SVAL/2027/01_SOME/Instagram/SOME-TBA/SOME-TBA-05.jpg
+    -> SVAL/2027/01_SOME/Instagram/SOME-TBA/SOME-TBA-05.jpg
+  _SVAL/2027/01_SOME/Instagram/SOME-TBA/SOME-TBA-01.jpg
+    -> SVAL/2027/01_SOME/Instagram/SOME-TBA/SOME-TBA-01.jpg
+  _SVAL/2027/01_SOME/Instagram/SOME-TBA/SOME-TBA-02.jpg
+    -> SVAL/2027/01_SOME/Instagram/SOME-TBA/SOME-TBA-02.jpg
+  _SVAL/2027/01_SOME/Instagram/SOME-TBA/SOME-TBA-03.jpg
+    -> SVAL/2027/01_SOME/Instagram/SOME-TBA/SOME-TBA-03.jpg
+  _SVAL/2027/06_ARTISTER/Postgirobygget/01_Fra-artist/1 - PGB - Bilde.jpg.pdf
+    -> LUSH/2027/06_ARTISTER/PGB/01_Fra-artist/1 - PGB - Bilde.jpg.pdf
+  _SVAL/2027/06_ARTISTER/Postgirobygget/01_Fra-artist/1 - PGB - Bilde.jpg
+    -> SVAL/2027/06_ARTISTER/Postgirobygget/01_Fra-artist/1 - PGB - Bilde.jpg
+  _SVAL/2027/06_ARTISTER/Postgirobygget/03_Prosjektfiler/SVAL-2027-ARTIST-POSTGIROBYGGET.af
+    -> SVAL/2027/06_ARTISTER/Postgirobygget/03_Prosjektfiler/SVAL-2027-ARTIST-POSTGIROBYGGET.af
+  _SVAL/2027/06_ARTISTER/Postgirobygget/03_Prosjektfiler/SVAL-2027-ARTIST.af
+    -> SVAL/2027/06_ARTISTER/Postgirobygget/03_Prosjektfiler/SVAL-2027-ARTIST.af
+  _SVAL/2027/06_ARTISTER/Postgirobygget/04_Eksport/SVAL-2027-ARTIST-PGB.png
+    -> SVAL/2027/06_ARTISTER/Postgirobygget/04_Eksport/SVAL-2027-ARTIST-PGB.png
+  _SVAL/2027/06_ARTISTER/Postgirobygget/04_Eksport/SVAL-2027-Postgirobygget-3-4.png
+    -> SVAL/2027/06_ARTISTER/Postgirobygget/04_Eksport/SVAL-2027-Postgirobygget-3-4.png
+  _SVAL/2027/06_ARTISTER/Postgirobygget/04_Eksport/SVAL-2027-Postgirobygget-1-1.png
+    -> SVAL/2027/06_ARTISTER/Postgirobygget/04_Eksport/SVAL-2027-Postgirobygget-1-1.png
+  _SVAL/2027/06_ARTISTER/Postgirobygget/04_Eksport/SVAL-2027-Postgirobygget-9-16.png
+    -> SVAL/2027/06_ARTISTER/Postgirobygget/04_Eksport/SVAL-2027-Postgirobygget-9-16.png
+  _SVAL/2027/06_ARTISTER/Plumbo/01_Fra-artist/Plumbo Pressebilder - 20.06.26 - Patrick Hanson-5.jpg
+    -> LUSH/2027/06_ARTISTER/Plumbo/01_Fra-artist/Plumbo Pressebilder - 20.06.26 - Patrick Hanson-5.jpg
+  _SVAL/2027/06_ARTISTER/Plumbo/03_Prosjektfiler/SVAL-2027-ARTIST-PLUMBO.af
+    -> SVAL/2027/06_ARTISTER/Plumbo/03_Prosjektfiler/SVAL-2027-ARTIST-PLUMBO.af
+  _SVAL/2027/06_ARTISTER/Plumbo/03_Prosjektfiler/SVAL-2027-ARTIST.af
+    -> SVAL/2027/06_ARTISTER/Postgirobygget/03_Prosjektfiler/SVAL-2027-ARTIST.af
+  _SVAL/2027/06_ARTISTER/Plumbo/04_Eksport/SVAL-2027-ARTIST-PLUMBO.png
+    -> SVAL/2027/06_ARTISTER/Plumbo/04_Eksport/SVAL-2027-ARTIST-PLUMBO.png
+  _SVAL/2027/06_ARTISTER/Plumbo/04_Eksport/SVAL-2027-Plumbo-9-16.png
+    -> SVAL/2027/06_ARTISTER/Plumbo/04_Eksport/SVAL-2027-Plumbo-9-16.png
+  _SVAL/2027/06_ARTISTER/Plumbo/04_Eksport/SVAL-2027-Plumbo-1-1.png
+    -> SVAL/2027/06_ARTISTER/Plumbo/04_Eksport/SVAL-2027-Plumbo-1-1.png
+  _SVAL/2027/06_ARTISTER/Plumbo/04_Eksport/SVAL-2027-Plumbo-3-4.png
+    -> SVAL/2027/06_ARTISTER/Plumbo/04_Eksport/SVAL-2027-Plumbo-3-4.png
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155144_0005_D.SRT
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155144_0005_D.SRT
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155038_0004_D.JPG
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155038_0004_D.JPG
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155032_0003_D.JPG
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155032_0003_D.JPG
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155301_0008_D.DNG
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155301_0008_D.DNG
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155209_0007_D.JPG
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155209_0007_D.JPG
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155202_0006_D.DNG
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155202_0006_D.DNG
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155144_0005_D.LRF
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155144_0005_D.LRF
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155032_0003_D.DNG
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155032_0003_D.DNG
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155038_0004_D.DNG
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155038_0004_D.DNG
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155144_0005_D.MP4
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155144_0005_D.MP4
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155202_0006_D.JPG
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155202_0006_D.JPG
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155301_0008_D.JPG
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155301_0008_D.JPG
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155209_0007_D.DNG
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Drone-Riva/01_Materiale/DJI_20260731155209_0007_D.DNG
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/musikkogkultur.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/musikkogkultur.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/følelsenavsommer.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/følelsenavsommer.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/ikkelaisensmelte.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/ikkelaisensmelte.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/sommertradisjon.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/sommertradisjon.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03314926.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03314926.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03380820.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03380820.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03346146.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03346146.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03315252.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03315252.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03316216.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03316216.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03315876.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03315876.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03315476.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03315476.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03347910.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03347910.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03339362.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03339362.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03318382.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03318382.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03273052.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03273052.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03264164.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03264164.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03226988.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03226988.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03226146.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/v2/V2_Normal-portrait-25-Plakat-Oneshots03226146.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30154.MP4-4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30154.MP4-4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30154.MP4-5.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30154.MP4-5.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30148.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30148.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30158.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30158.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-Landscape-25_SW-FX30144.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-Landscape-25_SW-FX30144.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30154.MP4-2.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30154.MP4-2.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30154.MP4-3.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30154.MP4-3.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-Landscape-25_SW-FX30145.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-Landscape-25_SW-FX30145.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30159.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30159.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30144.MP4-2.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30144.MP4-2.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30160.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30160.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30157.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30157.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-Landscape-25_SW-FX30144.MP4-2.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-Landscape-25_SW-FX30144.MP4-2.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30155.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30155.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30145.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30145.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30144.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30144.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30154.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/SLOW/Plakat-Oneshots-SLOW-portrait-25_SW-FX30154.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-Landscape-25_SW-FX30145.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-Landscape-25_SW-FX30145.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30160.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30160.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-Landscape-25_SW-FX30144.MP4-2.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-Landscape-25_SW-FX30144.MP4-2.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30157.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30157.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-Landscape-25_SW-FX30144.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-Landscape-25_SW-FX30144.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30155.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30155.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30145.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30145.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30144.MP4-2.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30144.MP4-2.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30144.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30144.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30154.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30154.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30148.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30148.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30158.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30158.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30159.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30159.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30154.MP4-4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30154.MP4-4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30154.MP4-5.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30154.MP4-5.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30154.MP4-2.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30154.MP4-2.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30154.MP4-3.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/25FPS/Plakat-Oneshots-Normal-portrait-25_SW-FX30154.MP4-3.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30154.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30154.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30144.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30144.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30154.MP4-2.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30154.MP4-2.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30154.MP4-3.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30154.MP4-3.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30154.MP4-4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30154.MP4-4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30145.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30145.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30155.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30155.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30154.MP4-5.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30154.MP4-5.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-Landscape-50_SW-FX30144.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-Landscape-50_SW-FX30144.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30157.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30157.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30160.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30160.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-Landscape-50_SW-FX30145.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-Landscape-50_SW-FX30145.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30144.MP4-2.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30144.MP4-2.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-Landscape-50_SW-FX30144.MP4-2.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-Landscape-50_SW-FX30144.MP4-2.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30159.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30159.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30158.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30158.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30148.MP4.mov
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/03_Eksport/Utkast/50FPS/Plakat-Oneshots-Normal-portrait-50_SW-FX30148.MP4.mov
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30151M01.XML
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30151M01.XML
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30143M01.XML
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30143M01.XML
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30153M01.XML
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30153M01.XML
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30159.MP4
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30159.MP4
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30158.MP4
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30158.MP4
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30157M01.XML
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30157M01.XML
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30149M01.XML
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30149M01.XML
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30145M01.XML
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30145M01.XML
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30148.MP4
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30148.MP4
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30160.MP4
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30160.MP4
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30159M01.XML
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30159M01.XML
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30149.MP4
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30149.MP4
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30147M01.XML
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30147M01.XML
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30155M01.XML
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30155M01.XML
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30147.MP4
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30147.MP4
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30153.MP4
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30153.MP4
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30152.MP4
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30152.MP4
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30146.MP4
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30146.MP4
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30150.MP4
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30150.MP4
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30144.MP4
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30144.MP4
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30150M01.XML
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30150M01.XML
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30145.MP4
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30145.MP4
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30151.MP4
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30151.MP4
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30142M01.XML
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30142M01.XML
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30155.MP4
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30155.MP4
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30154.MP4
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30154.MP4
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30152M01.XML
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30152M01.XML
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30142.MP4
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30142.MP4
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30156.MP4
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30156.MP4
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30157.MP4
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30157.MP4
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30143.MP4
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30143.MP4
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30148M01.XML
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30148M01.XML
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30156M01.XML
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30156M01.XML
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30144M01.XML
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30144M01.XML
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30160M01.XML
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30160M01.XML
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30146M01.XML
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30146M01.XML
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30158M01.XML
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30158M01.XML
+  _SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30154M01.XML
+    -> SVAL/2027/05_PROSJEKTER/2026-08-03_Plakat-oneshots/01_Materiale/SW-FX30154M01.XML
+  _SVAL/2027/02_NETTSIDE/Squarespace-27072026-Sval_Festivalen.pdf
+    -> SVAL/2027/02_NETTSIDE/Squarespace-27072026-Sval_Festivalen.pdf
+  _SVAL/2027/02_NETTSIDE/Ticketmaster/Ticketmaster Header.jpg
+    -> SVAL/2027/02_NETTSIDE/Ticketmaster/Ticketmaster Header.jpg
+  _SVAL/2027/02_NETTSIDE/Ticketmaster/1-Header_Bilde-Desktop2.jpg
+    -> SVAL/2027/02_NETTSIDE/Ticketmaster/1-Header_Bilde-Desktop2.jpg
+  _SVAL/2027/02_NETTSIDE/Ticketmaster/Om-Ticketmaster.jpg
+    -> SVAL/2027/02_NETTSIDE/Ticketmaster/Om-Ticketmaster.jpg
+  _SVAL/2027/02_NETTSIDE/Ticketmaster/1-Header_Bilde-Mobil.jpg
+    -> SVAL/2027/02_NETTSIDE/Ticketmaster/1-Header_Bilde-Mobil.jpg
+  _SVAL/2027/02_NETTSIDE/Ticketmaster/1-Header_Bilde-Desktop.jpg
+    -> SVAL/2027/02_NETTSIDE/Ticketmaster/1-Header_Bilde-Desktop.jpg
+  _SVAL/02_MALER/Artist-artwork/SVAL-2027-ARTIST-MAL.af
+    -> SVAL/02_MALER/Artist-artwork/SVAL-2027-ARTIST-MAL.af
+  _SVAL/02_MALER/Artist-artwork/SVAL-2027-ARTIST-01.af
+    -> SVAL/02_MALER/Artist-artwork/SVAL-2027-ARTIST-01.af
+  _SVAL/02_MALER/Artist-artwork/Postgirobygget/SVAL-2027-Postgirobygget-3-4.png
+    -> SVAL/2027/06_ARTISTER/Postgirobygget/04_Eksport/SVAL-2027-Postgirobygget-3-4.png
+  _SVAL/02_MALER/Artist-artwork/Postgirobygget/SVAL-2027-Postgirobygget-1-1.png
+    -> SVAL/2027/06_ARTISTER/Postgirobygget/04_Eksport/SVAL-2027-Postgirobygget-1-1.png
+  _SVAL/02_MALER/Artist-artwork/Postgirobygget/1 - PGB - Bilde.jpg.pdf
+    -> LUSH/2027/06_ARTISTER/PGB/01_Fra-artist/1 - PGB - Bilde.jpg.pdf
+  _SVAL/02_MALER/Artist-artwork/Postgirobygget/1 - PGB - Bilde.jpg
+    -> SVAL/2027/06_ARTISTER/Postgirobygget/01_Fra-artist/1 - PGB - Bilde.jpg
+  _SVAL/02_MALER/Artist-artwork/Postgirobygget/SVAL-2027-Postgirobygget-9-16.png
+    -> SVAL/2027/06_ARTISTER/Postgirobygget/04_Eksport/SVAL-2027-Postgirobygget-9-16.png
+  _SVAL/02_MALER/Artist-artwork/Plumbo/SVAL-2027-Plumbo-9-16.png
+    -> SVAL/2027/06_ARTISTER/Plumbo/04_Eksport/SVAL-2027-Plumbo-9-16.png
+  _SVAL/02_MALER/Artist-artwork/Plumbo/SVAL-2027-Plumbo-1-1.png
+    -> SVAL/2027/06_ARTISTER/Plumbo/04_Eksport/SVAL-2027-Plumbo-1-1.png
+  _SVAL/02_MALER/Artist-artwork/Plumbo/SVAL-2027-Plumbo-3-4.png
+    -> SVAL/2027/06_ARTISTER/Plumbo/04_Eksport/SVAL-2027-Plumbo-3-4.png
+  _SVAL/02_MALER/Artist-artwork/Plumbo/Plumbo Pressebilder - 20.06.26 - Patrick Hanson-5.jpg
+    -> LUSH/2027/06_ARTISTER/Plumbo/01_Fra-artist/Plumbo Pressebilder - 20.06.26 - Patrick Hanson-5.jpg
+  _SVAL/01_PROFIL/Fonter/fonnts.com-Panel_Sans_Black_Italic.otf
+    -> SVAL/01_PROFIL/Fonter/Panel_Sans/fonnts.com-Panel_Sans_Black_Italic.otf
+  _SVAL/01_PROFIL/Fonter/fonnts.com-Panel_Sans_Medium_Italic.otf
+    -> SVAL/01_PROFIL/Fonter/Panel_Sans/fonnts.com-Panel_Sans_Medium_Italic.otf
+  _SVAL/01_PROFIL/Fonter/fonnts.com-Panel_Sans_Light.otf
+    -> SVAL/01_PROFIL/Fonter/Panel_Sans/fonnts.com-Panel_Sans_Light.otf
+  _SVAL/01_PROFIL/Fonter/fonnts.com-Panel_Sans_Bold.otf
+    -> SVAL/01_PROFIL/Fonter/Panel_Sans/fonnts.com-Panel_Sans_Bold.otf
+  _SVAL/01_PROFIL/Fonter/fonnts.com-Panel_Sans_Regular.otf
+    -> SVAL/01_PROFIL/Fonter/Panel_Sans/fonnts.com-Panel_Sans_Regular.otf
+  _SVAL/01_PROFIL/Fonter/fonnts.com-Panel_Sans_Medium.otf
+    -> SVAL/01_PROFIL/Fonter/Panel_Sans/fonnts.com-Panel_Sans_Medium.otf
+  _SVAL/01_PROFIL/Fonter/Avenir Next Condensed Bold.otf
+    -> SVAL/2027/02_NETTSIDE/Ticketmaster/SVAL-Ticketmaster-leveranse-2027/05_Profilguide/Avenir Next Condensed Bold.otf
+  _SVAL/01_PROFIL/Fonter/fonnts.com-Panel_Sans_Light_Italic.otf
+    -> SVAL/01_PROFIL/Fonter/Panel_Sans/fonnts.com-Panel_Sans_Light_Italic.otf
+  _SVAL/01_PROFIL/Fonter/fonnts.com-Panel_Sans_Italic.otf
+    -> SVAL/01_PROFIL/Fonter/Panel_Sans/fonnts.com-Panel_Sans_Italic.otf
+  _SVAL/01_PROFIL/Fonter/fonnts.com-Panel_Sans_Bold_Italic.otf
+    -> SVAL/01_PROFIL/Fonter/Panel_Sans/fonnts.com-Panel_Sans_Bold_Italic.otf
+  _SVAL/01_PROFIL/Fonter/fonnts.com-Panel_Sans_Black.otf
+    -> SVAL/01_PROFIL/Fonter/Panel_Sans/fonnts.com-Panel_Sans_Black.otf
+  _SVAL/01_PROFIL/Farger/SVAL-2027-fargepalett.pdf
+    -> SVAL/2027/02_NETTSIDE/Ticketmaster/SVAL-Ticketmaster-leveranse-2027/05_Profilguide/SVAL-2027-fargepalett.pdf
+  _SVAL/01_PROFIL/Farger/SVAL-2027-fargepalett.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Farger/SVAL-2027-fargepalett.png
+  _SVAL/01_PROFIL/Farger/SVAL-2027-fargepalett.ai
+    -> SVAL/01_PROFIL/Farger/SVAL-2027-fargepalett.ai
+  _SVAL/01_PROFIL/Farger/SVAL-2027-fargepalett.ase
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Farger/SVAL-2027-fargepalett.ase
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/Sval-bakgrunn-1080x1350-2.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/Sval-bakgrunn-1080x1350-2.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/Sval-bakgrunn-1080x1350-3.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/Sval-bakgrunn-1080x1350-3.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/Sval-bakgrunn-1080x1350-1.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/Sval-bakgrunn-1080x1350-1.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/Sval-bakgrunn-1080x1350-4.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/Sval-bakgrunn-1080x1350-4.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/Sval-bakgrunn-1080x1350-5.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/Sval-bakgrunn-1080x1350-5.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/Sval-bakgrunn-1080x1350-7.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/Sval-bakgrunn-1080x1350-7.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/Sval-bakgrunn-1080x1350-6.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/Sval-bakgrunn-1080x1350-6.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/Sval-bakgrunn-1080x1350-8.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/Sval-bakgrunn-1080x1350-8.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/Sval-bakgrunn-1080x1350.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/Sval-bakgrunn-1080x1350.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-bakgrunner.ai
+    -> SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-bakgrunner.ai
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-stripetGUL.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-stripetGUL.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-bølgerBLÅ.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-bølgerBLÅ.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-stripetMARINE.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-stripetMARINE.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-bølgerRØD.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-bølgerRØD.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-bølgerMARINE.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-bølgerMARINE.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-stripetBLÅ.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-stripetBLÅ.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-stripetRØD.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-stripetRØD.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-bølgerGUL.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-bølgerGUL.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/TBA rammer/Sval-TBA-006.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/TBA rammer/Sval-TBA-006.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/TBA rammer/Sval-TBA-05.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/TBA rammer/Sval-TBA-05.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/TBA rammer/Sval-TBA-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/TBA rammer/Sval-TBA-04.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/TBA rammer/Sval-TBA-07.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/TBA rammer/Sval-TBA-07.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/TBA rammer/Sval-TBA-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/TBA rammer/Sval-TBA-03.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/TBA rammer/Sval-TBA-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/TBA rammer/Sval-TBA-02.png
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/TBA rammer/Sval-TBA-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/TBA rammer/Sval-TBA-01.png
+  _SVAL/01_PROFIL/Logo/SVAL-logo-samlet.ai
+    -> SVAL/01_PROFIL/Logo/SVAL-logo-samlet.ai
+  _SVAL/01_PROFIL/Logo/SVAL-logo-samlet.pdf
+    -> SVAL/01_PROFIL/Logo/SVAL-logo-samlet.pdf
+  _SVAL/01_PROFIL/Logo/PNGs/SVAL-logo-marine.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Logo/PNGs/SVAL-logo-marine.png
+  _SVAL/01_PROFIL/Logo/PNGs/SVAL-logo-rød.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Logo/PNGs/SVAL-logo-rød.png
+  _SVAL/01_PROFIL/Logo/PNGs/SVAL-logo-lysbeige.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Logo/PNGs/SVAL-logo-lysbeige.png
+  _SVAL/01_PROFIL/Logo/PNGs/SVAL-logo-himmelblå.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Logo/PNGs/SVAL-logo-himmelblå.png
+  _SVAL/01_PROFIL/Logo/PNGs/SVAL-logo-gul.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Logo/PNGs/SVAL-logo-gul.png
+  _SVAL/01_PROFIL/Profilmanual/SVAL-plakat-50x70.pdf
+    -> SVAL/01_PROFIL/Profilmanual/SVAL-plakat-50x70.pdf
+  _SVAL/01_PROFIL/Profilelementer/Sval-1080x1080.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Sval-1080x1080.png
+  _SVAL/01_PROFIL/Profilelementer/Sval-1080x1080-7.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Sval-1080x1080-7.png
+  _SVAL/01_PROFIL/Profilelementer/Sval-1080x1080-6.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Sval-1080x1080-6.png
+  _SVAL/01_PROFIL/Profilelementer/Sval-1080x1080-4.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Sval-1080x1080-4.png
+  _SVAL/01_PROFIL/Profilelementer/Sval-1080x1080-5.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Sval-1080x1080-5.png
+  _SVAL/01_PROFIL/Profilelementer/Sval-1080x1080-1.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Sval-1080x1080-1.png
+  _SVAL/01_PROFIL/Profilelementer/Sval-1080x1080-2.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Sval-1080x1080-2.png
+  _SVAL/01_PROFIL/Profilelementer/Sval-1080x1080-3.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Sval-1080x1080-3.png
+  _SVAL/01_PROFIL/Profilelementer/Sval-1080x1080-8.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Sval-1080x1080-8.png
+  _SVAL/01_PROFIL/Profilelementer/Sval-1080x1080-9.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Sval-1080x1080-9.png
+  _SVAL/01_PROFIL/Profilelementer/Sol/Sval-sol-blaa.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Sol/Sval-sol-blaa.png
+  _SVAL/01_PROFIL/Profilelementer/Sol/Sval-sol-marine.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Sol/Sval-sol-marine.png
+  _SVAL/01_PROFIL/Profilelementer/Sol/Sval-sol-beige.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Sol/Sval-sol-beige.png
+  _SVAL/01_PROFIL/Profilelementer/Sol/Sval-sol-roed.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Sol/Sval-sol-roed.png
+  _SVAL/01_PROFIL/Profilelementer/Sol/Sval-sol-gul.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Sol/Sval-sol-gul.png
+  _SVAL/01_PROFIL/Profilelementer/Nautisk alfabet:flagg/Sval-nautísk-flaggkvadrat.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Nautisk alfabet:flagg/Sval-nautísk-flaggkvadrat.png
+  _SVAL/01_PROFIL/Profilelementer/Nautisk alfabet:flagg/Sval-nautísk-flaggstripe.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Nautisk alfabet:flagg/Sval-nautísk-flaggstripe.png
+  _SVAL/01_PROFIL/Profilelementer/Nautisk alfabet:flagg/Lima-nautiskflagg.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Nautisk alfabet:flagg/Lima-nautiskflagg.png
+  _SVAL/01_PROFIL/Profilelementer/Nautisk alfabet:flagg/Alphanautiskflagg.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Nautisk alfabet:flagg/Alphanautiskflagg.png
+  _SVAL/01_PROFIL/Profilelementer/Nautisk alfabet:flagg/Sierra-nautiskflagg.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Nautisk alfabet:flagg/Sierra-nautiskflagg.png
+  _SVAL/01_PROFIL/Profilelementer/Nautisk alfabet:flagg/Victor-nautiskflagg.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Profilelementer/Nautisk alfabet:flagg/Victor-nautiskflagg.png
+  _LUSH/2027/04_PARTNERE/MossFK/02_Materiale/IMG_8684.mov
+    -> LUSH/2027/04_PARTNERE/MossFK/02_Materiale/IMG_8684.mov
+  _LUSH/2027/04_PARTNERE/MossFK/01_Fra-partner/logo.png
+    -> LUSH/2027/04_PARTNERE/MossFK/01_Fra-partner/logo.png
+  _LUSH/2027/04_PARTNERE/MossFK/01_Fra-partner/IMG_176011.JPG
+    -> LUSH/2027/04_PARTNERE/MossFK/01_Fra-partner/IMG_176011.JPG
+  _LUSH/2027/04_PARTNERE/MossFK/04_Eksport/Artboard2v2.jpg
+    -> LUSH/2027/04_PARTNERE/MossFK/04_Eksport/Artboard2v2.jpg
+  _LUSH/2027/04_PARTNERE/MossFK/04_Eksport/v1_Timeline 1-MOSSFK-Sammarbeid.mp4
+    -> LUSH/2027/04_PARTNERE/MossFK/04_Eksport/v1_Timeline 1-MOSSFK-Sammarbeid.mp4
+  _LUSH/2027/04_PARTNERE/MossFK/04_Eksport/v1_Timeline 1-MOSSFK-Sammarbeid.jpg
+    -> LUSH/2027/04_PARTNERE/MossFK/04_Eksport/v1_Timeline 1-MOSSFK-Sammarbeid.jpg
+  _LUSH/2027/04_PARTNERE/MossFK/04_Eksport/Utkast/Still 2026-06-24 140607_2.2.1.jpg
+    -> LUSH/2027/04_PARTNERE/MossFK/04_Eksport/Utkast/Still 2026-06-24 140607_2.2.1.jpg
+  _LUSH/2027/04_PARTNERE/MossFK/04_Eksport/Utkast/Still 2026-06-24 140607_2.2.1.drx
+    -> LUSH/2027/04_PARTNERE/MossFK/04_Eksport/Utkast/Still 2026-06-24 140607_2.2.1.drx
+  _LUSH/2027/04_PARTNERE/MossFK/04_Eksport/Utkast/Artboard2.jpg
+    -> LUSH/2027/04_PARTNERE/MossFK/04_Eksport/Utkast/Artboard2.jpg
+  _LUSH/2027/04_PARTNERE/MossFK/04_Eksport/Utkast/3.2.1_3.2.1.jpg
+    -> LUSH/2027/04_PARTNERE/MossFK/04_Eksport/Utkast/3.2.1_3.2.1.jpg
+  _LUSH/2027/04_PARTNERE/MossFK/04_Eksport/Utkast/3.2.1_3.2.1.drx
+    -> LUSH/2027/04_PARTNERE/MossFK/04_Eksport/Utkast/3.2.1_3.2.1.drx
+  _LUSH/2027/04_PARTNERE/MossFK/04_Eksport/Utkast/Still 2026-06-24 140607_2.2.1 copy.jpg
+    -> LUSH/2027/04_PARTNERE/MossFK/04_Eksport/Utkast/Still 2026-06-24 140607_2.2.1 copy.jpg
+  _LUSH/2027/01_SOME/Profilbilder-og-cover/2048x864.jpg
+    -> LUSH/2027/01_SOME/Profilbilder-og-cover/2048x864.jpg
+  _LUSH/2027/01_SOME/Profilbilder-og-cover/Profilbilde.jpg
+    -> LUSH/2027/01_SOME/Profilbilder-og-cover/Profilbilde.jpg
+  _LUSH/2027/01_SOME/Profilbilder-og-cover/Profilbilde Medium.jpeg
+    -> LUSH/2027/01_SOME/Profilbilder-og-cover/Profilbilde Medium.jpeg
+  _LUSH/2027/01_SOME/Profilbilder-og-cover/Facebook-Cover.jpg
+    -> LUSH/2027/01_SOME/Profilbilder-og-cover/Facebook-Cover.jpg
+  _LUSH/2027/01_SOME/Instagram/Blomster.jpg
+    -> LUSH/2027/01_SOME/Instagram/Blomster.jpg
+  _LUSH/2027/01_SOME/Instagram/TBA.jpg
+    -> LUSH/2027/01_SOME/Instagram/TBA.jpg
+  _LUSH/2027/01_SOME/Instagram/Treebilde-1.jpg
+    -> LUSH/2027/01_SOME/Instagram/Treebilde-1.jpg
+  _LUSH/2027/01_SOME/Instagram/Treebilde-2.jpg
+    -> LUSH/2027/01_SOME/Instagram/Treebilde-2.jpg
+  _LUSH/2027/01_SOME/Instagram/Treebilde-3.jpg
+    -> LUSH/2027/01_SOME/Instagram/Treebilde-3.jpg
+  _LUSH/2027/06_ARTISTER/Tix/03_Prosjektfiler/Artistslipp.af
+    -> LUSH/2027/06_ARTISTER/Tix/03_Prosjektfiler/Artistslipp.af
+  _LUSH/2027/06_ARTISTER/Tix/03_Prosjektfiler/tix-teaser.af
+    -> LUSH/2027/06_ARTISTER/Tix/03_Prosjektfiler/tix-teaser.af
+  _LUSH/2027/06_ARTISTER/Tix/03_Prosjektfiler/Tix-Artist_Artwork.af
+    -> LUSH/2027/06_ARTISTER/Tix/03_Prosjektfiler/Tix-Artist_Artwork.af
+  _LUSH/2027/06_ARTISTER/Tix/04_Eksport/Tix-Teaser_v2.jpg
+    -> LUSH/2027/06_ARTISTER/Tix/04_Eksport/Tix-Teaser_v2.jpg
+  _LUSH/2027/06_ARTISTER/Tix/04_Eksport/LUSH-2027-TIX-3-4.png
+    -> LUSH/2027/06_ARTISTER/Tix/04_Eksport/LUSH-2027-TIX-3-4.png
+  _LUSH/2027/06_ARTISTER/Tix/04_Eksport/LUSH-2027-TIX-1-1.png
+    -> LUSH/2027/06_ARTISTER/Tix/04_Eksport/LUSH-2027-TIX-1-1.png
+  _LUSH/2027/06_ARTISTER/Tix/04_Eksport/Tix-Stemningsvideo-v1.mov
+    -> LUSH/2027/06_ARTISTER/Tix/04_Eksport/Utkast/Tix-Stemningsvideo-v1.mov
+  _LUSH/2027/06_ARTISTER/Tix/04_Eksport/LUSH-2027-TIX-9-16.png
+    -> LUSH/2027/06_ARTISTER/Tix/04_Eksport/LUSH-2027-TIX-9-16.png
+  _LUSH/2027/06_ARTISTER/Tix/04_Eksport/Utkast/Tix-Teaser_v1.jpg
+    -> LUSH/2027/06_ARTISTER/Tix/04_Eksport/Utkast/Tix-Teaser_v1.jpg
+  _LUSH/2027/06_ARTISTER/Plumbo/01_Fra-artist/Plumbo Pressebilder - 20.06.26 - Patrick Hanson-4.jpg
+    -> LUSH/2027/06_ARTISTER/Plumbo/01_Fra-artist/Plumbo Pressebilder - 20.06.26 - Patrick Hanson-4.jpg
+  _LUSH/2027/06_ARTISTER/Plumbo/01_Fra-artist/Plumbo Pressebilder - 20.06.26 - Patrick Hanson-5.jpg
+    -> LUSH/2027/06_ARTISTER/Plumbo/01_Fra-artist/Plumbo Pressebilder - 20.06.26 - Patrick Hanson-5.jpg
+  _LUSH/2027/06_ARTISTER/Plumbo/01_Fra-artist/Plumbo Pressebilder - 20.06.26 - Patrick Hanson-6.jpg
+    -> LUSH/2027/06_ARTISTER/Plumbo/01_Fra-artist/Plumbo Pressebilder - 20.06.26 - Patrick Hanson-6.jpg
+  _LUSH/2027/06_ARTISTER/Plumbo/01_Fra-artist/Plumbo Pressebilder - 20.06.26 - Patrick Hanson-2.jpg
+    -> LUSH/2027/06_ARTISTER/Plumbo/01_Fra-artist/Plumbo Pressebilder - 20.06.26 - Patrick Hanson-2.jpg
+  _LUSH/2027/06_ARTISTER/Plumbo/01_Fra-artist/Plumbo Pressebilder - 20.06.26 - Patrick Hanson-3.jpg
+    -> LUSH/2027/06_ARTISTER/Plumbo/01_Fra-artist/Plumbo Pressebilder - 20.06.26 - Patrick Hanson-3.jpg
+  _LUSH/2027/06_ARTISTER/Plumbo/01_Fra-artist/Plumbo Pressebilder - 20.06.26 - Patrick Hanson-1.jpg
+    -> LUSH/2027/06_ARTISTER/Plumbo/01_Fra-artist/Plumbo Pressebilder - 20.06.26 - Patrick Hanson-1.jpg
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C704A260626_194924EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C704A260626_194924EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C886A260718_192137FE_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C886A260718_192137FE_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C671A260626_184836FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C671A260626_184836FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C864A260718_183157EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C864A260718_183157EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C680A260626_190405EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C680A260626_190405EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C870A260718_183658EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C870A260718_183658EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C873A260718_184654EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C873A260718_184654EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C859A260718_181916FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C859A260718_181916FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C688A260626_191859J4_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C688A260626_191859J4_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C867A260718_183249J4_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C867A260718_183249J4_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C701A260626_194250FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C701A260626_194250FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C877A260718_185423EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C877A260718_185423EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C884A260718_192007EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C884A260718_192007EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C856A260718_181610EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C856A260718_181610EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C853A260718_181302FE_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C853A260718_181302FE_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C865A260718_183219FE_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C865A260718_183219FE_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C892A260718_192822J4_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C892A260718_192822J4_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C871A260718_184038EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C871A260718_184038EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C860A260718_182004E8_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C860A260718_182004E8_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C697A260626_193509FE_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C697A260626_193509FE_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C869A260718_183451FE_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C869A260718_183451FE_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C675A260626_185759EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C675A260626_185759EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C677A260626_185845E8_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C677A260626_185845E8_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C878A260718_190131EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C878A260718_190131EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C863A260718_182957EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C863A260718_182957EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C681A260626_190411FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C681A260626_190411FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C858A260718_181852EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C858A260718_181852EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C695A260626_192656EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C695A260626_192656EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C705A260626_195143EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C705A260626_195143EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C889A260718_192544EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C889A260718_192544EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C868A260718_183440EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C868A260718_183440EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C848A260718_180510EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C848A260718_180510EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C876A260718_185227EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C876A260718_185227EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C687A260626_191845E8_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C687A260626_191845E8_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C855A260718_181332J4_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C855A260718_181332J4_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C694A260626_192453EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C694A260626_192453EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C700A260626_194132EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C700A260626_194132EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C854A260718_181318E8_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C854A260718_181318E8_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C692A260626_192236FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C692A260626_192236FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C696A260626_193457EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C696A260626_193457EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C702A260626_194256E8_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C702A260626_194256E8_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C690A260626_1919081N_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C690A260626_1919081N_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C882A260718_190949EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C882A260718_190949EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C849A260718_180525FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C849A260718_180525FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C684A260626_191742FE_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C684A260626_191742FE_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C673A260626_184948FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C673A260626_184948FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C691A260626_192221EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C691A260626_192221EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C850A260718_180535E8_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C850A260718_180535E8_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C683A260626_191717EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C683A260626_191717EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C703A260626_194345EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C703A260626_194345EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C674A260626_185444EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C674A260626_185444EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C699A260626_193546J4_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C699A260626_193546J4_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C862A260718_182635FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C862A260718_182635FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C883A260718_191248FE_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C883A260718_191248FE_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C874A260718_184709FE_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C874A260718_184709FE_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C676A260626_185839FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C676A260626_185839FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C879A260718_190147FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C879A260718_190147FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C851A260718_180547J4_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C851A260718_180547J4_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C689A260626_1919055E_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C689A260626_1919055E_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C875A260718_184925EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C875A260718_184925EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C880A260718_190207E8_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C880A260718_190207E8_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C678A260626_190035EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C678A260626_190035EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C885A260718_192127EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C885A260718_192127EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C881A260718_190218J4_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C881A260718_190218J4_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C686A260626_191829FE_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C686A260626_191829FE_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C866A260718_183228E8_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C866A260718_183228E8_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C890A260718_192625FE_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C890A260718_192625FE_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C685A260626_191826EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C685A260626_191826EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C887A260718_192153E8_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C887A260718_192153E8_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C893A260718_1929245E_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C893A260718_1929245E_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C693A260626_192250E8_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C693A260626_192250E8_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C698A260626_193513E8_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C698A260626_193513E8_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C682A260626_190501E8_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C682A260626_190501E8_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C672A260626_184939EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C672A260626_184939EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C861A260718_182627EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C861A260718_182627EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C852A260718_181240EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C852A260718_181240EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C857A260718_181713EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C857A260718_181713EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C895A260718_193823EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C895A260718_193823EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C891A260718_192724E8_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C891A260718_192724E8_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C872A260718_184419EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C872A260718_184419EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C894A260718_193526EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C894A260718_193526EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C859A260718_181916FE_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C859A260718_181916FE_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C688A260626_191859J4_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C688A260626_191859J4_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C873A260718_184654EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C873A260718_184654EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C870A260718_183658EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C870A260718_183658EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C864A260718_183157EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C864A260718_183157EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C679A260626_190053FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C679A260626_190053FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C671A260626_184836FE_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C671A260626_184836FE_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C886A260718_192137FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C886A260718_192137FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C704A260626_194924EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C704A260626_194924EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C860A260718_182004E8_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C860A260718_182004E8_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C871A260718_184038EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C871A260718_184038EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C892A260718_192822J4_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C892A260718_192822J4_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C865A260718_183219FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C865A260718_183219FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C856A260718_181610EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C856A260718_181610EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C853A260718_181302FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C853A260718_181302FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C884A260718_192007EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C884A260718_192007EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C877A260718_185423EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C877A260718_185423EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C701A260626_194250FE_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C701A260626_194250FE_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C867A260718_183249J4_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C867A260718_183249J4_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C695A260626_192656EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C695A260626_192656EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C681A260626_190411FE_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C681A260626_190411FE_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C858A260718_181852EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C858A260718_181852EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C863A260718_182957EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C863A260718_182957EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C878A260718_190131EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C878A260718_190131EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C675A260626_185759EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C675A260626_185759EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C677A260626_185845E8_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C677A260626_185845E8_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C869A260718_183451FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C869A260718_183451FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C697A260626_193509FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C697A260626_193509FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C855A260718_181332J4_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C855A260718_181332J4_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C694A260626_192453EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C694A260626_192453EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C687A260626_191845E8_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C687A260626_191845E8_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C876A260718_185227EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C876A260718_185227EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C868A260718_183440EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C868A260718_183440EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C848A260718_180510EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C848A260718_180510EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C889A260718_192544EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C889A260718_192544EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C705A260626_195143EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C705A260626_195143EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C684A260626_191742FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C684A260626_191742FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C673A260626_184948FE_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C673A260626_184948FE_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C849A260718_180525FE_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C849A260718_180525FE_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C882A260718_190949EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C882A260718_190949EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C690A260626_1919081N_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C690A260626_1919081N_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C696A260626_193457EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C696A260626_193457EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C692A260626_192236FE_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C692A260626_192236FE_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C854A260718_181318E8_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C854A260718_181318E8_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C700A260626_194132EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C700A260626_194132EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C676A260626_185839FE_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C676A260626_185839FE_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C874A260718_184709FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C874A260718_184709FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C883A260718_191248FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C883A260718_191248FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C862A260718_182635FE_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C862A260718_182635FE_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C674A260626_185444EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C674A260626_185444EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C699A260626_193546J4_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C699A260626_193546J4_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C683A260626_191717EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C683A260626_191717EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C703A260626_194345EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C703A260626_194345EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C850A260718_180535E8_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C850A260718_180535E8_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C691A260626_192221EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C691A260626_192221EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C686A260626_191829FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C686A260626_191829FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C881A260718_190218J4_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C881A260718_190218J4_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C885A260718_192127EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C885A260718_192127EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C880A260718_190207E8_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C880A260718_190207E8_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C678A260626_190035EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C678A260626_190035EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C689A260626_1919055E_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C689A260626_1919055E_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C875A260718_184925EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C875A260718_184925EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C851A260718_180547J4_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C851A260718_180547J4_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C879A260718_190147FE_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C879A260718_190147FE_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C894A260718_193526EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C894A260718_193526EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C891A260718_192724E8_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C891A260718_192724E8_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C872A260718_184419EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C872A260718_184419EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C857A260718_181713EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C857A260718_181713EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C895A260718_193823EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C895A260718_193823EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C852A260718_181240EJ_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C852A260718_181240EJ_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C861A260718_182627EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C861A260718_182627EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C672A260626_184939EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C672A260626_184939EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C682A260626_190501E8_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C682A260626_190501E8_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C693A260626_192250E8_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C693A260626_192250E8_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C698A260626_193513E8_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C698A260626_193513E8_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C893A260718_1929245E_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C893A260718_1929245E_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C685A260626_191826EJ_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0020C685A260626_191826EJ_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C887A260718_192153E8_CANON.CPF
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C887A260718_192153E8_CANON.CPF
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C890A260718_192625FE_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C890A260718_192625FE_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C866A260718_183228E8_CANON.MP4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Video/7th_a_0020c671a260626_184836fe_canon-cpf_2026-08-06_0011/A_0022C866A260718_183228E8_CANON.MP4
+  _LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Musikk/Møkkamann - Plumbo (1080p, h264).mp4
+    -> LUSH/2027/06_ARTISTER/Plumbo/02_Materiale/Musikk/Møkkamann - Plumbo (1080p, h264).mp4
+  _LUSH/2027/06_ARTISTER/Plumbo/03_Prosjektfiler/teaser.af
+    -> LUSH/2027/06_ARTISTER/Plumbo/03_Prosjektfiler/teaser.af
+  _LUSH/2027/06_ARTISTER/Plumbo/03_Prosjektfiler/Plumbo.af
+    -> LUSH/2027/06_ARTISTER/Plumbo/03_Prosjektfiler/Plumbo.af
+  _LUSH/2027/06_ARTISTER/Plumbo/04_Eksport/Plumbo-1x1-Ramme.jpg
+    -> LUSH/2027/06_ARTISTER/Plumbo/04_Eksport/Plumbo-1x1-Ramme.jpg
+  _LUSH/2027/06_ARTISTER/Plumbo/04_Eksport/plumbo-teaser-v1.jpg
+    -> LUSH/2027/06_ARTISTER/Plumbo/04_Eksport/plumbo-teaser-v1.jpg
+  _LUSH/2027/06_ARTISTER/Plumbo/04_Eksport/v1-Plumbo-Stemningsvideo.mov
+    -> LUSH/2027/06_ARTISTER/Plumbo/04_Eksport/v1-Plumbo-Stemningsvideo.mov
+  _LUSH/2027/06_ARTISTER/Plumbo/04_Eksport/v3.jpg
+    -> LUSH/2027/06_ARTISTER/Plumbo/04_Eksport/v3.jpg
+  _LUSH/2027/06_ARTISTER/Plumbo/04_Eksport/Utkast/v1.jpg
+    -> LUSH/2027/06_ARTISTER/Plumbo/04_Eksport/Utkast/v1.jpg
+  _LUSH/2027/06_ARTISTER/Plumbo/04_Eksport/Utkast/v2.jpg
+    -> LUSH/2027/06_ARTISTER/Plumbo/04_Eksport/Utkast/v2.jpg
+  _LUSH/2027/06_ARTISTER/PGB/01_Fra-artist/Bohemen - 4x5 - 20 sekunder-2.MP4
+    -> LUSH/2027/06_ARTISTER/PGB/01_Fra-artist/Bohemen - 4x5 - 20 sekunder-2.MP4
+  _LUSH/2027/06_ARTISTER/PGB/01_Fra-artist/54507259-1FF6-4A3E-A7DB-E368F6D5071F.mov
+    -> LUSH/2027/06_ARTISTER/PGB/01_Fra-artist/54507259-1FF6-4A3E-A7DB-E368F6D5071F.mov
+  _LUSH/2027/06_ARTISTER/PGB/01_Fra-artist/1 - PGB - Bilde.jpg.pdf.jpg
+    -> LUSH/2027/06_ARTISTER/PGB/01_Fra-artist/1 - PGB - Bilde.jpg.pdf.jpg
+  _LUSH/2027/06_ARTISTER/PGB/01_Fra-artist/1 - PGB - Bilde.jpg.pdf
+    -> LUSH/2027/06_ARTISTER/PGB/01_Fra-artist/1 - PGB - Bilde.jpg.pdf
+  _LUSH/2027/06_ARTISTER/PGB/02_Materiale/Musikk/En Solskinnsdag - Postgirobygget.mp3
+    -> LUSH/2027/06_ARTISTER/PGB/02_Materiale/Musikk/En Solskinnsdag - Postgirobygget.mp3
+  _LUSH/2027/06_ARTISTER/PGB/02_Materiale/Musikk/Idyll - Postgirobygget.mp3
+    -> LUSH/2027/06_ARTISTER/PGB/02_Materiale/Musikk/Idyll - Postgirobygget.mp3
+  _LUSH/2027/06_ARTISTER/PGB/02_Materiale/Lydeffekter/Alexander Gastrell - Wave Break - Gentle Waves Lapping Pebbles and Shells Splashing .wav
+    -> LUSH/2027/06_ARTISTER/PGB/02_Materiale/Lydeffekter/Alexander Gastrell - Wave Break - Gentle Waves Lapping Pebbles and Shells Splashing .wav
+  _LUSH/2027/06_ARTISTER/PGB/02_Materiale/Lydeffekter/Badlands Sound - Backyard Action - Dawn Birds and Crickets Chirps Distant Dogs Barking.wav
+    -> LUSH/2027/06_ARTISTER/PGB/02_Materiale/Lydeffekter/Badlands Sound - Backyard Action - Dawn Birds and Crickets Chirps Distant Dogs Barking.wav
+  _LUSH/2027/06_ARTISTER/PGB/02_Materiale/Lydeffekter/Sky River Sound - Washington State Nature - Bird Song Pacific Wren Chirpy.wav
+    -> LUSH/2027/06_ARTISTER/PGB/02_Materiale/Lydeffekter/Sky River Sound - Washington State Nature - Bird Song Pacific Wren Chirpy.wav
+  _LUSH/2027/06_ARTISTER/PGB/02_Materiale/Bilder/blankbakgrunn_2.1.1.jpg
+    -> LUSH/2027/06_ARTISTER/PGB/02_Materiale/Bilder/blankbakgrunn_2.1.1.jpg
+  _LUSH/2027/06_ARTISTER/PGB/02_Materiale/Bilder/blankbakgrunn_2.1.1.drx
+    -> LUSH/2027/06_ARTISTER/PGB/02_Materiale/Bilder/blankbakgrunn_2.1.1.drx
+  _LUSH/2027/06_ARTISTER/PGB/03_Prosjektfiler/Untitled.af
+    -> LUSH/2027/06_ARTISTER/PGB/03_Prosjektfiler/Untitled.af
+  _LUSH/2027/06_ARTISTER/PGB/03_Prosjektfiler/Rebus.af
+    -> LUSH/2027/06_ARTISTER/PGB/03_Prosjektfiler/Rebus.af
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/v1_Timeline 1-PGB-Stemningsvideo.mp4
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/v1_Timeline 1-PGB-Stemningsvideo.mp4
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/v6-916.jpg
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/v6-916.jpg
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/PGB-1x1-Ramme.jpg
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/PGB-1x1-Ramme.jpg
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/v6-11.jpg
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/v6-11.jpg
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/tba-artistteaser-v6.mp4
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/tba-artistteaser-v6.mp4
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/Rebus-v5.jpg
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/Rebus-v5.jpg
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/v6.jpg
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/v6.jpg
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/v5-11.jpg
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/v5-11.jpg
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/v5-916.jpg
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/v5-916.jpg
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/Rebus.jpg
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/Rebus.jpg
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/v1.jpg
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/v1.jpg
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/v3.jpg
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/v3.jpg
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/Rebus-v4.jpg
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/Rebus-v4.jpg
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/V2.jpg
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/V2.jpg
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/v5.jpg
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/v5.jpg
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/Rebus-v3.jpg
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/Rebus-v3.jpg
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/Rebus-v2.jpg
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/Rebus-v2.jpg
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/v4.jpg
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/v4.jpg
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/Teaser/tba-artistteaser-v2utenlyd.mp4
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/Teaser/tba-artistteaser-v2utenlyd.mp4
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/Teaser/tba-artistteaser-v4utenlyd.mp4
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/Teaser/tba-artistteaser-v4utenlyd.mp4
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/Teaser/tba-artistteaser-v5.mp4
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/Teaser/tba-artistteaser-v5.mp4
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/Teaser/tba-artistteaser-v1utenlyd.mp4
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/Teaser/tba-artistteaser-v1utenlyd.mp4
+  _LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/Teaser/tba-artistteaser-v3utenlyd.mp4
+    -> LUSH/2027/06_ARTISTER/PGB/04_Eksport/Utkast/Teaser/tba-artistteaser-v3utenlyd.mp4
+  _LUSH/2027/02_NETTSIDE/Ticketmaster/1-Header_Bilde-Mobil.jpg
+    -> LUSH/2027/02_NETTSIDE/Ticketmaster/1-Header_Bilde-Mobil.jpg
+  _LUSH/2027/02_NETTSIDE/Ticketmaster/1-Header_Bilde-Desktop.jpg
+    -> LUSH/2027/02_NETTSIDE/Ticketmaster/1-Header_Bilde-Desktop.jpg
+  _LUSH/2027/02_NETTSIDE/Ticketmaster/gammelt/Ticketmaster Header.jpg
+    -> LUSH/2027/02_NETTSIDE/Ticketmaster/gammelt/Ticketmaster Header.jpg
+  _LUSH/2027/02_NETTSIDE/Ticketmaster/gammelt/Om-Ticketmaster.jpg
+    -> LUSH/2027/02_NETTSIDE/Ticketmaster/gammelt/Om-Ticketmaster.jpg
+  _LUSH/02_MALER/Artistslipp/Artistslipp.af
+    -> LUSH/2027/06_ARTISTER/Tix/03_Prosjektfiler/Artistslipp.af
+  _LUSH/02_MALER/Artist-artwork/LUSH-ARTISTRAMME.af
+    -> LUSH/02_MALER/Artist-artwork/LUSH-ARTISTRAMME.af
+  _LUSH/01_PROFIL/Fonter/PNASolarithm-SemiBold_TTFOTF.zip
+    -> LUSH/2027/02_NETTSIDE/Ticketmaster/LUSH-Ticketmaster-leveranse-2027/05_Profilguide/PNASolarithm-SemiBold_TTFOTF.zip
+  _LUSH/01_PROFIL/Fonter/pnasolarithmdemo-semibold.ttf
+    -> LUSH/01_PROFIL/Fonter/pnasolarithmdemo-semibold.ttf
+  _LUSH/01_PROFIL/Fonter/PNASolarithm-SemiBold_TTFOTF/TTF/PNASolarithm-SemiBold.ttf
+    -> LUSH/01_PROFIL/Fonter/PNASolarithm-SemiBold_TTFOTF/TTF/PNASolarithm-SemiBold.ttf
+  _LUSH/01_PROFIL/Fonter/PNASolarithm-SemiBold_TTFOTF/OTF/PNASolarithm-SemiBold.otf
+    -> LUSH/01_PROFIL/Fonter/PNASolarithm-SemiBold_TTFOTF/OTF/PNASolarithm-SemiBold.otf
+  _LUSH/01_PROFIL/Farger/LUSHFARGER.pdf
+    -> LUSH/2027/02_NETTSIDE/Ticketmaster/LUSH-Ticketmaster-leveranse-2027/05_Profilguide/LUSHFARGER.pdf
+  _LUSH/01_PROFIL/Rammer-og-bakgrunner/Gulramme-05.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Rammer-og-bakgrunner/Gulramme-05.png
+  _LUSH/01_PROFIL/Rammer-og-bakgrunner/Gulramme-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Rammer-og-bakgrunner/Gulramme-04.png
+  _LUSH/01_PROFIL/Rammer-og-bakgrunner/Gulramme-06.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Rammer-og-bakgrunner/Gulramme-06.png
+  _LUSH/01_PROFIL/Rammer-og-bakgrunner/Gulramme-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Rammer-og-bakgrunner/Gulramme-03.png
+  _LUSH/01_PROFIL/Rammer-og-bakgrunner/Gulramme-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Rammer-og-bakgrunner/Gulramme-02.png
+  _LUSH/01_PROFIL/Rammer-og-bakgrunner/Gulramme-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Rammer-og-bakgrunner/Gulramme-01.png
+  _LUSH/01_PROFIL/Rammer-og-bakgrunner/LUSH-botanisk-ramme01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Rammer-og-bakgrunner/LUSH-botanisk-ramme01.png
+  _LUSH/01_PROFIL/Rammer-og-bakgrunner/LUSH-botanisk-ramme02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Rammer-og-bakgrunner/LUSH-botanisk-ramme02.png
+  _LUSH/01_PROFIL/Rammer-og-bakgrunner/Rosaramme-06.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Rammer-og-bakgrunner/Rosaramme-06.png
+  _LUSH/01_PROFIL/Rammer-og-bakgrunner/Rosaramme-05.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Rammer-og-bakgrunner/Rosaramme-05.png
+  _LUSH/01_PROFIL/Rammer-og-bakgrunner/Rosaramme-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Rammer-og-bakgrunner/Rosaramme-04.png
+  _LUSH/01_PROFIL/Rammer-og-bakgrunner/Rosaramme-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Rammer-og-bakgrunner/Rosaramme-01.png
+  _LUSH/01_PROFIL/Rammer-og-bakgrunner/Rosaramme-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Rammer-og-bakgrunner/Rosaramme-03.png
+  _LUSH/01_PROFIL/Rammer-og-bakgrunner/Rosaramme-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Rammer-og-bakgrunner/Rosaramme-02.png
+  _LUSH/01_PROFIL/Logo/LUSH-gul.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Logo/LUSH-gul.png
+  _LUSH/01_PROFIL/Logo/LUSH-lysegronn.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Logo/LUSH-lysegronn.png
+  _LUSH/01_PROFIL/Logo/LUSH_LOGO.af
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Logo/LUSH_LOGO.af
+  _LUSH/01_PROFIL/Logo/LUSH-gronn.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Logo/LUSH-gronn.png
+  _LUSH/01_PROFIL/Logo/LUSH-morkeblaa.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Logo/LUSH-morkeblaa.png
+  _LUSH/01_PROFIL/Logo/LUSH-gul.svg
+    -> LUSH/01_PROFIL/Logo/LUSH-gul.svg
+  _LUSH/01_PROFIL/Logo/LUSH-rosa.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Logo/LUSH-rosa.png
+  _LUSH/01_PROFIL/Logo/LUSH-lyserosa.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Logo/LUSH-lyserosa.png
+  _LUSH/01_PROFIL/Logo/LUSH-LogoFargeRullering.mp4
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Logo/LUSH-LogoFargeRullering.mp4
+  _LUSH/01_PROFIL/Logo/lushgul-mlinje.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Logo/lushgul-mlinje.png
+  _LUSH/01_PROFIL/Logo/LUSH_LOGO_GUL.af
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Logo/LUSH_LOGO_GUL.af
+  _LUSH/01_PROFIL/Profilmanual/LUSH-logo-fonter-farger.af
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilmanual/LUSH-logo-fonter-farger.af
+  _LUSH/01_PROFIL/Profilmanual/LUSH-logo-fonter-farger.pdf
+    -> LUSH/2027/02_NETTSIDE/Ticketmaster/LUSH-Ticketmaster-leveranse-2027/05_Profilguide/LUSH-logo-fonter-farger.pdf
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-02-j.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-02-j.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-08-a.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-08-a.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-02-i.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-02-i.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-08-b.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-08-b.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-08-c.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-08-c.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-02-h.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-02-h.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-06-h.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-06-h.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-08-f.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-08-f.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-06-i.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-06-i.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-04-i.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-04-i.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-08-d.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-08-d.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-08-e.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-08-e.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-04-h.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-04-h.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-01-h.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-01-h.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-01-i.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-01-i.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-05-i.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-05-i.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-05-h.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-05-h.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-07-h.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-07-h.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH_blomst_1-8_a-j.pdf
+    -> LUSH/01_PROFIL/Profilelementer/LUSH_blomst_1-8_a-j.pdf
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-07-i.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-07-i.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-07-d.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-07-d.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-05-f.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-05-f.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-01-b.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-01-b.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-01-c.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-01-c.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-03-a.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-03-a.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-05-g.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-05-g.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-07-e.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-07-e.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-07-g.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-07-g.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-05-e.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-05-e.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-03-c.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-03-c.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-01-a.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-01-a.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-03-b.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-03-b.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-05-d.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-05-d.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-07-f.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-07-f.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-07-b.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-07-b.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-03-f.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-03-f.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-01-d.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-01-d.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-01-e.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-01-e.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-05-a.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-05-a.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-07-c.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-07-c.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-07-a.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-07-a.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-05-c.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-05-c.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-03-e.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-03-e.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-01-g.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-01-g.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-01-f.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-01-f.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-03-d.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-03-d.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-05-b.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-05-b.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-02-c.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-02-c.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-04-e.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-04-e.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-06-g.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-06-g.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-06-f.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-06-f.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-04-d.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-04-d.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-02-b.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-02-b.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-04-f.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-04-f.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-06-d.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-06-d.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-06-e.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-06-e.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-04-g.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-04-g.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-02-a.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-02-a.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-02-e.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-02-e.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-04-c.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-04-c.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-06-a.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-06-a.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-04-b.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-04-b.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-02-d.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-02-d.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-02-f.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-02-f.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-06-b.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-06-b.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-06-c.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-06-c.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-04-a.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-04-a.png
+  _LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-02-g.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/LUSH/01_PROFIL/Profilelementer/Botanisk/LUSH-blomst-02-g.png
+  _HYSJ/2027/06_ARTISTER/Madcon/04_Eksport/Madcon-ArtistRamme.jpg
+    -> HYSJ/2027/06_ARTISTER/Madcon/04_Eksport/Madcon-ArtistRamme.jpg
+  _HYSJ/2027/06_ARTISTER/Emma Steinbakken/01_Fra-artist/IMG_3466.JPG
+    -> HYSJ/2027/06_ARTISTER/Emma Steinbakken/01_Fra-artist/IMG_3466.JPG
+  _HYSJ/2027/06_ARTISTER/Emma Steinbakken/04_Eksport/Artboard21-1.jpg
+    -> HYSJ/2027/06_ARTISTER/Emma Steinbakken/04_Eksport/Artboard21-1.jpg
+  _HYSJ/2027/06_ARTISTER/Emma Steinbakken/04_Eksport/Artboard2-beige.jpg
+    -> HYSJ/2027/06_ARTISTER/Emma Steinbakken/04_Eksport/Artboard2-beige.jpg
+  _HYSJ/2027/06_ARTISTER/Emma Steinbakken/04_Eksport/Utkast/Artboard2-rosa.jpg
+    -> HYSJ/2027/06_ARTISTER/Emma Steinbakken/04_Eksport/Utkast/Artboard2-rosa.jpg
+  _HYSJ/2027/06_ARTISTER/Emma Steinbakken/04_Eksport/Utkast/Artboard2.jpg
+    -> HYSJ/2027/06_ARTISTER/Emma Steinbakken/04_Eksport/Utkast/Artboard2.jpg
+  _HYSJ/2027/03_NYHETSBREV/Unsorted_Export/HYSJVENN-PLAKAT_Nyhetsbrev_SnartUtsolgt.jpg
+    -> HYSJ/2027/03_NYHETSBREV/Unsorted_Export/HYSJVENN-PLAKAT_Nyhetsbrev_SnartUtsolgt.jpg
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/02_Prosjektfiler/10062026_SuperEarlyBird.af
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/02_Prosjektfiler/10062026_SuperEarlyBird.af
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v1/HYSJVENN-PLAKAT_Nyhetsbrev_Lørdag.jpg
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v1/HYSJVENN-PLAKAT_Nyhetsbrev_Lørdag.jpg
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v1/HYSJVENN-PLAKAT_EarlyBird.jpg
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v1/HYSJVENN-PLAKAT_EarlyBird.jpg
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v1/HYSJVENN-PLAKAT_Billettpris_Fordel.jpg
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v1/HYSJVENN-PLAKAT_Billettpris_Fordel.jpg
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v1/HYSJVENN-PLAKAT_Nyhetsbrev_Mandag.jpg
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v1/HYSJVENN-PLAKAT_Nyhetsbrev_Mandag.jpg
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v1/SuperEarlyBird_ISalgNå.jpg
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v1/SuperEarlyBird_ISalgNå.jpg
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v2/HYSJVENN-PLAKAT_Nyhetsbrev_Lørdag.jpg
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v2/HYSJVENN-PLAKAT_Nyhetsbrev_Lørdag.jpg
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v2/HYSJVENN-PLAKAT_EarlyBird.jpg
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v2/HYSJVENN-PLAKAT_EarlyBird.jpg
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v2/HYSJVENN-PLAKAT_Billettpris_Fordel.jpg
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v2/HYSJVENN-PLAKAT_Billettpris_Fordel.jpg
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v2/HYSJVENN-PLAKAT_Nyhetsbrev_Mandag.jpg
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v2/HYSJVENN-PLAKAT_Nyhetsbrev_Mandag.jpg
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v2/SuperEarlyBird_ISalgNå.jpg
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v2/SuperEarlyBird_ISalgNå.jpg
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v3/HYSJVENN-PLAKAT_EarlyBird.jpg
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v3/HYSJVENN-PLAKAT_EarlyBird.jpg
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v3/SuperEarlyBird_ISalgNå.jpg
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/Utkast/v3/SuperEarlyBird_ISalgNå.jpg
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/v4/HYSJVENN-PLAKAT_Nyhetsbrev_Lørdag.jpg
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/v4/HYSJVENN-PLAKAT_Nyhetsbrev_Lørdag.jpg
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/v4/baretekst-HYSJVENN-PLAKAT_Nyhetsbrev_Lørdag.png
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/v4/baretekst-HYSJVENN-PLAKAT_Nyhetsbrev_Lørdag.png
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/v4/Rope 08.png
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/v4/Rope 08.png
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/v4/HYSJVENN-Nyhetsbrev_EarlyBird-Priser.jpg
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/v4/HYSJVENN-Nyhetsbrev_EarlyBird-Priser.jpg
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/v4/HYSJVENN-PLAKAT_Nyhetsbrev_Mandag-HUSK.jpg
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/v4/HYSJVENN-PLAKAT_Nyhetsbrev_Mandag-HUSK.jpg
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/v4/v2-HYSJVENN-PLAKAT_Nyhetsbrev_Lørdag.png
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/v4/v2-HYSJVENN-PLAKAT_Nyhetsbrev_Lørdag.png
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/v4/TEKST-HYSJVENN-PLAKAT_Nyhetsbrev_Lørdag.jpg
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/v4/TEKST-HYSJVENN-PLAKAT_Nyhetsbrev_Lørdag.jpg
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/v4/HYSJVENN-PLAKAT_Nyhetsbrev_Mandag-HUSK-pris.jpg
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/v4/HYSJVENN-PLAKAT_Nyhetsbrev_Mandag-HUSK-pris.jpg
+  _HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/v4/HYSJVENN-PLAKAT_Nyhetsbrev_Mandag.jpg
+    -> HYSJ/2027/05_PROSJEKTER/2026-06-10_SuperEarlyBird/03_Eksport/v4/HYSJVENN-PLAKAT_Nyhetsbrev_Mandag.jpg
+  _HYSJ/2027/02_NETTSIDE/Ticketmaster/1-Header_Bilde-Mobil.jpg
+    -> HYSJ/2027/02_NETTSIDE/Ticketmaster/1-Header_Bilde-Mobil.jpg
+  _HYSJ/2027/02_NETTSIDE/Ticketmaster/1-Header_Bilde-Desktop.jpg
+    -> HYSJ/2027/02_NETTSIDE/Ticketmaster/1-Header_Bilde-Desktop.jpg
+  _HYSJ/01_PROFIL/HYSJVENN.zip
+    -> HYSJ/01_PROFIL/HYSJVENN.zip
+  _HYSJ/01_PROFIL/Select-Brand.zip
+    -> HYSJ/01_PROFIL/Select-Brand.zip
+  _HYSJ/01_PROFIL/HYSJ-poster-lansering.ait
+    -> HYSJ/01_PROFIL/HYSJ-poster-lansering.ait
+  _HYSJ/01_PROFIL/Fonter/TypeType - TT Nooks Script Bold.otf
+    -> HYSJ/2026/07_Festival/Backdrop/Assets/Font/TypeType - TT Nooks Script Bold.otf
+  _HYSJ/01_PROFIL/Fonter/Bowlby_One/BowlbyOne-Regular.ttf
+    -> HYSJ/2026/07_Festival/Backdrop/Assets/Font/BowlbyOne-Regular.ttf
+  _HYSJ/01_PROFIL/Fonter/Bowlby_One/OFL.txt
+    -> HYSJ/2026/02_Videoprosjekter/JONASDIVHYSJ/Brand/Profilelementer-2/Fonter/Bowlby_One/OFL.txt
+  _HYSJ/01_PROFIL/Farger/HYSJ-farger-2026.ase
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Farger/HYSJ-farger-2026.ase
+  _HYSJ/01_PROFIL/Farger/HYSJ-farger-2026.pdf
+    -> HYSJ/2026/02_Videoprosjekter/JONASDIVHYSJ/Brand/Profilelementer-2/Farger/HYSJ-farger-2026.pdf
+  _HYSJ/01_PROFIL/Farger/HYSJ-farger-2026.ai
+    -> HYSJ/2026/02_Videoprosjekter/JONASDIVHYSJ/Brand/Profilelementer-2/Farger/HYSJ-farger-2026.ai
+  _HYSJ/01_PROFIL/Rammer-og-bakgrunner/02-HYSJ-rammer-3-416.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Rammer-og-bakgrunner/02-HYSJ-rammer-3-416.png
+  _HYSJ/01_PROFIL/Rammer-og-bakgrunner/HYSJ-VENN-logo-1920x1080.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Rammer-og-bakgrunner/HYSJ-VENN-logo-1920x1080.png
+  _HYSJ/01_PROFIL/Rammer-og-bakgrunner/HYSJ-VENN-logo-1080x1080.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Rammer-og-bakgrunner/HYSJ-VENN-logo-1080x1080.png
+  _HYSJ/01_PROFIL/Rammer-og-bakgrunner/01-HYSJ-rammer-1-1.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Rammer-og-bakgrunner/01-HYSJ-rammer-1-1.png
+  _HYSJ/01_PROFIL/Logo/HYSJ-kvadrat-red-01.svg
+    -> HYSJ/2026/02_Videoprosjekter/AFTERMOVIE-COMPING/Models/HYSJ-kvadrat-red-01.svg
+  _HYSJ/01_PROFIL/Logo/HYSJ-VENN-logo.pdf
+    -> HYSJ/2026/02_Videoprosjekter/JONASDIVHYSJ/Brand/HYSJVENN/HYSJ-VENN-logo.pdf
+  _HYSJ/01_PROFIL/Logo/HYSJ-VENN-logo.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/HYSJ-VENN-logo.png
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/HYSJ-logo-kvadratisk-samlet.pdf
+    -> HYSJ/2026/02_Videoprosjekter/JONASDIVHYSJ/Brand/Profilelementer-2/Logo/Kvadratisk/HYSJ-logo-kvadratisk-samlet.pdf
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-red-01..png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-red-01..png
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-red-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-red-03.png
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-blue-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-blue-04.png
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-black-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-black-04.png
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-pink-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-pink-04.png
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-red-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-red-02.png
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-blue-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-blue-01.png
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-black-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-black-01.png
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-pink-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-pink-01.png
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-blue-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-blue-02.png
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-black-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-black-02.png
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-pink-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-pink-03.png
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-pink-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-pink-02.png
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-black-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-black-03.png
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-red-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-red-04.png
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-blue-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-blue-03.png
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-yellow-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-yellow-01.png
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-yellow-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-yellow-02.png
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-yellow-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-yellow-03.png
+  _HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-yellow-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-yellow-04.png
+  _HYSJ/01_PROFIL/Logo/3d/model.stl
+    -> HYSJ/2026/02_Videoprosjekter/AFTERMOVIE-COMPING/Models/3d/model.stl
+  _HYSJ/01_PROFIL/Logo/3d/model.3mf
+    -> HYSJ/2026/02_Videoprosjekter/AFTERMOVIE-COMPING/Models/3d/model.3mf
+  _HYSJ/01_PROFIL/Logo/3d/model/model.obj
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/3d/model/model.obj
+  _HYSJ/01_PROFIL/Logo/3d/model/model.mtl
+    -> HYSJ/2026/02_Videoprosjekter/AFTERMOVIE-COMPING/Models/3d/model/model.mtl
+  _HYSJ/01_PROFIL/Logo/Liggende/HYSJ-logo-liggende-samlet.pdf
+    -> HYSJ/2026/02_Videoprosjekter/JONASDIVHYSJ/Brand/Profilelementer-2/Logo/Liggende/HYSJ-logo-liggende-samlet.pdf
+  _HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-blue-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-blue-04.png
+  _HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-yellow-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-yellow-03.png
+  _HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-yellow-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-yellow-02.png
+  _HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-pink-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-pink-04.png
+  _HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-black-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-black-04.png
+  _HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-yellow-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-yellow-01.png
+  _HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-black-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-black-03.png
+  _HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-blue-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-blue-02.png
+  _HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-pink-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-pink-03.png
+  _HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-yellow-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-yellow-04.png
+  _HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-pink-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-pink-02.png
+  _HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-blue-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-blue-03.png
+  _HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-black-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-black-02.png
+  _HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-blue-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-blue-01.png
+  _HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-pink-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-pink-01.png
+  _HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-black-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-black-01.png
+  _HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-red-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-red-01.png
+  _HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-red-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-red-03.png
+  _HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-red-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-red-02.png
+  _HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-red-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-red-04.png
+  _HYSJ/01_PROFIL/Profilelementer/HYSJ-Munn-Klistremerke.pdf
+    -> HYSJ/01_PROFIL/Profilelementer/HYSJ-Munn-Klistremerke.pdf
+  _HYSJ/01_PROFIL/Profilelementer/HYSJ-Klistremerke.af
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/HYSJ-Klistremerke.af
+  _HYSJ/01_PROFIL/Profilelementer/HYSJ-Logo-Klistremerke.pdf
+    -> HYSJ/01_PROFIL/Profilelementer/HYSJ-Logo-Klistremerke.pdf
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjfinger-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjfinger-01.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjfinger-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjfinger-02.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropehender-09.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropehender-09.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropehender-08.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropehender-08.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjfinger-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjfinger-03.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjfinger-07.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjfinger-07.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjfinger-06.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjfinger-06.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjfinger-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjfinger-04.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjfinger-05.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjfinger-05.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjmunn-08.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjmunn-08.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropemunn-08.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropemunn-08.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropemunn-09.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropemunn-09.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjmunn-09.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjmunn-09.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjmunn-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjmunn-04.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropemunn-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropemunn-04.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropemunn-05.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropemunn-05.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjmunn-05.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjmunn-05.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjmunn-07.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjmunn-07.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropemunn-07.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropemunn-07.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropemunn-06.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropemunn-06.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjmunn-06.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjmunn-06.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjmunn-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjmunn-02.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropemunn-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropemunn-02.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropemunn-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropemunn-03.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjmunn-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjmunn-03.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjmunn-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjmunn-01.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropemunn-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropemunn-01.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropehender-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropehender-03.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjfinger-08.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjfinger-08.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjfinger-09.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjfinger-09.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropehender-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropehender-02.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropehender-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropehender-01.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropehender-05.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropehender-05.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropehender-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropehender-04.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropehender-06.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropehender-06.png
+  _HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropehender-07.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropehender-07.png
+  _STØY/99_ARKIV/Gammel-profil/Lydbølger-animasjon/Lydbølge-Cyan-v1_fastnoise.mov
+    -> STØY/99_ARKIV/Gammel-profil/Lydbølger-animasjon/Lydbølge-Cyan-v1_fastnoise.mov
+  _STØY/99_ARKIV/Gammel-profil/Lydbølger-animasjon/Lydbølge-Cyan-v2_audio.mp4
+    -> STØY/99_ARKIV/Gammel-profil/Lydbølger-animasjon/Lydbølge-Cyan-v2_audio.mp4
+  _STØY/99_ARKIV/Gammel-profil/Lydbølger-animasjon/Lydbølge-Cyan-v1_audio.mp4
+    -> STØY/99_ARKIV/Gammel-profil/Lydbølger-animasjon/Lydbølge-Cyan-v1_audio.mp4
+  _STØY/99_ARKIV/Gammel-profil/Lydbølger-animasjon/AudioVisualizer.setting
+    -> STØY/99_ARKIV/Gammel-profil/Lydbølger-animasjon/AudioVisualizer.setting
+  _STØY/99_ARKIV/Gammel-profil/Lydbølger-animasjon/wavy_ribbons.setting
+    -> STØY/99_ARKIV/Gammel-profil/Lydbølger-animasjon/wavy_ribbons.setting
+  _STØY/2027/01_SOME/STØY-Socials.af
+    -> STØY/2027/01_SOME/STØY-Socials.af
+  _STØY/2027/01_SOME/Profilbilder-og-cover/Profilbilde-LYS.jpg
+    -> STØY/2027/01_SOME/Profilbilder-og-cover/Profilbilde-LYS.jpg
+  _STØY/2027/01_SOME/Profilbilder-og-cover/Profilbilde-LYS.png
+    -> STØY/2027/01_SOME/Profilbilder-og-cover/Profilbilde-LYS.png
+  _STØY/2027/01_SOME/Profilbilder-og-cover/Profilbilde.jpg
+    -> STØY/2027/01_SOME/Profilbilder-og-cover/Profilbilde.jpg
+  _STØY/2027/01_SOME/Profilbilder-og-cover/Profilbilde.png
+    -> STØY/2027/01_SOME/Profilbilder-og-cover/Profilbilde.png
+  _STØY/2027/01_SOME/Profilbilder-og-cover/Linkedin.jpg
+    -> STØY/2027/01_SOME/Profilbilder-og-cover/Linkedin.jpg
+  _STØY/2027/01_SOME/Profilbilder-og-cover/Facebook-Cover2.jpg
+    -> STØY/2027/01_SOME/Profilbilder-og-cover/Facebook-Cover2.jpg
+  _STØY/2027/01_SOME/Profilbilder-og-cover/Facebook-Cover.jpg
+    -> STØY/2027/01_SOME/Profilbilder-og-cover/Facebook-Cover.jpg
+  _STØY/2027/01_SOME/Instagram/Artboard1.jpg
+    -> STØY/2027/01_SOME/Instagram/Artboard1.jpg
+  _STØY/2027/01_SOME/Instagram/Artboard3.jpg
+    -> STØY/2027/01_SOME/Instagram/Artboard3.jpg
+  _STØY/2027/01_SOME/Instagram/Artboard2.jpg
+    -> STØY/2027/01_SOME/Instagram/Artboard2.jpg
+  _STØY/2027/05_PROSJEKTER/2026-07-06_Nevn-5-artister/02_Prosjektfiler/nevn5artister.af
+    -> STØY/2027/05_PROSJEKTER/2026-07-06_Nevn-5-artister/02_Prosjektfiler/nevn5artister.af
+  _STØY/2027/05_PROSJEKTER/2026-07-06_Nevn-5-artister/03_Eksport/story-nevn5artister-v2.jpg
+    -> STØY/2027/05_PROSJEKTER/2026-07-06_Nevn-5-artister/03_Eksport/story-nevn5artister-v2.jpg
+  _STØY/2027/05_PROSJEKTER/2026-07-06_Nevn-5-artister/03_Eksport/nevn5artister-v2.jpg
+    -> STØY/2027/05_PROSJEKTER/2026-07-06_Nevn-5-artister/03_Eksport/nevn5artister-v2.jpg
+  _STØY/2027/05_PROSJEKTER/2026-07-06_Nevn-5-artister/03_Eksport/nevn5artister-medbølge.mp4
+    -> STØY/2027/05_PROSJEKTER/2026-07-06_Nevn-5-artister/03_Eksport/nevn5artister-medbølge.mp4
+  _STØY/2027/05_PROSJEKTER/2026-07-06_Nevn-5-artister/03_Eksport/Utkast/nevn5artister.jpg
+    -> STØY/2027/05_PROSJEKTER/2026-07-06_Nevn-5-artister/03_Eksport/Utkast/nevn5artister.jpg
+  _STØY/2027/02_NETTSIDE/Squarespace-06072026-Støy_Festivalen.pdf
+    -> STØY/2027/02_NETTSIDE/Squarespace-06072026-Støy_Festivalen.pdf
+  _STØY/2027/02_NETTSIDE/Ticketmaster/Ticketmaster-Header.jpg
+    -> STØY/2027/02_NETTSIDE/Ticketmaster/Ticketmaster-Header.jpg
+  _STØY/2027/02_NETTSIDE/Ticketmaster/Om-Ticketmaster.jpg
+    -> STØY/2027/02_NETTSIDE/Ticketmaster/Om-Ticketmaster.jpg
+  _STØY/2027/02_NETTSIDE/Ticketmaster/1-Header_Bilde-Mobil.jpg
+    -> STØY/2027/02_NETTSIDE/Ticketmaster/1-Header_Bilde-Mobil.jpg
+  _STØY/2027/02_NETTSIDE/Ticketmaster/1-Header_Bilde-Desktop.jpg
+    -> STØY/2027/02_NETTSIDE/Ticketmaster/1-Header_Bilde-Desktop.jpg
+  _STØY/01_PROFIL/Fonter/Commuters_Sans_Bold_Italic.otf
+    -> _Resources/allefonter/Commuters_Sans/Commuters_Sans_Bold_Italic.otf
+  _STØY/01_PROFIL/Fonter/Commuters_Sans_ExtraBold_Italic.otf
+    -> _Resources/allefonter/Commuters_Sans/Commuters_Sans_ExtraBold_Italic.otf
+  _STØY/01_PROFIL/Fonter/Commuters_Sans_Italic.otf
+    -> _Resources/allefonter/Commuters_Sans/Commuters_Sans_Italic.otf
+  _STØY/01_PROFIL/Fonter/Commuters_Sans_Thin_Italic.otf
+    -> _Resources/allefonter/Commuters_Sans/Commuters_Sans_Thin_Italic.otf
+  _STØY/01_PROFIL/Fonter/Commuters_Sans_Light.otf
+    -> _Resources/allefonter/Commuters_Sans/Commuters_Sans_Light.otf
+  _STØY/01_PROFIL/Fonter/Commuters_Sans_ExtraLight.otf
+    -> _Resources/allefonter/Commuters_Sans/Commuters_Sans_ExtraLight.otf
+  _STØY/01_PROFIL/Fonter/Commuters_Sans_Regular.otf
+    -> _Resources/allefonter/Commuters_Sans/Commuters_Sans_Regular.otf
+  _STØY/01_PROFIL/Fonter/Commuters_Sans_Light_Italic.otf
+    -> _Resources/allefonter/Commuters_Sans/Commuters_Sans_Light_Italic.otf
+  _STØY/01_PROFIL/Fonter/Commuters_Sans_SemiBold.otf
+    -> _Resources/allefonter/Commuters_Sans/Commuters_Sans_SemiBold.otf
+  _STØY/01_PROFIL/Fonter/Commuters_Sans_ExtraBold.otf
+    -> _Resources/allefonter/Commuters_Sans/Commuters_Sans_ExtraBold.otf
+  _STØY/01_PROFIL/Fonter/Commuters_Sans_SemiBold_Italic.otf
+    -> _Resources/allefonter/Commuters_Sans/Commuters_Sans_SemiBold_Italic.otf
+  _STØY/01_PROFIL/Fonter/Commuters_Sans_Thin.otf
+    -> _Resources/allefonter/Commuters_Sans/Commuters_Sans_Thin.otf
+  _STØY/01_PROFIL/Fonter/Commuters_Sans_Heavy_Italic.otf
+    -> _Resources/allefonter/Commuters_Sans/Commuters_Sans_Heavy_Italic.otf
+  _STØY/01_PROFIL/Fonter/Commuters_Sans_ExtraLight_Italic.otf
+    -> _Resources/allefonter/Commuters_Sans/Commuters_Sans_ExtraLight_Italic.otf
+  _STØY/01_PROFIL/Fonter/Commuters_Sans_Heavy.otf
+    -> _Resources/allefonter/Commuters_Sans/Commuters_Sans_Heavy.otf
+  _STØY/01_PROFIL/Fonter/Commuters_Sans_Bold.otf
+    -> _Resources/allefonter/Commuters_Sans/Commuters_Sans_Bold.otf
+  _STØY/01_PROFIL/Rammer-og-bakgrunner/Gul-pa-svart.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Rammer-og-bakgrunner/Gul-pa-svart.png
+  _STØY/01_PROFIL/Rammer-og-bakgrunner/Rosa.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Rammer-og-bakgrunner/Rosa.png
+  _STØY/01_PROFIL/Rammer-og-bakgrunner/Støy-Rammer.pdf
+    -> STØY/01_PROFIL/Rammer-og-bakgrunner/Støy-Rammer.pdf
+  _STØY/01_PROFIL/Rammer-og-bakgrunner/Cyan-pa-svart.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Rammer-og-bakgrunner/Cyan-pa-svart.png
+  _STØY/01_PROFIL/Rammer-og-bakgrunner/Yellow.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Rammer-og-bakgrunner/Yellow.png
+  _STØY/01_PROFIL/Rammer-og-bakgrunner/Støy-Rammer.ai
+    -> STØY/01_PROFIL/Rammer-og-bakgrunner/Støy-Rammer.ai
+  _STØY/01_PROFIL/Rammer-og-bakgrunner/Cyan.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Rammer-og-bakgrunner/Cyan.png
+  _STØY/01_PROFIL/Logo/STØY-logo-samlet.pdf
+    -> STØY/01_PROFIL/Logo/STØY-logo-samlet.pdf
+  _STØY/01_PROFIL/Logo/STØY-logo-samlet.ai
+    -> STØY/01_PROFIL/Logo/STØY-logo-samlet.ai
+  _STØY/01_PROFIL/Logo/PNGs/STØY-logo-hvit+cmy.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Logo/PNGs/STØY-logo-hvit+cmy.png
+  _STØY/01_PROFIL/Logo/PNGs/STØY-logo-grønn-clean.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Logo/PNGs/STØY-logo-grønn-clean.png
+  _STØY/01_PROFIL/Logo/PNGs/STØY-logo-magenta-clean.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Logo/PNGs/STØY-logo-magenta-clean.png
+  _STØY/01_PROFIL/Logo/PNGs/STØY-logo-hvit-clean.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Logo/PNGs/STØY-logo-hvit-clean.png
+  _STØY/01_PROFIL/Logo/PNGs/STØY-logo-yellow-clean.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Logo/PNGs/STØY-logo-yellow-clean.png
+  _STØY/01_PROFIL/Logo/PNGs/STØY-logo-svart-clean.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Logo/PNGs/STØY-logo-svart-clean.png
+  _STØY/01_PROFIL/Logo/PNGs/STØY-logo-svart+cmy.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Logo/PNGs/STØY-logo-svart+cmy.png
+  _STØY/01_PROFIL/Logo/PNGs/STØY-logo-cyan-clean.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Logo/PNGs/STØY-logo-cyan-clean.png
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/PNGS/STØY-lydbølger-gulpåsvart.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/PNGS/STØY-lydbølger-gulpåsvart.png
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/PNGS/STØY-lydbølger-svartpåcyan.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/PNGS/STØY-lydbølger-svartpåcyan.png
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/PNGS/STØY-lydbølger-rosapåsvart.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/PNGS/STØY-lydbølger-rosapåsvart.png
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/PNGS/STØY-Loop-Cyan-svart.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/PNGS/STØY-Loop-Cyan-svart.png
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/PNGS/STØY-lydbølger-grønnpåsvart.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/PNGS/STØY-lydbølger-grønnpåsvart.png
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/PNGS/STØY-lydbølger-cyanpåsvart.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/PNGS/STØY-lydbølger-cyanpåsvart.png
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/PNGS/STØY-lydbølger-svartpågul.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/PNGS/STØY-lydbølger-svartpågul.png
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/PNGS/STØY-lydbølger-svartpårosa.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/PNGS/STØY-lydbølger-svartpårosa.png
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/PNGS/STØY-lydbølger-svartpågrønn.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/PNGS/STØY-lydbølger-svartpågrønn.png
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/Originalfiler/STØY-CYANPÅMØRK_CLAUDE.af
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/Originalfiler/STØY-CYANPÅMØRK_CLAUDE.af
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/Originalfiler/STØY-lydbølger.ai
+    -> STØY/01_PROFIL/Profilelementer/Lydbølger/Originalfiler/STØY-lydbølger.ai
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/Originalfiler/STØY-lydbølger.af
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/Originalfiler/STØY-lydbølger.af
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/Originalfiler/STØY-lydbølger.pdf
+    -> STØY/01_PROFIL/Profilelementer/Lydbølger/Originalfiler/STØY-lydbølger.pdf
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/Originalfiler/STØY-lydbølger-cyanpåsvart.svg
+    -> STØY/01_PROFIL/Profilelementer/Lydbølger/Originalfiler/STØY-lydbølger-cyanpåsvart.svg
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/Lydbølge-Cyan-v4-1_transparent-LOOP.mp4
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/Lydbølge-Cyan-v4-1_transparent-LOOP.mp4
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/Lydbølge-Cyan-v3_rosabakgrunn-LOOP.mp4
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/Lydbølge-Cyan-v3_rosabakgrunn-LOOP.mp4
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/Lydbølge-Cyan-v4-1_rosabakgrunn-LOOP.mp4
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/Lydbølge-Cyan-v4-1_rosabakgrunn-LOOP.mp4
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/Lydbølge-Cyan-v3_transparent-LOOP.mp4
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/Lydbølge-Cyan-v3_transparent-LOOP.mp4
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/On-Way/Lydbølge-Cyan-v3_transparent.mp4
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/On-Way/Lydbølge-Cyan-v3_transparent.mp4
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/On-Way/Lydbølge-Cyan-v3_rosabakgrunn.mp4
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/On-Way/Lydbølge-Cyan-v3_rosabakgrunn.mp4
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/On-Way/Lydbølge-Cyan-v4-1_transparent.mov
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/On-Way/Lydbølge-Cyan-v4-1_transparent.mov
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/On-Way/Lydbølge-Cyan-v4-1_transparent.mp4
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/On-Way/Lydbølge-Cyan-v4-1_transparent.mp4
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/On-Way/Lydbølge-Cyan-v4-1_rosabakgrunn-LOOP.mp4
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/On-Way/Lydbølge-Cyan-v4-1_rosabakgrunn-LOOP.mp4
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/On-Way/ Render-4_1-Lydbølge.mov
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/On-Way/ Render-4_1-Lydbølge.mov
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/On-Way/v2-Lydbølge-Cyan-v4-1_rosabakgrunn-LOOP.mp4
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/On-Way/v2-Lydbølge-Cyan-v4-1_rosabakgrunn-LOOP.mp4
+  _STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/On-Way/Lydbølge-Cyan-v4-1_rosabakgrunn.mp4
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/STØY/01_PROFIL/Profilelementer/Lydbølger/Animasjon/On-Way/Lydbølge-Cyan-v4-1_rosabakgrunn.mp4
+  Ticketmaster-Ressurser/Artist-Attraction_Spesifikasjon.pdf
+    -> Ticketmaster-Ressurser/Artist-Attraction_Spesifikasjon.pdf
+  Ticketmaster-Ressurser/EADP - info.pdf
+    -> Ticketmaster-Ressurser/EADP - info.pdf
+  Ticketmaster-Ressurser/Ticketmaster-Template.af
+    -> Ticketmaster-Ressurser/Ticketmaster-Template.af
+  Ticketmaster-Ressurser/Ticketmaster-Template.aftemplate
+    -> Ticketmaster-Ressurser/Ticketmaster-Template.aftemplate
+
+SAME NAME, DIFFERENT SIZE: 9
+  _SVAL/2027/02_NETTSIDE/Ticketmaster/Sval-Ticketmaster.af (2419959)
+    -> SVAL/2027/02_NETTSIDE/Ticketmaster/Sval-Ticketmaster.af (3056561)
+  _SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-bakgrunner.af (3083980)
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-bakgrunner.af (5126381)
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v1_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-bakgrunner.af (5126381)
+    -> SVAL/01_PROFIL/Rammer-og-bakgrunner/16-9 bakgrunner/SVAL-16-9-bakgrunner.af (5126381)
+  _SVAL/01_PROFIL/Logo/SVAL-logo-samlet.af (41804)
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Logo/SVAL-logo-samlet.af (108715)
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v1_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/SVAL/01_PROFIL/Logo/SVAL-logo-samlet.af (108715)
+    -> SVAL/01_PROFIL/Logo/SVAL-logo-samlet.af (93258)
+  _LUSH/2027/04_PARTNERE/MossFK/03_Prosjektfiler/Still 2026-06-24 140607_2.2.1.af (5553912)
+    -> LUSH/2027/04_PARTNERE/MossFK/03_Prosjektfiler/Still 2026-06-24 140607_2.2.1.af (8744747)
+  _LUSH/2027/01_SOME/LUSH-FørsteInsta.af (14580414)
+    -> LUSH/2027/01_SOME/LUSH-FørsteInsta.af (14992456)
+  _LUSH/2027/02_NETTSIDE/Ticketmaster/Lush-Ticketmaster.af (264963)
+    -> LUSH/2027/02_NETTSIDE/Ticketmaster/Lush-Ticketmaster.af (2041612)
+  _HYSJ/2027/06_ARTISTER/Emma Steinbakken/03_Prosjektfiler/IMG_3466.af (349521429)
+    -> HYSJ/2027/06_ARTISTER/Emma Steinbakken/03_Prosjektfiler/IMG_3466.af (326892320)
+  _HYSJ/2027/02_NETTSIDE/Ticketmaster/Hysj-Ticketmaster.af (4839963)
+    -> HYSJ/2027/02_NETTSIDE/Ticketmaster/Hysj-Ticketmaster.af (10666134)
+  _STØY/2027/02_NETTSIDE/Ticketmaster/Stoy-Ticketmaster.af (260954)
+    -> STØY/2027/02_NETTSIDE/Ticketmaster/Stoy-Ticketmaster.af (1993030)
+
+MISSING: 0  total 0.00 GB

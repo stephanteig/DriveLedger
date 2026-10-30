@@ -1,0 +1,414 @@
+FOUND (content match anywhere on ByHola_1): 760
+  of which under a DIFFERENT NAME: 7
+    01_Artister/OdaRose/Magenta __ 4K/Store ord  : 2.mov :: Kan brukes alene .mov
+      -> HYSJ/2026/01_Artister/OdaRose/Store ord _ 2.mov __ Kan brukes alene .mov
+    04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_pos (1).pdf
+      -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_pos.pdf
+    04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_neg.pdf
+      -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_neg (1).pdf
+    04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_pos.eps
+      -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_pos (1).eps
+    04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_neg.eps
+      -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_neg (1).eps
+    03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-pink-012.png
+      -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-pink-02.png
+    03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-pink-013.png
+      -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-pink-03.png
+
+MISSING: 396  total 100.18 GB
+  03_Profil/2000følgere.jpg	0.4 MB
+  03_Profil/2000følgere.psd	7.4 MB
+  03_Profil/2000følgerev2.jpg	0.2 MB
+  03_Profil/2000følgerev3.jpg	0.2 MB
+  03_Profil/Farger/sebsnartutsolgt.ai	3.7 MB
+  03_Profil/Farger/sebsnartutsolgtArtboard 1-v1.jpg	2.6 MB
+  03_Profil/Farger/sebsnartutsolgtArtboard 1-v2.jpg	2.4 MB
+  03_Profil/Farger/sebsnartutsolgtArtboard 1-v3.jpg	2.4 MB
+  03_Profil/Farger/sebsnartutsolgtArtboard 1-v4.jpg	2.3 MB
+  03_Profil/Farger/sebsnartutsolgtArtboard 1-v5.jpg	2.4 MB
+  03_Profil/Farger/sebsnartutsolgtArtboard 2-v1.jpg	3.9 MB
+  03_Profil/Farger/sebsnartutsolgtArtboard 2-v2.jpg	3.1 MB
+  03_Profil/Logo/Liggende/HYSJ-logo-liggende-samlet.af	0.0 MB
+  04_Partnere/Partnerslipp/Aass/4x/partnerslippArtboard 3 copy 10aass-cbycv3.jpg	1.0 MB
+  04_Partnere/Partnerslipp/Aass/4x/partnerslippArtboard 3 copy 13aass-cbycv3.jpg	1.0 MB
+  04_Partnere/Partnerslipp/Aass/4x/partnerslippArtboard 3 copy 27aass-cbycv3.jpg	0.8 MB
+  04_Partnere/Partnerslipp/Aass/4x/partnerslippArtboard 3 copy 28aass-cbycv3.jpg	0.9 MB
+  04_Partnere/Partnerslipp/Aass/4x/partnerslippArtboard 3 copy 29aass-cbycv3.jpg	0.9 MB
+  04_Partnere/Partnerslipp/Aass/4x/partnerslippArtboard 3 copy 30aass-cbycv3.jpg	0.9 MB
+  04_Partnere/Partnerslipp/Aass/4x/partnerslippArtboard 3 copy 4aass-cbycv3.jpg	1.0 MB
+  04_Partnere/Partnerslipp/Aass/4x/partnerslippArtboard 3 copy 5aass-cbycv3.jpg	1.0 MB
+  04_Partnere/Partnerslipp/Aass/4x/partnerslippArtboard 3 copy 7aass-cbycv3.jpg	1.0 MB
+  04_Partnere/Partnerslipp/Aass/4x/partnerslippBLANKaass-cbycv3.jpg	0.7 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3702.HEIC	5.2 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3703.HEIC	4.2 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3704.HEIC	4.9 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3705.HEIC	5.5 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3707.HEIC	2.2 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3708.HEIC	2.4 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3709.HEIC	2.3 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3710.HEIC	2.9 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3711.HEIC	2.9 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3712.HEIC	2.9 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3713.HEIC	2.9 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3714.HEIC	2.9 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3715.HEIC	2.5 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3718.HEIC	2.6 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3720.HEIC	2.7 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3721.HEIC	2.5 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3723.HEIC	1.2 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3725.HEIC	1.3 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3726.HEIC	1.3 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3727.HEIC	3.9 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3728.HEIC	4.4 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3729.HEIC	4.0 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3730.HEIC	4.1 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3731.HEIC	4.3 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3732.HEIC	4.3 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3733.HEIC	3.0 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3734.HEIC	2.5 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3735.HEIC	2.6 MB
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3736.HEIC	2.7 MB
+  04_Partnere/Partnerslipp/Aass/JPG/partnerslippArtboard 3 copy 10aass-cbyc.jpg	1.0 MB
+  04_Partnere/Partnerslipp/Aass/JPG/partnerslippArtboard 3 copy 13aass-cbyc.jpg	1.0 MB
+  04_Partnere/Partnerslipp/Aass/JPG/partnerslippArtboard 3 copy 27aass-cbyc.jpg	0.8 MB
+  04_Partnere/Partnerslipp/Aass/JPG/partnerslippArtboard 3 copy 28aass-cbyc.jpg	0.9 MB
+  04_Partnere/Partnerslipp/Aass/JPG/partnerslippArtboard 3 copy 29aass-cbyc.jpg	0.9 MB
+  04_Partnere/Partnerslipp/Aass/JPG/partnerslippArtboard 3 copy 30aass-cbyc.jpg	0.9 MB
+  04_Partnere/Partnerslipp/Aass/JPG/partnerslippArtboard 3 copy 4aass-cbyc.jpg	1.0 MB
+  04_Partnere/Partnerslipp/Aass/JPG/partnerslippArtboard 3 copy 5aass-cbyc.jpg	1.0 MB
+  04_Partnere/Partnerslipp/Aass/JPG/partnerslippArtboard 3 copy 7aass-cbyc.jpg	1.0 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 10aass-cbycv4.jpg	1.0 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 11aass-cbycv4.jpg	1.1 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 12aass-cbycv4.jpg	1.1 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 13aass-cbycv4.jpg	1.0 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 14aass-cbycv4.jpg	1.1 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 15aass-cbycv4.jpg	1.1 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 16aass-cbycv4.jpg	1.1 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 17aass-cbycv4.jpg	1.2 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 18aass-cbycv4.jpg	1.2 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 19aass-cbycv4.jpg	1.2 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 20aass-cbycv4.jpg	1.2 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 21aass-cbycv4.jpg	1.2 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 22aass-cbycv4.jpg	1.2 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 23aass-cbycv4.jpg	1.2 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 24aass-cbycv4.jpg	1.2 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 25aass-cbycv4.jpg	1.2 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 27aass-cbycv4.jpg	0.8 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 28aass-cbycv4.jpg	0.9 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 29aass-cbycv4.jpg	0.9 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 30aass-cbycv4.jpg	0.9 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 4aass-cbycv4.jpg	1.0 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 5aass-cbycv4.jpg	1.0 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 6aass-cbycv4.jpg	1.1 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 7aass-cbycv4.jpg	1.0 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 8aass-cbycv4.jpg	1.0 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 9aass-cbycv4.jpg	1.1 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippBLANKaass-cbycv4.jpg	0.7 MB
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippBLANKaass-cbycv4.pdf	1.7 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 10aass-cbyc.jpg	1.0 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 11aass-cbyc.jpg	1.1 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 12aass-cbyc.jpg	1.1 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 13aass-cbyc.jpg	1.0 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 14aass-cbyc.jpg	1.1 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 15aass-cbyc.jpg	1.1 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 16aass-cbyc.jpg	1.1 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 17aass-cbyc.jpg	1.2 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 18aass-cbyc.jpg	1.2 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 19aass-cbyc.jpg	1.2 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 20aass-cbyc.jpg	1.2 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 21aass-cbyc.jpg	1.2 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 22aass-cbyc.jpg	1.2 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 23aass-cbyc.jpg	1.2 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 24aass-cbyc.jpg	1.2 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 25aass-cbyc.jpg	1.2 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 4aass-cbyc.jpg	0.9 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 5aass-cbyc.jpg	1.0 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 6aass-cbyc.jpg	1.1 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 7aass-cbyc.jpg	0.9 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 8aass-cbyc.jpg	1.0 MB
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 9aass-cbyc.jpg	1.1 MB
+  04_Partnere/Partnerslipp/Aass/tester/aassSlipp-v1-ide1.mp4	0.9 MB
+  04_Partnere/Partnerslipp/Aass/tester/aassSlipp-v2-ide1.mp4	15.4 MB
+  04_Partnere/Partnerslipp/Aass/tester/aassSlipp-v3.mp4	15.0 MB
+  04_Partnere/Partnerslipp/CLAUDE.md	0.0 MB
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2722.MP4	671.4 MB
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2722M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2723.MP4	1409.6 MB
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2723M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2724.MP4	402.9 MB
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2724M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2725.MP4	268.7 MB
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2725M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2726.MP4	335.8 MB
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2726M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2727.MP4	738.5 MB
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2727M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2728.MP4	268.7 MB
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2728M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2729.MP4	268.7 MB
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2729M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Coca-Cola/Coca-Cola_logo_sort.eps	2.1 MB
+  04_Partnere/Partnerslipp/Coca-Cola/Coca-Cola_logo_sort.png	0.2 MB
+  04_Partnere/Partnerslipp/Coca-Cola/HYSJ-CocaCola-Partnerslipp-v1 copy.mp4	1.9 MB
+  04_Partnere/Partnerslipp/Coca-Cola/HYSJ-CocaCola-Partnerslipp-v1.mp4	51.7 MB
+  04_Partnere/Partnerslipp/Coca-Cola/See you Wednesday! 🔥 We’re having a Worship Night!! you can’t miss it! 🔥Doors open at 6-15 PM..m4a	0.1 MB
+  04_Partnere/Partnerslipp/Coca-Cola/See you Wednesday! 🔥 We’re having a Worship Night!! you can’t miss it! 🔥Doors open at 6-15 PM..mp4	1.5 MB
+  04_Partnere/Partnerslipp/Coca-Cola/output.mp4	1.7 MB
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3604.HEIC	3.8 MB
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3604.jpeg	6.3 MB
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3607.HEIC	3.5 MB
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3607.jpeg	5.4 MB
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3610.HEIC	5.4 MB
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3610.jpeg	7.8 MB
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3615.HEIC	2.6 MB
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3615.jpeg	3.6 MB
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3624.HEIC	2.9 MB
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3624.jpeg	3.4 MB
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3631.HEIC	3.4 MB
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3631.jpeg	4.4 MB
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3633.HEIC	3.3 MB
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3633.jpeg	5.1 MB
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3637.HEIC	2.5 MB
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3637.jpeg	4.1 MB
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3640.HEIC	3.6 MB
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3640.jpeg	6.1 MB
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3644.HEIC	5.7 MB
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3644.jpeg	9.5 MB
+  04_Partnere/Partnerslipp/Dominos/Dominos-PartnerSlipp-v2.mp4	15.5 MB
+  04_Partnere/Partnerslipp/Dominos/Video by quasicasanova (DWuEeOaDQ-_).mp3	0.1 MB
+  04_Partnere/Partnerslipp/Dominos/test1.mp4	13.0 MB
+  04_Partnere/Partnerslipp/Modish/ModishSlipp-v1.mp4	6.1 MB
+  04_Partnere/Partnerslipp/Modish/ModishSlipp-v2-helhvit.mp4	6.1 MB
+  04_Partnere/Partnerslipp/Modish/ModishSlipp-v2.mp4	6.1 MB
+  04_Partnere/Partnerslipp/PSS/FX320260518_3000.MP4	1141.1 MB
+  04_Partnere/Partnerslipp/PSS/FX320260518_3000M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/PSS/Giacomo Maraboli - Brawl - Body Hit Metal Surface.wav	0.9 MB
+  04_Partnere/Partnerslipp/PSS/Kaska Paluch - Sounds of Iceland - Peninsula Ocean Waves Wind and Birds.wav	78.7 MB
+  04_Partnere/Partnerslipp/PSS/PSS-ARTISTSLIPP-V1.mp4	25.6 MB
+  04_Partnere/Partnerslipp/PSS/Still 2026-05-18 120759_3.4.1.drx	0.0 MB
+  04_Partnere/Partnerslipp/PSS/Still 2026-05-18 120759_3.4.1.jpg	3.1 MB
+  04_Partnere/Partnerslipp/PSS/stillllll.png	7.8 MB
+  04_Partnere/Partnerslipp/Partnerslipp-sjekkliste.xlsx	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527121845_0213_D.LRF	171.7 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527121845_0213_D.MP4	1357.2 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527121845_0213_D.SRT	1.2 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527122023_0214_D.LRF	39.6 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527122023_0214_D.MP4	197.7 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527122023_0214_D.SRT	0.2 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527122056_0215_D.LRF	46.1 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527122056_0215_D.MP4	255.3 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527122056_0215_D.SRT	0.2 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527122129_0216_D.LRF	72.4 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527122129_0216_D.MP4	485.6 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527122129_0216_D.SRT	0.4 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8830.MP4	3423.3 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8830M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8831.MP4	2618.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8831M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8832.MP4	3087.7 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8832M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8833.MP4	2416.6 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8833M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8834.MP4	604.7 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8834M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8835.MP4	1745.5 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8835M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8836.MP4	1678.4 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8836M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8837.MP4	4564.1 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8837M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8838.MP4	671.8 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8838M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8839.MP4	873.1 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8839M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8840.MP4	2014.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8840M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8841.MP4	1342.9 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8841M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8842.MP4	403.4 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8842M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8843.MP4	336.3 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8843M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8844.MP4	470.5 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8844M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8845.MP4	1074.5 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8845M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8846.MP4	2081.1 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8846M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8847.MP4	470.5 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8847M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8848.MP4	470.5 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8848M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8849.MP4	470.5 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8849M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8850.MP4	3154.8 MB
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8850M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Red-Bull/02_Ressurser/Grafikk/Document@2x.png	0.1 MB
+  04_Partnere/Partnerslipp/Red-Bull/02_Ressurser/Musikk/SpotiDownloader.com - Movin' To The Sun - HUGEL.mp3	14.2 MB
+  04_Partnere/Partnerslipp/Red-Bull/04_Eksport/Final/Redbull-Partnerslipp-v4.mp4	12.1 MB
+  04_Partnere/Partnerslipp/Red-Bull/04_Eksport/Utkast/Redbull-Partnerslipp-v1.mp4	12.3 MB
+  04_Partnere/Partnerslipp/Red-Bull/04_Eksport/Utkast/Redbull-Partnerslipp-v2.mp4	12.3 MB
+  04_Partnere/Partnerslipp/Red-Bull/04_Eksport/Utkast/Redbull-Partnerslipp-v3.mp4	12.2 MB
+  04_Partnere/Partnerslipp/Småslipp/Cutters-Rosa.mp4	5.0 MB
+  04_Partnere/Partnerslipp/Småslipp/Deluxe-Rosa.mp4	1.5 MB
+  04_Partnere/Partnerslipp/Småslipp/Eir-Rosa.mp4	4.0 MB
+  04_Partnere/Partnerslipp/Småslipp/Ferner-blå.mp4	3.1 MB
+  04_Partnere/Partnerslipp/Småslipp/Freequent-Rosa.mp4	5.0 MB
+  04_Partnere/Partnerslipp/Småslipp/GretlandReno-Blå.mp4	8.8 MB
+  04_Partnere/Partnerslipp/Småslipp/Hvila-Blå.mp4	6.8 MB
+  04_Partnere/Partnerslipp/Småslipp/InstallatørenSlipp-v1.mp4	1.6 MB
+  04_Partnere/Partnerslipp/Småslipp/InstallatørenSlipp-v2.mp4	1.6 MB
+  04_Partnere/Partnerslipp/Småslipp/InstallatørenSlipp-v3.mp4	1.6 MB
+  04_Partnere/Partnerslipp/Småslipp/JokerSlipp-v1.mp4	2.0 MB
+  04_Partnere/Partnerslipp/Småslipp/Norli-Beige.mp4	6.0 MB
+  04_Partnere/Partnerslipp/Småslipp/PurBlu-Blå.mp4	7.6 MB
+  04_Partnere/Partnerslipp/Småslipp/SP1-Beige.mp4	6.8 MB
+  04_Partnere/Partnerslipp/Småslipp/Solli-beige.mp4	3.0 MB
+  04_Partnere/Partnerslipp/Småslipp/StHarry-Blå.mp4	7.6 MB
+  04_Partnere/Partnerslipp/Småslipp/TM-Beige.mp4	8.0 MB
+  04_Partnere/Partnerslipp/Småslipp/XLUtleie-Beige.mp4	6.2 MB
+  04_Partnere/Partnerslipp/Småslipp/ceci-oransj.mp4	3.5 MB
+  04_Partnere/Partnerslipp/Småslipp/ceci.jpg	0.8 MB
+  04_Partnere/Partnerslipp/Småslipp/copyland.mp4	4.9 MB
+  04_Partnere/Partnerslipp/Småslipp/domino-interiør-rosa.mp4	2.6 MB
+  04_Partnere/Partnerslipp/Småslipp/domino.jpg	0.8 MB
+  04_Partnere/Partnerslipp/Småslipp/litthuset-oransj.mp4	4.3 MB
+  04_Partnere/Partnerslipp/Småslipp/marsel-partnerslipp.mp4	1.6 MB
+  04_Partnere/Partnerslipp/Småslipp/matværste-oransj.mp4	3.2 MB
+  04_Partnere/Partnerslipp/Småslipp/matværste.jpg	0.8 MB
+  04_Partnere/Partnerslipp/Småslipp/partnerslippArtboard 3 copy 2_1installatørencover.jpg	1.8 MB
+  04_Partnere/Partnerslipp/Småslipp/partnerslippArtboard 3 copy 2joker.jpg	2.2 MB
+  04_Partnere/Partnerslipp/Småslipp/partnerslippArtboard 3 copy 3joker.jpg	1.9 MB
+  04_Partnere/Partnerslipp/Småslipp/partnerslippArtboard 3 copyjoker.jpg	2.0 MB
+  04_Partnere/Partnerslipp/Småslipp/partnerslippArtboard 31_1-copyland.jpg	0.8 MB
+  04_Partnere/Partnerslipp/Småslipp/scandic-oransj.mp4	3.0 MB
+  04_Partnere/Partnerslipp/Småslipp/scandic.jpg	0.8 MB
+  04_Partnere/Partnerslipp/Småslipp/solibrug-oransj.mp4	3.2 MB
+  04_Partnere/Partnerslipp/Småslipp/solibrug.jpg	0.9 MB
+  04_Partnere/Partnerslipp/Småslipp/støy-blå.mp4	4.5 MB
+  04_Partnere/Partnerslipp/Småslipp/støy.jpg	0.8 MB
+  04_Partnere/Partnerslipp/Småslipp/thonsenter-beige.mp4	2.5 MB
+  04_Partnere/Partnerslipp/Småslipp/torvbyen-blå.mp4	3.4 MB
+  04_Partnere/Partnerslipp/Småslipp/torvbyen.jpg	0.8 MB
+  04_Partnere/Partnerslipp/Småslipp/touch-blå.mp4	3.5 MB
+  04_Partnere/Partnerslipp/Småslipp/touch.jpg	0.9 MB
+  04_Partnere/Partnerslipp/Studio-Wallin/595637_Out Of Focus Visually Impaired Pov Blurry_By_Yojanan_Montano_Artlist_HD.mp4	19.8 MB
+  04_Partnere/Partnerslipp/Studio-Wallin/Dårlig/3U7A9945.MP4	8491.8 MB
+  04_Partnere/Partnerslipp/Studio-Wallin/Dårlig/3U7A9946.MP4	10743.0 MB
+  04_Partnere/Partnerslipp/Studio-Wallin/Dårlig/6493067_Sunlight Line House Interior_By_Daniel_Megias_Del_Pozo_Artlist_4K.mp4	42.2 MB
+  04_Partnere/Partnerslipp/Studio-Wallin/Dårlig/IMG_1492.MOV	70.8 MB
+  04_Partnere/Partnerslipp/Studio-Wallin/Dårlig/SW-Partnerslipp-v1.mp4	45.7 MB
+  04_Partnere/Partnerslipp/Studio-Wallin/Dårlig/SW-Partnerslipp-v2.mp4	13.2 MB
+  04_Partnere/Partnerslipp/Studio-Wallin/Dårlig/SW-Partnerslipp-v3.mp4	12.6 MB
+  04_Partnere/Partnerslipp/Studio-Wallin/Dårlig/test1.mp4	16.4 MB
+  04_Partnere/Partnerslipp/Studio-Wallin/FX320260505_2711.MP4	4698.0 MB
+  04_Partnere/Partnerslipp/Studio-Wallin/FX320260505_2711M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Studio-Wallin/IMG_1492.MOV	70.8 MB
+  04_Partnere/Partnerslipp/Studio-Wallin/SW-Partnerslipp-v4.mp4	87.2 MB
+  04_Partnere/Partnerslipp/Studio-Wallin/SW-Partnerslipp-v5.mp4	87.1 MB
+  04_Partnere/Partnerslipp/Studio-Wallin/SW-Partnerslipp-v6.mp4	87.2 MB
+  04_Partnere/Partnerslipp/Studio-Wallin/Video by canelayyc (DXfun3TDX1R).mp4	4.7 MB
+  04_Partnere/Partnerslipp/Værstetorvet/Artboard 3_1Værstetorvet.jpg	0.7 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2655.MP4	67.4 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2655M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2656.MP4	67.4 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2656M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2657.MP4	67.4 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2657M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2658.MP4	67.4 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2658M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2659.MP4	134.5 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2659M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2660.MP4	67.4 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2660M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2661.MP4	67.4 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2661M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2662.MP4	67.4 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2662M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2663.MP4	67.4 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2663M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2664.MP4	67.4 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2664M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2665.MP4	67.4 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2665M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2666.MP4	67.4 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2666M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2667.MP4	67.4 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2667M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2668.MP4	67.4 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2668M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2669.MP4	67.4 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2669M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2670.MP4	67.4 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2670M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2671.MP4	67.4 MB
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2671M01.XML	0.0 MB
+  04_Partnere/Partnerslipp/Værstetorvet/Move over Fisher – we’ve got a new chart marathon champ.@jambackdj’s “Positive” held the #1 spot.mp4	5.2 MB
+  04_Partnere/Partnerslipp/Værstetorvet/Værstetorcet-v2.mp4	22.5 MB
+  04_Partnere/Partnerslipp/Værstetorvet/Værstetorcet-v3.mp4	54.2 MB
+  04_Partnere/Partnerslipp/Værstetorvet/Værstetorvet-v1.mp4	40.9 MB
+  04_Partnere/Partnerslipp/_Felles-kilder/UTKAST-STORE/partnerslippArtboard 3-v1.jpg	1.4 MB
+  04_Partnere/Partnerslipp/_Felles-kilder/UTKAST-STORE/partnerslippArtboard 3-v2.jpg	1.4 MB
+  04_Partnere/Partnerslipp/_Felles-kilder/UTKAST-STORE/partnerslippArtboard 3_1-v1.jpg	1.4 MB
+  04_Partnere/Partnerslipp/_Felles-kilder/UTKAST-STORE/partnerslippArtboard 3_1-v2.jpg	1.4 MB
+  04_Partnere/Partnerslipp/_Felles-kilder/UTKAST-STORE/partnerslippArtboard 3_2-v1.jpg	1.5 MB
+  04_Partnere/Partnerslipp/_Felles-kilder/UTKAST-STORE/partnerslippArtboard 3_2-v2.jpg	1.5 MB
+  04_Partnere/Partnerslipp/_Felles-kilder/UTKAST-STORE/partnerslippArtboard 3_3-v1.jpg	1.4 MB
+  04_Partnere/Partnerslipp/_Felles-kilder/UTKAST-STORE/partnerslippArtboard 3_3-v2.jpg	1.5 MB
+  04_Partnere/Partnerslipp/_Felles-kilder/UTKAST-STORE/partnerslippArtboard 3_4-v1.jpg	1.4 MB
+  04_Partnere/Partnerslipp/_Felles-kilder/UTKAST-STORE/partnerslippArtboard 3_4-v2.jpg	1.5 MB
+  04_Partnere/Partnerslipp/_Felles-kilder/Untitled-1.ai	1.6 MB
+  04_Partnere/Partnerslipp/_Felles-kilder/partnerslipp.ai	27.8 MB
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30001.MP4	2617.5 MB
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30001M01.XML	0.0 MB
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30002.MP4	1678.0 MB
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30002M01.XML	0.0 MB
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30003.MP4	11677.3 MB
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30003M01.XML	0.0 MB
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30004.MP4	1678.0 MB
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30004M01.XML	0.0 MB
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30005.MP4	1275.3 MB
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30005M01.XML	0.0 MB
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30006.MP4	738.5 MB
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30006M01.XML	0.0 MB
+  04_Partnere/Partnervideo/Restauranter/hysj-resturant-ting.jpg	1.0 MB
+  04_Partnere/Partnervideo/Restauranter/hysj-resturant-ting.psd	7.0 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Export/Final/v4_EDIT-9x16-Viedu-Partnervideo.mp4	71.7 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Export/Utkast/v1_EDIT-16x9-Viedu-Partnervideo.mp4	68.2 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Export/Utkast/v2_EDIT-9x16-Viedu-Partnervideo.mp4	71.7 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Export/Utkast/v3_EDIT-9x16-Viedu-Partnervideo.mp4	72.2 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/HYSJ-VieduVIP-6x1m(50%).pdf	0.1 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Subtitle 1-v1.srt	0.0 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9175.MP4	2819.3 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9175M01.XML	0.0 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9176.MP4	1611.3 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9176M01.XML	0.0 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9177.MP4	470.5 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9177M01.XML	0.0 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9178.MP4	1342.9 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9178M01.XML	0.0 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9179.MP4	2282.4 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9179M01.XML	0.0 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9180.MP4	2215.3 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9180M01.XML	0.0 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_001_Tr1.WAV	109.2 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_001_Tr2.WAV	109.2 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_002_Tr1.WAV	65.4 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_002_Tr2.WAV	65.4 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_003_Tr1.WAV	19.3 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_003_Tr2.WAV	19.3 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_004_Tr1.WAV	56.2 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_004_Tr2.WAV	56.2 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_005_Tr1.WAV	66.9 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_005_Tr2.WAV	66.9 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_006_Tr1.WAV	63.9 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_006_Tr2.WAV	63.9 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/viedu-hysj-manus.pdf	0.0 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/viedulogo.png	1.0 MB
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/vieduviplogo.png	1.1 MB
+  Backuped Safe to Delete/liste-backed-up.txt	0.1 MB
+  Icon	0.0 MB
+  Not Backuped Yet/liste-ikke-backet-opp.txt	0.3 MB
+  hysj-mappestruktur.txt	0.3 MB
+  tikkioqrkode.png	0.0 MB
+  tikkioqrkode.svg	0.0 MB

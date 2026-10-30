@@ -1,0 +1,1949 @@
+MATCH (same name+size): 759
+  01_Artister/Stavangerkameratene/stavangerkameratene_2-02-HYSJ-rammer-3-416.jpg
+    -> HYSJ/2026/01_Artister/Stavangerkameratene/stavangerkameratene_2-02-HYSJ-rammer-3-416.jpg
+  01_Artister/Stavangerkameratene/stavangerkameratene-02-HYSJ-rammer-3-416.psd
+    -> HYSJ/2026/01_Artister/Stavangerkameratene/stavangerkameratene-02-HYSJ-rammer-3-416.psd
+  01_Artister/Stavangerkameratene/stavangerkameratene-02-HYSJ-rammer-3-416.jpg
+    -> HYSJ/2026/01_Artister/Stavangerkameratene/stavangerkameratene-02-HYSJ-rammer-3-416.jpg
+  01_Artister/Stavangerkameratene/stavkam01-HYSJ-rammer-1-1.jpg
+    -> HYSJ/2026/01_Artister/Stavangerkameratene/stavkam01-HYSJ-rammer-1-1.jpg
+  01_Artister/Stavangerkameratene/Artistslipp/IMG_3600.MOV
+    -> HYSJ/2026/01_Artister/Stavangerkameratene/Artistslipp/IMG_3600.MOV
+  01_Artister/Stavangerkameratene/Artistslipp/2.2.1_2.2.1.drx
+    -> HYSJ/2026/01_Artister/Stavangerkameratene/Artistslipp/2.2.1_2.2.1.drx
+  01_Artister/Stavangerkameratene/Artistslipp/stavangerkameratene-teaser-v1.mp4
+    -> HYSJ/2026/01_Artister/Stavangerkameratene/Artistslipp/stavangerkameratene-teaser-v1.mp4
+  01_Artister/Stavangerkameratene/Artistslipp/Mesa de trabajo 3.jpg
+    -> HYSJ/2026/01_Artister/Stavangerkameratene/Artistslipp/Mesa de trabajo 3.jpg
+  01_Artister/Stavangerkameratene/Artistslipp/Stavangerkameratene - Bare så du vett det (Offisiell Video) (mYtopwLx-oQ).mp3
+    -> HYSJ/2026/01_Artister/Stavangerkameratene/Artistslipp/Stavangerkameratene - Bare så du vett det (Offisiell Video) (mYtopwLx-oQ).mp3
+  01_Artister/Stavangerkameratene/Artistslipp/2.2.1_2.2.1.psd
+    -> HYSJ/2026/01_Artister/Stavangerkameratene/Artistslipp/2.2.1_2.2.1.psd
+  01_Artister/Stavangerkameratene/Artistslipp/0F8A9292.jpeg
+    -> HYSJ/2026/01_Artister/Stavangerkameratene/Artistslipp/0F8A9292.jpeg
+  01_Artister/Stavangerkameratene/Artistslipp/FX320260409_2472.MP4
+    -> HYSJ/2026/01_Artister/Stavangerkameratene/Artistslipp/FX320260409_2472.MP4
+  01_Artister/Stavangerkameratene/Artistslipp/0F8A6032.jpg
+    -> HYSJ/2026/01_Artister/Stavangerkameratene/Artistslipp/0F8A6032.jpg
+  01_Artister/Stavangerkameratene/Artistslipp/2.2.1_2.2.1.png
+    -> HYSJ/2026/01_Artister/Stavangerkameratene/Artistslipp/2.2.1_2.2.1.png
+  01_Artister/Stavangerkameratene/Artistslipp/2.2.1_2.2.1.jpg
+    -> HYSJ/2026/01_Artister/Stavangerkameratene/Artistslipp/2.2.1_2.2.1.jpg
+  01_Artister/Stavangerkameratene/Artistslipp/output.mp4
+    -> HYSJ/2026/01_Artister/Stavangerkameratene/Artistslipp/output.mp4
+  01_Artister/Stavangerkameratene/Artistslipp/StavangerKameratene_Artistslipp_V2.mp4
+    -> HYSJ/2026/01_Artister/Stavangerkameratene/Artistslipp/StavangerKameratene_Artistslipp_V2.mp4
+  01_Artister/Stavangerkameratene/Artistslipp/StavangerKameratene_Artistslipp_V1.mp4
+    -> HYSJ/2026/01_Artister/Stavangerkameratene/Artistslipp/StavangerKameratene_Artistslipp_V1.mp4
+  01_Artister/Stavangerkameratene/Artistslipp/Recap video NY.qt
+    -> HYSJ/2026/01_Artister/Stavangerkameratene/Artistslipp/Recap video NY.qt
+  01_Artister/Teaser_1mai/FX320260429_2656.MP4
+    -> HYSJ/2026/01_Artister/Teaser_1mai/FX320260429_2656.MP4
+  01_Artister/Teaser_1mai/DJI_04_20260429_121939.WAV
+    -> HYSJ/2026/01_Artister/Teaser_1mai/DJI_04_20260429_121939.WAV
+  01_Artister/Teaser_1mai/1-mai_artistslipp_teaser.mp4
+    -> HYSJ/2026/01_Artister/Teaser_1mai/1-mai_artistslipp_teaser.mp4
+  01_Artister/Teaser_1mai/1-mai_artistslipp_teaser-v3.mp4
+    -> HYSJ/2026/01_Artister/Teaser_1mai/1-mai_artistslipp_teaser-v3.mp4
+  01_Artister/Teaser_1mai/1-mai_artistslipp_teaser-v2.mp4
+    -> HYSJ/2026/01_Artister/Teaser_1mai/1-mai_artistslipp_teaser-v2.mp4
+  01_Artister/Teaser_1mai/1-mai_artistslipp_teaser-v4.mp4
+    -> HYSJ/2026/01_Artister/Teaser_1mai/1-mai_artistslipp_teaser-v4.mp4
+  01_Artister/Teaser_1mai/FX320260429_2656M01.XML
+    -> HYSJ/2026/01_Artister/Teaser_1mai/FX320260429_2656M01.XML
+  01_Artister/Zimmermann/videoplakatzimmermann.jpg
+    -> HYSJ/2026/01_Artister/Zimmermann/videoplakatzimmermann.jpg
+  01_Artister/Zimmermann/Video.zip
+    -> HYSJ/2026/01_Artister/Zimmermann/Video.zip
+  01_Artister/Zimmermann/Zimmermann_Artistslipp_v1.mp4
+    -> HYSJ/2026/01_Artister/Zimmermann/Zimmermann_Artistslipp_v1.mp4
+  01_Artister/Zimmermann/A001_04301507_C005.mov
+    -> HYSJ/2026/01_Artister/Zimmermann/A001_04301507_C005.mov
+  01_Artister/Zimmermann/Zimmermann-HYSJ-Artist-Ramme.jpg
+    -> HYSJ/2026/01_Artister/Zimmermann/Zimmermann-HYSJ-Artist-Ramme.jpg
+  01_Artister/Zimmermann/Video/Zimmermann Promovideo 2025 HD VERTIKAL (Cred Trygve Espejord).mp4
+    -> HYSJ/2026/01_Artister/Zimmermann/Video/Zimmermann Promovideo 2025 HD VERTIKAL (Cred Trygve Espejord).mp4
+  01_Artister/Zimmermann/Video/Ta med deg døra - Zimmermann (LIVE fra Sentrum Scene) HORISONTAL.mp4
+    -> HYSJ/2026/01_Artister/Zimmermann/Video/Ta med deg døra - Zimmermann (LIVE fra Sentrum Scene) HORISONTAL.mp4
+  01_Artister/Zimmermann/Video/Ta med deg døra outro - Zimmermann (LIVE fra Sentrum Scene) VERTIKAL.mp4
+    -> HYSJ/2026/01_Artister/Zimmermann/Video/Ta med deg døra outro - Zimmermann (LIVE fra Sentrum Scene) VERTIKAL.mp4
+  01_Artister/Zimmermann/Bilder/Zimmermann Pressebilde (Cred Houssam Laaouar).jpg
+    -> HYSJ/2026/01_Artister/Zimmermann/Bilder/Zimmermann Pressebilde (Cred Houssam Laaouar).jpg
+  01_Artister/Zimmermann/Bilder/In medias res - Zimmermann (pressebilde) (Cred Ole Martin Sandness)-14.jpg
+    -> HYSJ/2026/01_Artister/Zimmermann/Bilder/In medias res - Zimmermann (pressebilde) (Cred Ole Martin Sandness)-14.jpg
+  01_Artister/Zimmermann/Bilder/Zimmermann Pressebilde (Cred Ole Martin Sandness)-1.jpg
+    -> HYSJ/2026/01_Artister/Zimmermann/Bilder/Zimmermann Pressebilde (Cred Ole Martin Sandness)-1.jpg
+  01_Artister/Zimmermann/Bilder/Zimmermann Pressebilde (Cred Ole Martin Sandness)-3.jpg
+    -> HYSJ/2026/01_Artister/Zimmermann/Bilder/Zimmermann Pressebilde (Cred Ole Martin Sandness)-3.jpg
+  01_Artister/Zimmermann/Bilder/JUL: Zimmermann Pressebilde (Cred Ole Martin Sandness).jpg
+    -> HYSJ/2026/01_Artister/Zimmermann/Bilder/JUL: Zimmermann Pressebilde (Cred Ole Martin Sandness).jpg
+  01_Artister/Zimmermann/Bilder/SOLO: Zimmermann Pressebilde (Cred Ole Martin Sandness)-4.jpg
+    -> HYSJ/2026/01_Artister/Zimmermann/Bilder/SOLO: Zimmermann Pressebilde (Cred Ole Martin Sandness)-4.jpg
+  01_Artister/Zimmermann/Bilder/BANDTURNÉ: Zimmermann Pressebilde (Cred Ole Martin Sandness)-2.jpg
+    -> HYSJ/2026/01_Artister/Zimmermann/Bilder/BANDTURNÉ: Zimmermann Pressebilde (Cred Ole Martin Sandness)-2.jpg
+  01_Artister/Zimmermann/Bilder/In medias res - Zimmermann (pressebilde) (Cred Ole Martin Sandness)-7.jpg
+    -> HYSJ/2026/01_Artister/Zimmermann/Bilder/In medias res - Zimmermann (pressebilde) (Cred Ole Martin Sandness)-7.jpg
+  01_Artister/Zimmermann/Bilder/In medias res - Zimmermann (pressebilde) (Cred Ole Martin Sandness)-5.jpg
+    -> HYSJ/2026/01_Artister/Zimmermann/Bilder/In medias res - Zimmermann (pressebilde) (Cred Ole Martin Sandness)-5.jpg
+  01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann@KulturhusetBergenⒸBjørkEllingsbø-4214-2.JPG
+    -> HYSJ/2026/01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann@KulturhusetBergenⒸBjørkEllingsbø-4214-2.JPG
+  01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann@KulturhusetBergenⒸBjørkEllingsbø-1865.JPG
+    -> HYSJ/2026/01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann@KulturhusetBergenⒸBjørkEllingsbø-1865.JPG
+  01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann_trd_-76.JPG
+    -> HYSJ/2026/01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann_trd_-76.JPG
+  01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann@KulturhusetBergenⒸBjørkEllingsbø-4193-2.JPG
+    -> HYSJ/2026/01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann@KulturhusetBergenⒸBjørkEllingsbø-4193-2.JPG
+  01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann_Sentrum_@marius_dreiem-22.JPG
+    -> HYSJ/2026/01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann_Sentrum_@marius_dreiem-22.JPG
+  01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann_Sentrum_@marius_dreiem-1.JPG
+    -> HYSJ/2026/01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann_Sentrum_@marius_dreiem-1.JPG
+  01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann_Sentrum_@marius_dreiem-11.JPG
+    -> HYSJ/2026/01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann_Sentrum_@marius_dreiem-11.JPG
+  01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann_Sentrum_@marius_dreiem-14.JPG
+    -> HYSJ/2026/01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann_Sentrum_@marius_dreiem-14.JPG
+  01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann_trd_-9.JPG
+    -> HYSJ/2026/01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann_trd_-9.JPG
+  01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann_trd_-8.JPG
+    -> HYSJ/2026/01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann_trd_-8.JPG
+  01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann@KulturhusetBergenⒸBjørkEllingsbø-3856.JPG
+    -> HYSJ/2026/01_Artister/Zimmermann/Bilder/Livebilder 2025/Zimmermann@KulturhusetBergenⒸBjørkEllingsbø-3856.JPG
+  01_Artister/Artistvideo-UtenAvis/Zimmermann.mp4
+    -> HYSJ/2026/01_Artister/Artistvideo-UtenAvis/Zimmermann.mp4
+  01_Artister/Artistvideo-UtenAvis/Admiral P.mp4
+    -> HYSJ/2026/01_Artister/Artistvideo-UtenAvis/Admiral P.mp4
+  01_Artister/Artistvideo-UtenAvis/Tigergutt101.mp4
+    -> HYSJ/2026/01_Artister/Artistvideo-UtenAvis/Tigergutt101.mp4
+  01_Artister/Artistvideo-UtenAvis/Bjørn Eidsvåg.mp4
+    -> HYSJ/2026/01_Artister/Artistvideo-UtenAvis/Bjørn Eidsvåg.mp4
+  01_Artister/Artistvideo-UtenAvis/Stavangerkameratene.mp4
+    -> HYSJ/2026/01_Artister/Artistvideo-UtenAvis/Stavangerkameratene.mp4
+  01_Artister/Artistvideo-UtenAvis/Skinny E.mp4
+    -> HYSJ/2026/01_Artister/Artistvideo-UtenAvis/Skinny E.mp4
+  01_Artister/Artistvideo-UtenAvis/BigBang.mp4
+    -> HYSJ/2026/01_Artister/Artistvideo-UtenAvis/BigBang.mp4
+  01_Artister/Artistvideo-UtenAvis/Oda Rose.mp4
+    -> HYSJ/2026/01_Artister/Artistvideo-UtenAvis/Oda Rose.mp4
+  01_Artister/Artistvideo-UtenAvis/Arif.mp4
+    -> HYSJ/2026/01_Artister/Artistvideo-UtenAvis/Arif.mp4
+  01_Artister/Artistvideo-UtenAvis/Matoma.mp4
+    -> HYSJ/2026/01_Artister/Artistvideo-UtenAvis/Matoma.mp4
+  01_Artister/SkinnyE/A001_05051206_C007.mov
+    -> HYSJ/2026/01_Artister/SkinnyE/A001_05051206_C007.mov
+  01_Artister/SkinnyE/skinnye-02-HYSJ-rammer-3-416.jpg
+    -> HYSJ/2026/01_Artister/SkinnyE/skinnye-02-HYSJ-rammer-3-416.jpg
+  01_Artister/SkinnyE/skinnyenews.jpg
+    -> HYSJ/2026/01_Artister/SkinnyE/skinnyenews.jpg
+  01_Artister/SkinnyE/SkinnyE_Artistslipp_v3.mp4
+    -> HYSJ/2026/01_Artister/SkinnyE/SkinnyE_Artistslipp_v3.mp4
+  01_Artister/SkinnyE/SkinnyE_Artistslipp_v2.mp4
+    -> HYSJ/2026/01_Artister/SkinnyE/SkinnyE_Artistslipp_v2.mp4
+  01_Artister/SkinnyE/SkinnyE_Artistslipp_v1.mp4
+    -> HYSJ/2026/01_Artister/SkinnyE/SkinnyE_Artistslipp_v1.mp4
+  01_Artister/SkinnyE/SkinnyE_FC25.MP4
+    -> HYSJ/2026/01_Artister/SkinnyE/SkinnyE_FC25.MP4
+  01_Artister/SkinnyE/SkinnyE-HYSJ-Artist-Ramme.jpg
+    -> HYSJ/2026/01_Artister/SkinnyE/SkinnyE-HYSJ-Artist-Ramme.jpg
+  01_Artister/SkinnyE/Skinny E/Skinny E_Presse0337.jpg
+    -> HYSJ/2026/01_Artister/SkinnyE/Skinny E/Skinny E_Presse0337.jpg
+  01_Artister/SkinnyE/Skinny E/Skinny E_Presse1348.jpg
+    -> HYSJ/2026/01_Artister/SkinnyE/Skinny E/Skinny E_Presse1348.jpg
+  01_Artister/SkinnyE/Skinny E/Skinny E_Presse0924.jpg
+    -> HYSJ/2026/01_Artister/SkinnyE/Skinny E/Skinny E_Presse0924.jpg
+  01_Artister/SkinnyE/2023_Håkon_Jørgensen/IMG_3487.heic
+    -> HYSJ/2026/01_Artister/SkinnyE/2023_Håkon_Jørgensen/IMG_3487.heic
+  01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/Skinny-E2241-Edit.jpg
+    -> HYSJ/2026/01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/Skinny-E2241-Edit.jpg
+  01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/Skinny-E2237-Edit.jpg
+    -> HYSJ/2026/01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/Skinny-E2237-Edit.jpg
+  01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/Skinny-E2236-Edit.jpg
+    -> HYSJ/2026/01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/Skinny-E2236-Edit.jpg
+  01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/DSCF9925-Edit.jpg
+    -> HYSJ/2026/01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/DSCF9925-Edit.jpg
+  01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/DSCF9922-Edit.jpg
+    -> HYSJ/2026/01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/DSCF9922-Edit.jpg
+  01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/DSCF9923-Edit.jpg
+    -> HYSJ/2026/01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/DSCF9923-Edit.jpg
+  01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/Skinny-E2227-Edit.jpg
+    -> HYSJ/2026/01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/Skinny-E2227-Edit.jpg
+  01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/Skinny-E2228-Edit.jpg
+    -> HYSJ/2026/01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/Skinny-E2228-Edit.jpg
+  01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/DSCF9926-Edit.jpg
+    -> HYSJ/2026/01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/DSCF9926-Edit.jpg
+  01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/Skinny-E2234-Edit.jpg
+    -> HYSJ/2026/01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/Skinny-E2234-Edit.jpg
+  01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/Skinny-E2244-Edit.jpg
+    -> HYSJ/2026/01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/Skinny-E2244-Edit.jpg
+  01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/Skinny-E2245-Edit.jpg
+    -> HYSJ/2026/01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/Skinny-E2245-Edit.jpg
+  01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/DSCF9921-Edit.jpg
+    -> HYSJ/2026/01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/DSCF9921-Edit.jpg
+  01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/DSCF9920-Edit.jpg
+    -> HYSJ/2026/01_Artister/SkinnyE/2023_Håkon_Jørgensen/Skinny-E/DSCF9920-Edit.jpg
+  01_Artister/_Maler/HYSJ-artist-newsletter.psd
+    -> HYSJ/2026/01_Artister/_Maler/HYSJ-artist-newsletter.psd
+  01_Artister/_Maler/HYSJ-artist-newsletter.psb
+    -> HYSJ/2026/01_Artister/_Maler/HYSJ-artist-newsletter.psb
+  01_Artister/_Maler/News-HYSJ.dra/project.drp
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/project.drp
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Oransje enkel med hysj element.png
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Oransje enkel med hysj element.png
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/HYSJ-kvadrat-red-01..png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-red-01..png
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Oransje enkel 9:16.png
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Oransje enkel 9:16.png
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Oransje enkel.png
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Oransje enkel.png
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Hysjfinger-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjfinger-04.png
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Oransje HYSJ.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Oransje HYSJ.png
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/HYSJ-red-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-red-01.png
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Oransje enkel med HYSJ 9:16.png
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Oransje enkel med HYSJ 9:16.png
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Hysjmunn-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjmunn-04.png
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Ropemunn-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropemunn-04.png
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Oransje skrik.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Oransje skrik.png
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Oransje skrik 9:16.png
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Oransje skrik 9:16.png
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Ropehender-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropehender-04.png
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Oransje HYSJ 9:16.png
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Oransje HYSJ 9:16.png
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Artist/Arif/Video/s26-promo-9x16-V2.mov
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Artist/Arif/Video/s26-promo-9x16-V2.mov
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Artist/Arif/Footage/Iphone-newspaper/Alexander Kopeikin - This Is Russia - Large Café People Chatter Walla Dishes Plates.wav
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Artist/Arif/Footage/Iphone-newspaper/Alexander Kopeikin - This Is Russia - Large Café People Chatter Walla Dishes Plates.wav
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Artist/Arif/Footage/Iphone-newspaper/IMG_0094.MOV
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Artist/Arif/Footage/Iphone-newspaper/IMG_0094.MOV
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Artist/Arif/Footage/Iphone-newspaper/IMG_0087.MOV
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Artist/Arif/Footage/Iphone-newspaper/IMG_0087.MOV
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Artist/Arif/Footage/Iphone-newspaper/Alberto Sueri - RPG Game - Airy Deep Whoosh (1).wav
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/Stephan SW T7/STUDIO-WALLIN/HYSJ/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Artist/Arif/Footage/Iphone-newspaper/Alberto Sueri - RPG Game - Airy Deep Whoosh (1).wav
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Artist/Arif/Footage/Iphone-newspaper/IMG_0092.MOV
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Artist/Arif/Footage/Iphone-newspaper/IMG_0092.MOV
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Artist/Arif/Footage/Iphone-newspaper/IMG_0090.MOV
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Artist/Arif/Footage/Iphone-newspaper/IMG_0090.MOV
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Artist/Arif/Footage/Iphone-newspaper/Vadi Sound - Paper Products - Sliding Card on Table Pick Up.wav
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Artist/Arif/Footage/Iphone-newspaper/Vadi Sound - Paper Products - Sliding Card on Table Pick Up.wav
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Artist/Arif/Footage/Iphone-newspaper/IMG_0088.MOV
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Artist/Arif/Footage/Iphone-newspaper/IMG_0088.MOV
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Artist/Arif/Footage/Iphone-newspaper/IMG_0089.MOV
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Artist/Arif/Footage/Iphone-newspaper/IMG_0089.MOV
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Downloads/Artlist Original - Tonal Risers - Haunted Riser.wav
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Downloads/Artlist Original - Tonal Risers - Haunted Riser.wav
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Downloads/Airborne Sound - Crowd Cheers and Applause - Big Audience Cheering with Enthusiasm.wav
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Downloads/Airborne Sound - Crowd Cheers and Applause - Big Audience Cheering with Enthusiasm.wav
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Downloads/Apple Hill Studios - Cartoon Male Voice - Shh.wav
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/Stephan SW T7/STUDIO-WALLIN/HYSJ/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Downloads/Apple Hill Studios - Cartoon Male Voice - Shh.wav
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Downloads/Artlist Original - Serious Whooshes - Deep Swell Riser.wav
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Downloads/Artlist Original - Serious Whooshes - Deep Swell Riser.wav
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Downloads/Felix Blume - Brazil Crowds - Big Crowd Erupting Chanting Soccer Game Fans.wav
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Downloads/Felix Blume - Brazil Crowds - Big Crowd Erupting Chanting Soccer Game Fans.wav
+  01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Downloads/Epic Stock Media - Bane Cinematics - Reverse Riser Whoosh (1).wav
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Downloads/Epic Stock Media - Bane Cinematics - Reverse Riser Whoosh (1).wav
+  01_Artister/Admiral_P/Artistslipp/Admiral P Artistslipp v3.mp4
+    -> HYSJ/2026/01_Artister/Admiral_P/Artistslipp/Admiral P Artistslipp v3.mp4
+  01_Artister/Admiral_P/Artistslipp/Admiral P Artistslipp v2.mp4
+    -> HYSJ/2026/01_Artister/Admiral_P/Artistslipp/Admiral P Artistslipp v2.mp4
+  01_Artister/Admiral_P/Artistslipp/Admiral P Artistslipp v1.mp4
+    -> HYSJ/2026/01_Artister/Admiral_P/Artistslipp/Admiral P Artistslipp v1.mp4
+  01_Artister/Admiral_P/Artistslipp/0526.mp4
+    -> HYSJ/2026/01_Artister/Admiral_P/Artistslipp/0526.mp4
+  01_Artister/Admiral_P/Artistslipp/admiralp-artistslip.jpg
+    -> HYSJ/2026/01_Artister/Admiral_P/Artistslipp/admiralp-artistslip.jpg
+  01_Artister/Admiral_P/Artistslipp/IMG_0193.MOV
+    -> HYSJ/2026/01_Artister/Admiral_P/Artistslipp/IMG_0193.MOV
+  01_Artister/Admiral_P/Artistslipp/Admiral P10411.tif
+    -> HYSJ/2026/01_Artister/Admiral_P/Artistslipp/Admiral P10411.tif
+  01_Artister/Admiral_P/Artistslipp/Admiral P by_ Rune Bendiksen.jpg
+    -> HYSJ/2026/01_Artister/Admiral_P/Artistslipp/Admiral P by_ Rune Bendiksen.jpg
+  01_Artister/Admiral_P/Artistslipp/admiralp01-HYSJ-rammer-1-1.jpg
+    -> HYSJ/2026/01_Artister/Admiral_P/Artistslipp/admiralp01-HYSJ-rammer-1-1.jpg
+  01_Artister/Admiral_P/Teaser/FX320260325_2366.MP4
+    -> HYSJ/2026/01_Artister/Admiral_P/Teaser/FX320260325_2366.MP4
+  01_Artister/Admiral_P/Teaser/admiralp-teaser-test.mp4
+    -> HYSJ/2026/01_Artister/Admiral_P/Teaser/admiralp-teaser-test.mp4
+  01_Artister/Tigergutt101/Still 2026-04-29 103206_1.10.1.jpg
+    -> HYSJ/2026/01_Artister/Tigergutt101/Still 2026-04-29 103206_1.10.1.jpg
+  01_Artister/Tigergutt101/ssstik.io_1777450941211.mp4
+    -> HYSJ/2026/01_Artister/Tigergutt101/ssstik.io_1777450941211.mp4
+  01_Artister/Tigergutt101/A001_04291145_C004.mov
+    -> HYSJ/2026/01_Artister/Tigergutt101/A001_04291145_C004.mov
+  01_Artister/Tigergutt101/Still 2026-04-29 103206_1.10.1.drx
+    -> HYSJ/2026/01_Artister/Tigergutt101/Still 2026-04-29 103206_1.10.1.drx
+  01_Artister/Tigergutt101/IMG_3787.JPG
+    -> HYSJ/2026/01_Artister/Tigergutt101/IMG_3787.JPG
+  01_Artister/Tigergutt101/Tigergutt101-HYSJ-Artist-Ramme.jpg
+    -> HYSJ/2026/01_Artister/Tigergutt101/Tigergutt101-HYSJ-Artist-Ramme.jpg
+  01_Artister/Tigergutt101/Tigergutt101-Artistslipp-v1.mp4
+    -> HYSJ/2026/01_Artister/Tigergutt101/Tigergutt101-Artistslipp-v1.mp4
+  01_Artister/Tigergutt101/IMG_3787 Medium.png
+    -> HYSJ/2026/01_Artister/Tigergutt101/IMG_3787 Medium.png
+  01_Artister/Tigergutt101/News-plakat-tigergutt101.jpg
+    -> HYSJ/2026/01_Artister/Tigergutt101/News-plakat-tigergutt101.jpg
+  01_Artister/Tigergutt101/Gamle bilder/Tigergutt-DMM-07510.jpg
+    -> HYSJ/2026/01_Artister/Tigergutt101/Gamle bilder/Tigergutt-DMM-07510.jpg
+  01_Artister/Tigergutt101/Gamle bilder/Tigergutt-AW_V2.jpg
+    -> HYSJ/2026/01_Artister/Tigergutt101/Gamle bilder/Tigergutt-AW_V2.jpg
+  01_Artister/BjørnEidsvåg/SAS_BjørnEidsvåg_7349_web.jpg
+    -> HYSJ/2026/01_Artister/BjørnEidsvåg/SAS_BjørnEidsvåg_7349_web.jpg
+  01_Artister/BjørnEidsvåg/PROMO.zip
+    -> HYSJ/2026/01_Artister/BjørnEidsvåg/PROMO.zip
+  01_Artister/BjørnEidsvåg/SAS_BjørnEidsvåg_7316 3_web.jpg
+    -> HYSJ/2026/01_Artister/BjørnEidsvåg/SAS_BjørnEidsvåg_7316 3_web.jpg
+  01_Artister/BjørnEidsvåg/videoplakatbjørneidsvåg.jpg
+    -> HYSJ/2026/01_Artister/BjørnEidsvåg/videoplakatbjørneidsvåg.jpg
+  01_Artister/BjørnEidsvåg/A001_04301510_C006.mov
+    -> HYSJ/2026/01_Artister/BjørnEidsvåg/A001_04301510_C006.mov
+  01_Artister/BjørnEidsvåg/BjørnEidsvåg_Artistslipp_v1.mp4
+    -> HYSJ/2026/01_Artister/BjørnEidsvåg/BjørnEidsvåg_Artistslipp_v1.mp4
+  01_Artister/BjørnEidsvåg/BjørnEidsvåg-HYSJ-Artist-Ramme.jpg
+    -> HYSJ/2026/01_Artister/BjørnEidsvåg/BjørnEidsvåg-HYSJ-Artist-Ramme.jpg
+  01_Artister/BjørnEidsvåg/PROMO/BE_Sommer_16x9.mp4
+    -> HYSJ/2026/01_Artister/BjørnEidsvåg/PROMO/BE_Sommer_16x9.mp4
+  01_Artister/BjørnEidsvåg/PROMO/PROMO_2026_BE_4x5.mp4
+    -> HYSJ/2026/01_Artister/BjørnEidsvåg/PROMO/PROMO_2026_BE_4x5.mp4
+  01_Artister/BjørnEidsvåg/PROMO/BE_Sommer_9x16.mp4
+    -> HYSJ/2026/01_Artister/BjørnEidsvåg/PROMO/BE_Sommer_9x16.mp4
+  01_Artister/BjørnEidsvåg/PROMO/PROMO_2026_BE_9x16.mp4
+    -> HYSJ/2026/01_Artister/BjørnEidsvåg/PROMO/PROMO_2026_BE_9x16.mp4
+  01_Artister/BjørnEidsvåg/PROMO/PROMO_2026_BE_1x1.mp4
+    -> HYSJ/2026/01_Artister/BjørnEidsvåg/PROMO/PROMO_2026_BE_1x1.mp4
+  01_Artister/BjørnEidsvåg/PROMO/BE_Sommer_1x1.mp4
+    -> HYSJ/2026/01_Artister/BjørnEidsvåg/PROMO/BE_Sommer_1x1.mp4
+  01_Artister/Bigbang/bigbang3.png
+    -> HYSJ/2026/01_Artister/Bigbang/bigbang3.png
+  01_Artister/Bigbang/A001_04291107_C003.mov
+    -> HYSJ/2026/01_Artister/Bigbang/A001_04291107_C003.mov
+  01_Artister/Bigbang/Bigbang-Artistslipp-v1.mp4
+    -> HYSJ/2026/01_Artister/Bigbang/Bigbang-Artistslipp-v1.mp4
+  01_Artister/Bigbang/bigbang3.jpeg
+    -> HYSJ/2026/01_Artister/Bigbang/bigbang3.jpeg
+  01_Artister/Bigbang/Still 2026-04-29 103443_1.10.1.jpg
+    -> HYSJ/2026/01_Artister/Bigbang/Still 2026-04-29 103443_1.10.1.jpg
+  01_Artister/Bigbang/Bigbang-HYSJ-Artist-Ramme.png
+    -> HYSJ/2026/01_Artister/Bigbang/Bigbang-HYSJ-Artist-Ramme.png
+  01_Artister/Bigbang/Bigbang recap (1).mp4
+    -> HYSJ/2026/01_Artister/Bigbang/Bigbang recap (1).mp4
+  01_Artister/Bigbang/News-plakat-bigbang.jpg
+    -> HYSJ/2026/01_Artister/Bigbang/News-plakat-bigbang.jpg
+  01_Artister/Bigbang/Still 2026-04-29 103443_1.10.1.drx
+    -> HYSJ/2026/01_Artister/Bigbang/Still 2026-04-29 103443_1.10.1.drx
+  01_Artister/Bigbang/Bilder/260423 BIGBANG GRADE 3370_FotoHelgeBrekke.jpg
+    -> HYSJ/2026/01_Artister/Bigbang/Bilder/260423 BIGBANG GRADE 3370_FotoHelgeBrekke.jpg
+  01_Artister/Bigbang/Bilder/260423 BIGBANG GRADE 3370_FotoHelgeBrekke BW.jpg
+    -> HYSJ/2026/01_Artister/Bigbang/Bilder/260423 BIGBANG GRADE 3370_FotoHelgeBrekke BW.jpg
+  01_Artister/OdaRose/OdaRose_Artistslipp_v1.mp4
+    -> HYSJ/2026/01_Artister/OdaRose/OdaRose_Artistslipp_v1.mp4
+  01_Artister/OdaRose/OdaRose_Artistslipp_v2.mp4
+    -> HYSJ/2026/01_Artister/OdaRose/OdaRose_Artistslipp_v2.mp4
+  01_Artister/OdaRose/A001_05051208_C008.mov
+    -> HYSJ/2026/01_Artister/OdaRose/A001_05051208_C008.mov
+  01_Artister/OdaRose/Store ord _ 2.mov __ Kan brukes alene .mov
+    -> HYSJ/2026/01_Artister/OdaRose/Store ord _ 2.mov __ Kan brukes alene .mov
+  01_Artister/OdaRose/odarose-02-HYSJ-rammer-3-416.jpg
+    -> HYSJ/2026/01_Artister/OdaRose/odarose-02-HYSJ-rammer-3-416.jpg
+  01_Artister/OdaRose/Oda 4 :: Kan brukes alene. mov.mov
+    -> HYSJ/2026/01_Artister/OdaRose/Oda 4 :: Kan brukes alene. mov.mov
+  01_Artister/OdaRose/OdaRose-HYSJ-Artist-Ramme.jpg
+    -> HYSJ/2026/01_Artister/OdaRose/OdaRose-HYSJ-Artist-Ramme.jpg
+  01_Artister/OdaRose/odarosenews.jpg
+    -> HYSJ/2026/01_Artister/OdaRose/odarosenews.jpg
+  01_Artister/OdaRose/Bilder/odacountry-åmlifoto-55.JPG.jpeg
+    -> HYSJ/2026/01_Artister/OdaRose/Bilder/odacountry-åmlifoto-55.JPG.jpeg
+  01_Artister/OdaRose/Bilder/_DSF0058.JPG.jpeg
+    -> HYSJ/2026/01_Artister/OdaRose/Bilder/_DSF0058.JPG.jpeg
+  01_Artister/OdaRose/Bilder/odacountry-åmlifoto-14.JPG.jpeg
+    -> HYSJ/2026/01_Artister/OdaRose/Bilder/odacountry-åmlifoto-14.JPG.jpeg
+  01_Artister/OdaRose/Bilder/Bilde 16.06.2021, 03 21 51.tiff
+    -> HYSJ/2026/01_Artister/OdaRose/Bilder/Bilde 16.06.2021, 03 21 51.tiff
+  01_Artister/OdaRose/Bilder/_DSF0219.JPG.jpeg
+    -> HYSJ/2026/01_Artister/OdaRose/Bilder/_DSF0219.JPG.jpeg
+  01_Artister/OdaRose/Magenta __ 4K/Country roads 2 .mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Country roads 2 .mov
+  01_Artister/OdaRose/Magenta __ 4K/Store ord  : 2.mov :: Kan brukes alene .mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Store ord  : 2.mov :: Kan brukes alene .mov
+  01_Artister/OdaRose/Magenta __ 4K/Store Ord .mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Store Ord .mov
+  01_Artister/OdaRose/Magenta __ 4K/Country roads .mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Country roads .mov
+  01_Artister/OdaRose/Magenta __ 4K/Himmelen 1 .mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Himmelen 1 .mov
+  01_Artister/OdaRose/Magenta __ 4K/Martin El Gitar .mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Martin El Gitar .mov
+  01_Artister/OdaRose/Magenta __ 4K/Martin 2 .mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Martin 2 .mov
+  01_Artister/OdaRose/Magenta __ 4K/Fest : Mellomklipp 2 .mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Fest : Mellomklipp 2 .mov
+  01_Artister/OdaRose/Magenta __ 4K/Kul klipp .mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Kul klipp .mov
+  01_Artister/OdaRose/Magenta __ 4K/Jolene. kan brukes alene .mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Jolene. kan brukes alene .mov
+  01_Artister/OdaRose/Magenta __ 4K/Mats Gitar.mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Mats Gitar.mov
+  01_Artister/OdaRose/Magenta __ 4K/Oda 3 .mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Oda 3 .mov
+  01_Artister/OdaRose/Magenta __ 4K/Brenne din gitar 1 .mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Brenne din gitar 1 .mov
+  01_Artister/OdaRose/Magenta __ 4K/2.mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/2.mov
+  01_Artister/OdaRose/Magenta __ 4K/Martin El Gitar.mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Martin El Gitar.mov
+  01_Artister/OdaRose/Magenta __ 4K/Gitar kort .mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Gitar kort .mov
+  01_Artister/OdaRose/Magenta __ 4K/Oda : Min mann, kan brukes alene.mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Oda : Min mann, kan brukes alene.mov
+  01_Artister/OdaRose/Magenta __ 4K/Bass .mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Bass .mov
+  01_Artister/OdaRose/Magenta __ 4K/Oda : Liggende format 1 .mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Oda : Liggende format 1 .mov
+  01_Artister/OdaRose/Magenta __ 4K/Brenne din gitar 2 .mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Brenne din gitar 2 .mov
+  01_Artister/OdaRose/Magenta __ 4K/Banjo - 1.mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Banjo - 1.mov
+  01_Artister/OdaRose/Magenta __ 4K/Store ord - 1.mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Store ord - 1.mov
+  01_Artister/OdaRose/Magenta __ 4K/Martin 1.mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Martin 1.mov
+  01_Artister/OdaRose/Magenta __ 4K/Martin 3.mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Martin 3.mov
+  01_Artister/OdaRose/Magenta __ 4K/Banjo - 2.mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Banjo - 2.mov
+  01_Artister/OdaRose/Magenta __ 4K/Trommer.mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Trommer.mov
+  01_Artister/OdaRose/Magenta __ 4K/Fest: mellom klipp .mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Fest: mellom klipp .mov
+  01_Artister/OdaRose/Magenta __ 4K/Min mann - refreng. kan brukes alene .mov
+    -> HYSJ/2026/01_Artister/OdaRose/Magenta __ 4K/Min mann - refreng. kan brukes alene .mov
+  01_Artister/Matoma/IMG_3831.MOV
+    -> HYSJ/2026/01_Artister/Matoma/IMG_3831.MOV
+  01_Artister/Matoma/Matoma-Plakat.jpg
+    -> HYSJ/2026/01_Artister/Matoma/Matoma-Plakat.jpg
+  01_Artister/Matoma/16_9 Hype Edit_.mp4
+    -> HYSJ/2026/01_Artister/Matoma/16_9 Hype Edit_.mp4
+  01_Artister/Matoma/Matoma 2026.jpg
+    -> HYSJ/2026/01_Artister/Matoma/Matoma 2026.jpg
+  01_Artister/Matoma/All Night.mp3
+    -> HYSJ/2026/01_Artister/Matoma/All Night.mp3
+  01_Artister/Matoma/Matoma-Artistlipp-v1.mp4
+    -> HYSJ/2026/01_Artister/Matoma/Matoma-Artistlipp-v1.mp4
+  01_Artister/Matoma/Matoma-HYSJ-Artist-Ramme.jpg
+    -> HYSJ/2026/01_Artister/Matoma/Matoma-HYSJ-Artist-Ramme.jpg
+  01_Artister/Matoma/Hype Edit - 2026.mp4
+    -> HYSJ/2026/01_Artister/Matoma/Hype Edit - 2026.mp4
+  04_Partnere/partnere.af
+    -> HYSJ/2026/04_Partnere/partnere.af
+  04_Partnere/Partnerslipp/Red-Bull/_TEMPLATE_.drp
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/_TEMPLATE_.drp
+  04_Partnere/Partnerslipp/Red-Bull/02_Ressurser/Grafikk/redbull-logo-svgrepo-com.svg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/redbull-logo-svgrepo-com.svg
+  04_Partnere/Partnerslipp/PSS/PSS_Securitas_Logotype_RedNavyBlue_RGB.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/PSS_Securitas_Logotype_RedNavyBlue_RGB.png
+  04_Partnere/Partnerslipp/PSS/pss.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/pss.png
+  04_Partnere/Logoer/partnere.ai
+    -> HYSJ/2026/04_Partnere/Logoer/partnere.ai
+  04_Partnere/Logoer/Redigert (for nett og content)/panel-taxi@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/panel-taxi@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/Lovlig logo uten space på siden nett.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/Lovlig logo uten space på siden nett.png
+  04_Partnere/Logoer/Redigert (for nett og content)/verstetorvet.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/verstetorvet.png
+  04_Partnere/Logoer/Redigert (for nett og content)/køl.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/køl.png
+  04_Partnere/Logoer/Redigert (for nett og content)/aass.jpg
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/aass.jpg
+  04_Partnere/Logoer/Redigert (for nett og content)/aass.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/aass.png
+  04_Partnere/Logoer/Redigert (for nett og content)/COPYLAND@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/COPYLAND@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/ScandicCity@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/ScandicCity@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/Litteraturhuset.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/Litteraturhuset.png
+  04_Partnere/Logoer/Redigert (for nett og content)/norli.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/norli.png
+  04_Partnere/Logoer/Redigert (for nett og content)/pss.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/pss.png
+  04_Partnere/Logoer/Redigert (for nett og content)/verstetorvet
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/verstetorvet
+  04_Partnere/Logoer/Redigert (for nett og content)/NINI.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/NINI.png
+  04_Partnere/Logoer/Redigert (for nett og content)/BackITUp.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/BackITUp.png
+  04_Partnere/Logoer/Redigert (for nett og content)/DOMINO@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/DOMINO@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/VÆRSTETORVET@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/VÆRSTETORVET@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/Redbull-SvartTekst.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/Redbull-SvartTekst.png
+  04_Partnere/Logoer/Redigert (for nett og content)/touch.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/touch.png
+  04_Partnere/Logoer/Redigert (for nett og content)/RB_Standard_Logo_cmyk_2017.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/RB_Standard_Logo_cmyk_2017.png
+  04_Partnere/Logoer/Redigert (for nett og content)/purblu.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/purblu.png
+  04_Partnere/Logoer/Redigert (for nett og content)/STØY@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/STØY@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/ceci.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/ceci.png
+  04_Partnere/Logoer/Redigert (for nett og content)/copyland_NYLOGO.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/copyland_NYLOGO.png
+  04_Partnere/Logoer/Redigert (for nett og content)/copyland.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/copyland.png
+  04_Partnere/Logoer/Redigert (for nett og content)/copyland.psd
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/copyland.psd
+  04_Partnere/Logoer/Redigert (for nett og content)/Touch-2.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/Touch-2.png
+  04_Partnere/Logoer/Redigert (for nett og content)/SW@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/SW@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/MODISH@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/MODISH@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/synsam.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/synsam.png
+  04_Partnere/Logoer/Redigert (for nett og content)/verstetorvet.svg
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/verstetorvet.svg
+  04_Partnere/Logoer/Redigert (for nett og content)/Touch-1.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/Touch-1.png
+  04_Partnere/Logoer/Redigert (for nett og content)/TOUCH@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/TOUCH@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/cocacola.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/cocacola.png
+  04_Partnere/Logoer/Redigert (for nett og content)/AASS@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/AASS@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/joker-oransj.psd
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/joker-oransj.psd
+  04_Partnere/Logoer/Redigert (for nett og content)/viedu@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/viedu@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/jngjngjng-bw.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/jngjngjng-bw.png
+  04_Partnere/Logoer/Redigert (for nett og content)/deluxe@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/deluxe@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/joker.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/joker.png
+  04_Partnere/Logoer/Redigert (for nett og content)/gretland-reno-bw.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/gretland-reno-bw.png
+  04_Partnere/Logoer/Redigert (for nett og content)/matverste.svg
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/matverste.svg
+  04_Partnere/Logoer/Redigert (for nett og content)/matværste.svg
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/matværste.svg
+  04_Partnere/Logoer/Redigert (for nett og content)/Borg_senterlogo_midtstilt_RGB.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/Borg_senterlogo_midtstilt_RGB.png
+  04_Partnere/Logoer/Redigert (for nett og content)/MATVÆRSTE@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/MATVÆRSTE@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/mb-bygg@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/mb-bygg@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/CITY@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/CITY@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/mmmmmjng montasje logo-Recovered.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/mmmmmjng montasje logo-Recovered.png
+  04_Partnere/Logoer/Redigert (for nett og content)/fj@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/fj@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/scandiccity.svg
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/scandiccity.svg
+  04_Partnere/Logoer/Redigert (for nett og content)/copyland logo for trykk.jpg
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/copyland logo for trykk.jpg
+  04_Partnere/Logoer/Redigert (for nett og content)/tmklinikken.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/tmklinikken.png
+  04_Partnere/Logoer/Redigert (for nett og content)/nini-svart.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/nini-svart.png
+  04_Partnere/Logoer/Redigert (for nett og content)/ceciAsset 1ceci.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/ceciAsset 1ceci.png
+  04_Partnere/Logoer/Redigert (for nett og content)/cutters.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/cutters.png
+  04_Partnere/Logoer/Redigert (for nett og content)/Telia-SvartTekst.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/Telia-SvartTekst.png
+  04_Partnere/Logoer/Redigert (for nett og content)/DOMINO_1@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/DOMINO_1@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/sollibrug.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/sollibrug.png
+  04_Partnere/Logoer/Redigert (for nett og content)/støy.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/støy.png
+  04_Partnere/Logoer/Redigert (for nett og content)/EIR_trening.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/EIR_trening.png
+  04_Partnere/Logoer/Redigert (for nett og content)/copyland logo for trykk.pdf
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/copyland logo for trykk.pdf
+  04_Partnere/Logoer/Redigert (for nett og content)/touchorginal.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/touchorginal.png
+  04_Partnere/Logoer/Redigert (for nett og content)/jng-bwbw@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/jng-bwbw@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/ThonSenterBorg-1.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/ThonSenterBorg-1.png
+  04_Partnere/Logoer/Redigert (for nett og content)/b-w_copyland.psd
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/b-w_copyland.psd
+  04_Partnere/Logoer/Redigert (for nett og content)/ThonSenterBorg-3.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/ThonSenterBorg-3.png
+  04_Partnere/Logoer/Redigert (for nett og content)/JOKER@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/JOKER@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/ThonSenterBorg-2.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/ThonSenterBorg-2.png
+  04_Partnere/Logoer/Redigert (for nett og content)/jng.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/jng.png
+  04_Partnere/Logoer/Redigert (for nett og content)/Savoy.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/Savoy.png
+  04_Partnere/Logoer/Redigert (for nett og content)/Hvila.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/Hvila.png
+  04_Partnere/Logoer/Redigert (for nett og content)/CECI@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/CECI@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/gretland-reno2-orginallogo.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/gretland-reno2-orginallogo.png
+  04_Partnere/Logoer/Redigert (for nett og content)/stharry.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/stharry.png
+  04_Partnere/Logoer/Redigert (for nett og content)/FB@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/FB@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/fredrikstadbladINSTALLATØREN@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/fredrikstadbladINSTALLATØREN@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/b-w_copyland.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/b-w_copyland.png
+  04_Partnere/Logoer/Redigert (for nett og content)/matverste.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/matverste.png
+  04_Partnere/Logoer/Redigert (for nett og content)/TORVBYEN@4x.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/TORVBYEN@4x.png
+  04_Partnere/Logoer/Redigert (for nett og content)/xlutleie.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/xlutleie.png
+  04_Partnere/Logoer/Redigert (for nett og content)/jngjngjng.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/jngjngjng.png
+  04_Partnere/Logoer/RAW (original fra partner)/Touch-logo-2022 sort.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Touch-logo-2022 sort.png
+  04_Partnere/Logoer/RAW (original fra partner)/Viedu_Logo-aaa.eps
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Viedu_Logo-aaa.eps
+  04_Partnere/Logoer/RAW (original fra partner)/PSS_Securitas_Logotype_RedNavyBlue_RGB.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/PSS_Securitas_Logotype_RedNavyBlue_RGB.png
+  04_Partnere/Logoer/RAW (original fra partner)/Coca-Cola_logo_hvit (1).eps
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Coca-Cola_logo_hvit (1).eps
+  04_Partnere/Logoer/RAW (original fra partner)/free_quent-fredrikstad.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/free_quent-fredrikstad.png
+  04_Partnere/Logoer/RAW (original fra partner)/Logo+-+full+colour+-+dark+purple+%281%29.png.webp
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Logo+-+full+colour+-+dark+purple+%281%29.png.webp
+  04_Partnere/Logoer/RAW (original fra partner)/Litteraturhuset.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Litteraturhuset.png
+  04_Partnere/Logoer/RAW (original fra partner)/Domino's_2025.svg.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Domino's_2025.svg.png
+  04_Partnere/Logoer/RAW (original fra partner)/Sparebank1ForretningsPartner.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Sparebank1ForretningsPartner.png
+  04_Partnere/Logoer/RAW (original fra partner)/Sparebank1ForretningsPartner.jpg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Sparebank1ForretningsPartner.jpg
+  04_Partnere/Logoer/RAW (original fra partner)/installatørensvart.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/installatørensvart.png
+  04_Partnere/Logoer/RAW (original fra partner)/Norli-logo_Siden-1890_2023.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Norli-logo_Siden-1890_2023.png
+  04_Partnere/Logoer/RAW (original fra partner)/installatørensvart.jpg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/installatørensvart.jpg
+  04_Partnere/Logoer/RAW (original fra partner)/RB_Standard_Logo_cmyk_2017.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/RB_Standard_Logo_cmyk_2017.png
+  04_Partnere/Logoer/RAW (original fra partner)/GretlandRenologo.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/GretlandRenologo.png
+  04_Partnere/Logoer/RAW (original fra partner)/SoMe_logo.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/SoMe_logo.png
+  04_Partnere/Logoer/RAW (original fra partner)/Touch-logo-2022 beige singel.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Touch-logo-2022 beige singel.png
+  04_Partnere/Logoer/RAW (original fra partner)/Touch-logo-2022 beige singel.jpg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Touch-logo-2022 beige singel.jpg
+  04_Partnere/Logoer/RAW (original fra partner)/SoMe_logo.jpg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/SoMe_logo.jpg
+  04_Partnere/Logoer/RAW (original fra partner)/panser CMYK EPS.pdf
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/panser CMYK EPS.pdf
+  04_Partnere/Logoer/RAW (original fra partner)/cd7b9a3174450997664497d94e5d724af8ad9534-68x43.svg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/cd7b9a3174450997664497d94e5d724af8ad9534-68x43.svg
+  04_Partnere/Logoer/RAW (original fra partner)/panser CMYK EPS.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/panser CMYK EPS.png
+  04_Partnere/Logoer/RAW (original fra partner)/crepe-logo-transparent.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/crepe-logo-transparent.png
+  04_Partnere/Logoer/RAW (original fra partner)/NiNi-Logo-RGB_Stacked-Logo-Krone-neg-red.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/NiNi-Logo-RGB_Stacked-Logo-Krone-neg-red.png
+  04_Partnere/Logoer/RAW (original fra partner)/deluxe-aaa.jpeg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/deluxe-aaa.jpeg
+  04_Partnere/Logoer/RAW (original fra partner)/fredrikstadblad.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/fredrikstadblad.png
+  04_Partnere/Logoer/RAW (original fra partner)/installatørensvart.svg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/installatørensvart.svg
+  04_Partnere/Logoer/RAW (original fra partner)/HHPSS_Securitas_Logotype_RedNavyBlue_RGB.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/HHPSS_Securitas_Logotype_RedNavyBlue_RGB.png
+  04_Partnere/Logoer/RAW (original fra partner)/NiNi-Logo-RGB_Stacked-logo-Neg.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/NiNi-Logo-RGB_Stacked-logo-Neg.png
+  04_Partnere/Logoer/RAW (original fra partner)/Sparebank1ForretningsPartner.svg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Sparebank1ForretningsPartner.svg
+  04_Partnere/Logoer/RAW (original fra partner)/synsam.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/synsam.png
+  04_Partnere/Logoer/RAW (original fra partner)/Purblu logo lys blå.jpg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Purblu logo lys blå.jpg
+  04_Partnere/Logoer/RAW (original fra partner)/Fredrikstad+Sentrum_02.webp
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Fredrikstad+Sentrum_02.webp
+  04_Partnere/Logoer/RAW (original fra partner)/Touch-logo-2022 beige singel.psd
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Touch-logo-2022 beige singel.psd
+  04_Partnere/Logoer/RAW (original fra partner)/scandic-city-org-png (2).png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/scandic-city-org-png (2).png
+  04_Partnere/Logoer/RAW (original fra partner)/logo-gretland-reno2.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/logo-gretland-reno2.png
+  04_Partnere/Logoer/RAW (original fra partner)/Cutters-Logo_Black (4).png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Cutters-Logo_Black (4).png
+  04_Partnere/Logoer/RAW (original fra partner)/barkaden_slogan_svart.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/barkaden_slogan_svart.png
+  04_Partnere/Logoer/RAW (original fra partner)/08d7f5db46ddd02e31de474d12d593d0.jpeg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/08d7f5db46ddd02e31de474d12d593d0.jpeg
+  04_Partnere/Logoer/RAW (original fra partner)/logo fq.jpg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/logo fq.jpg
+  04_Partnere/Logoer/RAW (original fra partner)/Hvíla - Main Logo - Positive - Safe area.svg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Hvíla - Main Logo - Positive - Safe area.svg
+  04_Partnere/Logoer/RAW (original fra partner)/marsell bygg logo-aa.jpeg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/marsell bygg logo-aa.jpeg
+  04_Partnere/Logoer/RAW (original fra partner)/Ren logo.pdf
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Ren logo.pdf
+  04_Partnere/Logoer/RAW (original fra partner)/Aass Bryggeri AS - No Logo logo Colour lovlig STABLET.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Aass Bryggeri AS - No Logo logo Colour lovlig STABLET.png
+  04_Partnere/Logoer/RAW (original fra partner)/thonsenter-svart.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/thonsenter-svart.png
+  04_Partnere/Logoer/RAW (original fra partner)/domino-interior-logo_250x@2x.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/domino-interior-logo_250x@2x.png
+  04_Partnere/Logoer/RAW (original fra partner)/jng montasje logo.jpeg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/jng montasje logo.jpeg
+  04_Partnere/Logoer/RAW (original fra partner)/EIR_trening_Full_colour.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/EIR_trening_Full_colour.png
+  04_Partnere/Logoer/RAW (original fra partner)/SoliBrug_Fredrikstad_Logo_A.pdf
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/SoliBrug_Fredrikstad_Logo_A.pdf
+  04_Partnere/Logoer/RAW (original fra partner)/Touch-logo-2022 beige.jpg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Touch-logo-2022 beige.jpg
+  04_Partnere/Logoer/RAW (original fra partner)/thon-senter.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/thon-senter.png
+  04_Partnere/Logoer/RAW (original fra partner)/fernerHovedlogo_sort-aa.pdf
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/fernerHovedlogo_sort-aa.pdf
+  04_Partnere/Logoer/RAW (original fra partner)/Borg_senterlogo_midtstilt_RGB.svg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Borg_senterlogo_midtstilt_RGB.svg
+  04_Partnere/Logoer/RAW (original fra partner)/POTETBAKERN_edited.avif
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/POTETBAKERN_edited.avif
+  04_Partnere/Logoer/RAW (original fra partner)/Telia.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Telia.png
+  04_Partnere/Logoer/RAW (original fra partner)/taxisentralen.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/taxisentralen.png
+  04_Partnere/Logoer/RAW (original fra partner)/stharry.pdf
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/stharry.pdf
+  04_Partnere/Logoer/RAW (original fra partner)/xlutleie.jpg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/xlutleie.jpg
+  04_Partnere/Logoer/RAW (original fra partner)/redbull-logo-svgrepo-com.svg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/redbull-logo-svgrepo-com.svg
+  04_Partnere/Logoer/RAW (original fra partner)/Savoy-Logo/Logo Savoy1.svg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Savoy-Logo/Logo Savoy1.svg
+  04_Partnere/Logoer/RAW (original fra partner)/Savoy-Logo/Logo Savoy1.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Savoy-Logo/Logo Savoy1.png
+  04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_neg (1).pdf
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_neg (1).pdf
+  04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_pos.pdf
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_pos.pdf
+  04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_pos (1).pdf
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_pos (1).pdf
+  04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_pos.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_pos.png
+  04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_neg.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_neg.png
+  04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_pos.psd
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_pos.psd
+  04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_neg.pdf
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_neg.pdf
+  04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/Logo signatur e-post .jpg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/Logo signatur e-post .jpg
+  04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_pos (1).eps
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_pos (1).eps
+  04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_neg_spons.eps
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_neg_spons.eps
+  04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_pos.eps
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_pos.eps
+  04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_neg (1).eps
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_neg (1).eps
+  04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_neg.eps
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/cmyk_SB1O_Forretningspartner_verti_2_neg.eps
+  04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/rgb_SB1O_Forretningspartner_verti_2_neg_spons.pdf
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/sparebank1forretningspartnerlogo/rgb_SB1O_Forretningspartner_verti_2_neg_spons.pdf
+  04_Partnere/Logoer/RAW (original fra partner)/Modish logoer/Logo - monochrome - light purple.svg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Modish logoer/Logo - monochrome - light purple.svg
+  04_Partnere/Logoer/RAW (original fra partner)/Modish logoer/Logo - full colour - dark purple.svg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Modish logoer/Logo - full colour - dark purple.svg
+  04_Partnere/Logoer/RAW (original fra partner)/Modish logoer/Logo - monochrome - dark purple.svg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Modish logoer/Logo - monochrome - dark purple.svg
+  04_Partnere/Logoer/RAW (original fra partner)/Modish logoer/Logo - negative.svg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Modish logoer/Logo - negative.svg
+  04_Partnere/Logoer/RAW (original fra partner)/Modish logoer/Logo - full colour - negative.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Modish logoer/Logo - full colour - negative.png
+  04_Partnere/Logoer/RAW (original fra partner)/Modish logoer/Logo - monochrome - purple.svg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Modish logoer/Logo - monochrome - purple.svg
+  04_Partnere/Logoer/RAW (original fra partner)/Modish logoer/Logo - full colour - negative.svg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Modish logoer/Logo - full colour - negative.svg
+  04_Partnere/Logoer/RAW (original fra partner)/Modish logoer/Logo - negative.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Modish logoer/Logo - negative.png
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30001M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30001M01.XML
+  06_Nettside/Lykke_Li_4.jpg
+    -> HYSJ/2026/06_Nettside/Lykke_Li_4.jpg
+  06_Nettside/HYSJ-Artist-Ramme
+    -> HYSJ/2026/06_Nettside/HYSJ-Artist-Ramme
+  06_Nettside/ka2_feelings_no.jpg.webp
+    -> HYSJ/2026/06_Nettside/ka2_feelings_no.jpg.webp
+  06_Nettside/røff test for nettsidde placeholder.mov
+    -> HYSJ/2026/06_Nettside/røff test for nettsidde placeholder.mov
+  06_Nettside/f6161b78b8dd84cccf2706cd52f45a4535bbeba3-1181x1181.jpg.avif
+    -> HYSJ/2026/06_Nettside/f6161b78b8dd84cccf2706cd52f45a4535bbeba3-1181x1181.jpg.avif
+  06_Nettside/Dina-Ogon-Pressbild-24-alt-2-Photcred-Mikael-Kenta-_NTT.jpg
+    -> HYSJ/2026/06_Nettside/Dina-Ogon-Pressbild-24-alt-2-Photcred-Mikael-Kenta-_NTT.jpg
+  06_Nettside/NiklasSevaldsen_arif-portrett-09280_a63119ca-bf70-40e1-9721-ac500e151a7a.jpg.webp
+    -> HYSJ/2026/06_Nettside/NiklasSevaldsen_arif-portrett-09280_a63119ca-bf70-40e1-9721-ac500e151a7a.jpg.webp
+  06_Nettside/f6161b78b8dd84cccf2706cd52f45a4535bbeba3-1181x1181.jpg.jpg
+    -> HYSJ/2026/06_Nettside/f6161b78b8dd84cccf2706cd52f45a4535bbeba3-1181x1181.jpg.jpg
+  07_Festival/4000følgere.jpg
+    -> HYSJ/2026/07_Festival/4000følgere.jpg
+  07_Festival/billetmotband.png
+    -> HYSJ/2026/07_Festival/billetmotband.png
+  07_Festival/vinneravtoalett.af
+    -> HYSJ/2026/07_Festival/vinneravtoalett.af
+  07_Festival/festivalantrakk300kr.af
+    -> HYSJ/2026/07_Festival/festivalantrakk300kr.af
+  07_Festival/toalett-plakat.af
+    -> HYSJ/2026/07_Festival/toalett-plakat.af
+  07_Festival/2ukertilhysj.jpg
+    -> HYSJ/2026/07_Festival/2ukertilhysj.jpg
+  07_Festival/2000følgere.af
+    -> HYSJ/2026/07_Festival/2000følgere.af
+  07_Festival/toalett-plakat.jpg
+    -> HYSJ/2026/07_Festival/toalett-plakat.jpg
+  07_Festival/3ukertilhysj.jpg
+    -> HYSJ/2026/07_Festival/3ukertilhysj.jpg
+  07_Festival/2manderertilhysj.jpg
+    -> HYSJ/2026/07_Festival/2manderertilhysj.jpg
+  07_Festival/4ukertilhysj.jpg
+    -> HYSJ/2026/07_Festival/4ukertilhysj.jpg
+  07_Festival/4000følgere.af
+    -> HYSJ/2026/07_Festival/4000følgere.af
+  07_Festival/festivalantrakk3000kr.jpg
+    -> HYSJ/2026/07_Festival/festivalantrakk3000kr.jpg
+  07_Festival/Bildebank-plakat.jpg
+    -> HYSJ/2026/07_Festival/Bildebank-plakat.jpg
+  07_Festival/vinneravtoalett.jpg
+    -> HYSJ/2026/07_Festival/vinneravtoalett.jpg
+  07_Festival/Bildebank-plakat.af
+    -> HYSJ/2026/07_Festival/Bildebank-plakat.af
+  07_Festival/festivalantrakk300kr.jpg
+    -> HYSJ/2026/07_Festival/festivalantrakk300kr.jpg
+  07_Festival/HysjNewsletter-Lokasjon-Tid.af
+    -> HYSJ/2026/07_Festival/HysjNewsletter-Lokasjon-Tid.af
+  07_Festival/smakenavhysj/Artboard1.jpg
+    -> HYSJ/2026/07_Festival/smakenavhysj/Artboard1.jpg
+  07_Festival/smakenavhysj/Artboard3.jpg
+    -> HYSJ/2026/07_Festival/smakenavhysj/Artboard3.jpg
+  07_Festival/smakenavhysj/Artboard2.jpg
+    -> HYSJ/2026/07_Festival/smakenavhysj/Artboard2.jpg
+  07_Festival/smakenavhysj/Artboard5.jpg
+    -> HYSJ/2026/07_Festival/smakenavhysj/Artboard5.jpg
+  07_Festival/smakenavhysj/Artboard4.jpg
+    -> HYSJ/2026/07_Festival/smakenavhysj/Artboard4.jpg
+  07_Festival/smakenavhysj/smakenavhysj.af
+    -> HYSJ/2026/07_Festival/smakenavhysj/smakenavhysj.af
+  07_Festival/Ledskjerm/HYSJVENN-Ledskjerm-Hysj.af~lock~
+    -> HYSJ/2026/07_Festival/Ledskjerm/HYSJVENN-Ledskjerm-Hysj.af~lock~
+  07_Festival/Ledskjerm/HYSJVENN-LedReklame.mp4
+    -> HYSJ/2026/07_Festival/Ledskjerm/HYSJVENN-LedReklame.mp4
+  07_Festival/Ledskjerm/Hysj-Ledskjerm-taxisentralen.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/Hysj-Ledskjerm-taxisentralen.jpg
+  07_Festival/Ledskjerm/v2-HYSJVENN-Ledskjerm-HYSJ.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/v2-HYSJVENN-Ledskjerm-HYSJ.jpg
+  07_Festival/Ledskjerm/HYSJVENN-Ledskjerm-Hysj.af
+    -> HYSJ/2026/07_Festival/Ledskjerm/HYSJVENN-Ledskjerm-Hysj.af
+  07_Festival/Ledskjerm/HYSJVENN-Ledskjerm-HYSJ.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/HYSJVENN-Ledskjerm-HYSJ.jpg
+  07_Festival/Ledskjerm/Purblue/Purblu-LedReklame.mp4
+    -> HYSJ/2026/07_Festival/Ledskjerm/Purblue/Purblu-LedReklame.mp4
+  07_Festival/Ledskjerm/Purblue/Purblue-Ledskjerm-HYSJ.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/Purblue/Purblue-Ledskjerm-HYSJ.jpg
+  07_Festival/Ledskjerm/Purblue/purblu.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/purblu.png
+  07_Festival/Ledskjerm/Purblue/Purblu logo lys blå.jpg
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Purblu logo lys blå.jpg
+  07_Festival/Ledskjerm/Purblue/Purblue-Ledskjerm-Hysj.af
+    -> HYSJ/2026/07_Festival/Ledskjerm/Purblue/Purblue-Ledskjerm-Hysj.af
+  07_Festival/Ledskjerm/Forretningspartner/Sparebank1ForretningsPartner.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/Sparebank1ForretningsPartner.png
+  07_Festival/Ledskjerm/Forretningspartner/Forretningspartner-Ledskjerm-HYSJ.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/Forretningspartner/Forretningspartner-Ledskjerm-HYSJ.jpg
+  07_Festival/Ledskjerm/Forretningspartner/Forretningspartner-Ledskjerm-Hysj.af
+    -> HYSJ/2026/07_Festival/Ledskjerm/Forretningspartner/Forretningspartner-Ledskjerm-Hysj.af
+  07_Festival/Ledskjerm/Showstop/IMG_8177.jpeg
+    -> HYSJ/2026/07_Festival/Ledskjerm/Showstop/IMG_8177.jpeg
+  07_Festival/Ledskjerm/Showstop/IMG_8176.jpeg
+    -> HYSJ/2026/07_Festival/Ledskjerm/Showstop/IMG_8176.jpeg
+  07_Festival/Ledskjerm/Showstop/IMG_8179.jpeg
+    -> HYSJ/2026/07_Festival/Ledskjerm/Showstop/IMG_8179.jpeg
+  07_Festival/Ledskjerm/Showstop/IMG_8178.jpeg
+    -> HYSJ/2026/07_Festival/Ledskjerm/Showstop/IMG_8178.jpeg
+  07_Festival/Ledskjerm/Showstop/4.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/Showstop/4.jpg
+  07_Festival/Ledskjerm/Showstop/SHOWSTOP4.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/Showstop/SHOWSTOP4.jpg
+  07_Festival/Ledskjerm/Showstop/SHOWSTOP.af
+    -> HYSJ/2026/07_Festival/Ledskjerm/Showstop/SHOWSTOP.af
+  07_Festival/Ledskjerm/Showstop/2.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/Showstop/2.jpg
+  07_Festival/Ledskjerm/Showstop/SHOWSTOP1.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/Showstop/SHOWSTOP1.jpg
+  07_Festival/Ledskjerm/Showstop/3.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/Showstop/3.jpg
+  07_Festival/Ledskjerm/Showstop/1.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/Showstop/1.jpg
+  07_Festival/Ledskjerm/Showstop/SHOWSTOP3.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/Showstop/SHOWSTOP3.jpg
+  07_Festival/Ledskjerm/Showstop/SHOWSTOP2.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/Showstop/SHOWSTOP2.jpg
+  07_Festival/Ledskjerm/Copyland/Document.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/Copyland/Document.jpg
+  07_Festival/Ledskjerm/Copyland/Copyland-Ledskjerm-HYSJ.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/Copyland/Copyland-Ledskjerm-HYSJ.jpg
+  07_Festival/Ledskjerm/Copyland/copyland.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/copyland.png
+  07_Festival/Ledskjerm/Copyland/Copyland-Ledskjerm-Hysj.af
+    -> HYSJ/2026/07_Festival/Ledskjerm/Copyland/Copyland-Ledskjerm-Hysj.af
+  07_Festival/Ledskjerm/Copyland/Copyland-LedReklame.mp4
+    -> HYSJ/2026/07_Festival/Ledskjerm/Copyland/Copyland-LedReklame.mp4
+  07_Festival/Ledskjerm/Joker/v1-Joker-Ledskjerm-HYSJ.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/Joker/v1-Joker-Ledskjerm-HYSJ.jpg
+  07_Festival/Ledskjerm/Joker/Joker-Ledskjerm-Hysj.af
+    -> HYSJ/2026/07_Festival/Ledskjerm/Joker/Joker-Ledskjerm-Hysj.af
+  07_Festival/Ledskjerm/Joker/Joker-LedReklame.mp4
+    -> HYSJ/2026/07_Festival/Ledskjerm/Joker/Joker-LedReklame.mp4
+  07_Festival/Ledskjerm/Joker/Joker-Ledskjerm-HYSJ.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/Joker/Joker-Ledskjerm-HYSJ.jpg
+  07_Festival/Ledskjerm/Joker/v2Joker-LedReklame.mp4
+    -> HYSJ/2026/07_Festival/Ledskjerm/Joker/v2Joker-LedReklame.mp4
+  07_Festival/Ledskjerm/PSS/PSS_Securitas_Logotype_RedNavyBlue_RGB.png
+    -> HYSJ/2026/04_Partnere/Logoer/RAW (original fra partner)/PSS_Securitas_Logotype_RedNavyBlue_RGB.png
+  07_Festival/Ledskjerm/PSS/PSS_Securitas_Logotype_RedWhite_RGB.png
+    -> HYSJ/2026/07_Festival/Ledskjerm/PSS/PSS_Securitas_Logotype_RedWhite_RGB.png
+  07_Festival/Ledskjerm/PSS/PSS-Ledskjerm-Hysj.af
+    -> HYSJ/2026/07_Festival/Ledskjerm/PSS/PSS-Ledskjerm-Hysj.af
+  07_Festival/Ledskjerm/PSS/PSS-Ledskjerm-HYSJ-v2.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/PSS/PSS-Ledskjerm-HYSJ-v2.jpg
+  07_Festival/Ledskjerm/PSS/PSS-Ledskjerm-HYSJ-v3.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/PSS/PSS-Ledskjerm-HYSJ-v3.jpg
+  07_Festival/Ledskjerm/PSS/PSS-Ledskjerm-HYSJ-v1.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/PSS/PSS-Ledskjerm-HYSJ-v1.jpg
+  07_Festival/Ledskjerm/JNG Montasje/JNG-Ledskjerm-HYSJ.jpg
+    -> HYSJ/2026/07_Festival/Ledskjerm/JNG Montasje/JNG-Ledskjerm-HYSJ.jpg
+  07_Festival/Ledskjerm/JNG Montasje/JNG-LedReklame.mp4
+    -> HYSJ/2026/07_Festival/Ledskjerm/JNG Montasje/JNG-LedReklame.mp4
+  07_Festival/Ledskjerm/JNG Montasje/JNG-Ledskjerm-Hysj.af
+    -> HYSJ/2026/07_Festival/Ledskjerm/JNG Montasje/JNG-Ledskjerm-Hysj.af
+  07_Festival/Ledskjerm/JNG Montasje/jngjngjng.png
+    -> HYSJ/2026/04_Partnere/Logoer/Redigert (for nett og content)/jngjngjng.png
+  07_Festival/SPILLETIDER/NYHETSBREV.png
+    -> HYSJ/2026/07_Festival/SPILLETIDER/NYHETSBREV.png
+  07_Festival/SPILLETIDER/Spilletider-Newsletter.png
+    -> HYSJ/2026/07_Festival/SPILLETIDER/Spilletider-Newsletter.png
+  07_Festival/SPILLETIDER/Spilletider-Newsletter.jpg
+    -> HYSJ/2026/07_Festival/SPILLETIDER/Spilletider-Newsletter.jpg
+  07_Festival/SPILLETIDER/Spilletider-Newsletter-Header.png
+    -> HYSJ/2026/07_Festival/SPILLETIDER/Spilletider-Newsletter-Header.png
+  07_Festival/SPILLETIDER/SPILLETIDERPÅHYSJ.af
+    -> HYSJ/2026/07_Festival/SPILLETIDER/SPILLETIDERPÅHYSJ.af
+  07_Festival/SPILLETIDER/TORSDAG.jpg
+    -> HYSJ/2026/07_Festival/SPILLETIDER/TORSDAG.jpg
+  07_Festival/SPILLETIDER/FORSIDE.jpg
+    -> HYSJ/2026/07_Festival/SPILLETIDER/FORSIDE.jpg
+  07_Festival/SPILLETIDER/FREDAG.jpg
+    -> HYSJ/2026/07_Festival/SPILLETIDER/FREDAG.jpg
+  07_Festival/Backdrop/Visuals/Edit/Project/Hysj - Visuals-Loops.drp
+    -> HYSJ/2026/07_Festival/Backdrop/Visuals/Edit/Project/Hysj - Visuals-Loops.drp
+  07_Festival/Backdrop/Visuals/Edit/Project/Hysj - Visuals.drp
+    -> HYSJ/2026/07_Festival/Backdrop/Visuals/Edit/Project/Hysj - Visuals.drp
+  07_Festival/Backdrop/Export/Torsdag-Visual_Scene-Oneway.mov
+    -> HYSJ/2026/07_Festival/Backdrop/Export/Torsdag-Visual_Scene-Oneway.mov
+  07_Festival/Backdrop/Export/Fredag-Visual_Scene-Loop.mov
+    -> HYSJ/2026/07_Festival/Backdrop/Export/Fredag-Visual_Scene-Loop.mov
+  07_Festival/Backdrop/Export/Torsdag-Visual_Scene-Loop.mov
+    -> HYSJ/2026/07_Festival/Backdrop/Export/Torsdag-Visual_Scene-Loop.mov
+  07_Festival/Backdrop/Export/Fredag-Visual_Scene-Oneway.mov
+    -> HYSJ/2026/07_Festival/Backdrop/Export/Fredag-Visual_Scene-Oneway.mov
+  07_Festival/Backdrop/Assets/Slots-Sjanger-HYSJ.setting
+    -> HYSJ/2026/07_Festival/Backdrop/Assets/Slots-Sjanger-HYSJ.setting
+  07_Festival/Backdrop/Assets/Frame.png
+    -> HYSJ/2026/07_Festival/Backdrop/Assets/Frame.png
+  07_Festival/Backdrop/Assets/Hysj Kart/hf_20260714_185227_a1ac7381-d810-496e-95dc-ebcfcd1c1ba3.mp4
+    -> HYSJ/2026/07_Festival/Backdrop/Assets/Hysj Kart/hf_20260714_185227_a1ac7381-d810-496e-95dc-ebcfcd1c1ba3.mp4
+  07_Festival/Backdrop/Assets/Hysj Kart/Hysjkart01 3.jpg
+    -> HYSJ/2026/07_Festival/Backdrop/Assets/Hysj Kart/Hysjkart01 3.jpg
+  07_Festival/Backdrop/Assets/Hysj Kart/HYSJ-LED.png
+    -> HYSJ/2026/07_Festival/Backdrop/Assets/Hysj Kart/HYSJ-LED.png
+  07_Festival/Backdrop/Assets/Hysj Kart/HYSJ-LED-2048x1024.png
+    -> HYSJ/2026/07_Festival/Backdrop/Assets/Hysj Kart/HYSJ-LED-2048x1024.png
+  07_Festival/Backdrop/Assets/Hysj Kart/hf_20260714_183409_7f2f18b2-9f79-4575-af31-acf8cb87affc.mp4
+    -> HYSJ/2026/07_Festival/Backdrop/Assets/Hysj Kart/hf_20260714_183409_7f2f18b2-9f79-4575-af31-acf8cb87affc.mp4
+  07_Festival/Backdrop/Assets/Font/TypeType - TT Nooks Script Bold.otf
+    -> HYSJ/2026/07_Festival/Backdrop/Assets/Font/TypeType - TT Nooks Script Bold.otf
+  07_Festival/Backdrop/Assets/Font/BowlbyOne-Regular.ttf
+    -> HYSJ/2026/07_Festival/Backdrop/Assets/Font/BowlbyOne-Regular.ttf
+  07_Festival/rigg-video_14072026/_TEMPLATE_.drp
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/_TEMPLATE_.drp
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30008M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30008M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30004M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30004M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30006M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30006M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30006.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30006.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30007.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30007.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30005.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30005.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30002M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30002M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30004.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30004.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30001.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30001.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30003.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30003.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30002.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30002.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30005M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30005M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30007M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30007M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30008.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30008.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30003M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30003M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30001M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30001M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163513_0004_D.LRF
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163513_0004_D.LRF
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163559_0005_D.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163559_0005_D.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163612_0006_D.SRT
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163612_0006_D.SRT
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163642_0007_D.LRF
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163642_0007_D.LRF
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163302_0001_D.SRT
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163302_0001_D.SRT
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163353_0002_D.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163353_0002_D.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163434_0003_D.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163434_0003_D.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163302_0001_D.LRF
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163302_0001_D.LRF
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163642_0007_D.SRT
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163642_0007_D.SRT
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163612_0006_D.LRF
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163612_0006_D.LRF
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163513_0004_D.SRT
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163513_0004_D.SRT
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163353_0002_D.LRF
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163353_0002_D.LRF
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163434_0003_D.SRT
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163434_0003_D.SRT
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163642_0007_D.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163642_0007_D.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163559_0005_D.LRF
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163559_0005_D.LRF
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163513_0004_D.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163513_0004_D.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163612_0006_D.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163612_0006_D.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163559_0005_D.SRT
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163559_0005_D.SRT
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163434_0003_D.LRF
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163434_0003_D.LRF
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163302_0001_D.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163302_0001_D.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163353_0002_D.SRT
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Drone/DJI_20260714163353_0002_D.SRT
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30139.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30139.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30016M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30016M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30138.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30138.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30008M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30008M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30141M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30141M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30014M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30014M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30012.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30012.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30007.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30007.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30013.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30013.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30011.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30011.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30010M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30010M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30138M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30138M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30010.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30010.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30014.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30014.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30012M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30012M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30015.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30015.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30017.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30017.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30016.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30016.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30009M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30009M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30017M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30017M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30009.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30009.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30007M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30007M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30015M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30015M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30141.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30141.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30140.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30140.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30140M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30140M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30008.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30008.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30139M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30139M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30011M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30011M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30137.MP4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30137.MP4
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30137M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30137M01.XML
+  07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30013M01.XML
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/Video2-Onsdag/SW-FX30013M01.XML
+  07_Festival/rigg-video_14072026/04_Eksport/Utkast/v2_EDIT-9x16 Onsdag-rigg-video_14072026.mp4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/04_Eksport/Utkast/v2_EDIT-9x16 Onsdag-rigg-video_14072026.mp4
+  07_Festival/rigg-video_14072026/04_Eksport/Utkast/v1_EDIT-9x16 Onsdag-rigg-video_14072026.mp4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/04_Eksport/Utkast/v1_EDIT-9x16 Onsdag-rigg-video_14072026.mp4
+  07_Festival/rigg-video_14072026/04_Eksport/Final/v1-utenlogo_EDIT-9x16-rigg-video_14072026.mp4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/04_Eksport/Final/v1-utenlogo_EDIT-9x16-rigg-video_14072026.mp4
+  07_Festival/rigg-video_14072026/04_Eksport/Final/v1-medlogo_EDIT-9x16-rigg-video_14072026.mp4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/04_Eksport/Final/v1-medlogo_EDIT-9x16-rigg-video_14072026.mp4
+  07_Festival/rigg-video_14072026/02_Ressurser/Musikk/Great news everyone 😂.mp4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/02_Ressurser/Musikk/Great news everyone 😂.mp4
+  07_Festival/rigg-video_14072026/02_Ressurser/Musikk/AQMdhc_t9BbHYSExVMIcPzwXbQyCJrK4JxttYXYoaV5nlGZjCwOJcNo3sxRxv0DpcISKEhVMWy2hletLpmH-_OXZXWMbKA2TAA8g2Sw.mp4
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/02_Ressurser/Musikk/AQMdhc_t9BbHYSExVMIcPzwXbQyCJrK4JxttYXYoaV5nlGZjCwOJcNo3sxRxv0DpcISKEhVMWy2hletLpmH-_OXZXWMbKA2TAA8g2Sw.mp4
+  07_Festival/LedReklame/MAXBO-LedReklame.mp4
+    -> HYSJ/2026/07_Festival/LedReklame/MAXBO-LedReklame.mp4
+  07_Festival/LedReklame/original-8B034A6D-06C6-4EC9-8F9E-ED22D512BCB1.png
+    -> HYSJ/2026/07_Festival/LedReklame/original-8B034A6D-06C6-4EC9-8F9E-ED22D512BCB1.png
+  07_Festival/LedReklame/original-8B034A6D-06C6-4EC9-8F9E-ED22D512BCB1.jpeg
+    -> HYSJ/2026/07_Festival/LedReklame/original-8B034A6D-06C6-4EC9-8F9E-ED22D512BCB1.jpeg
+  07_Festival/STORKONK/Fredrikstad Sentrum.jpg
+    -> HYSJ/2026/07_Festival/STORKONK/Fredrikstad Sentrum.jpg
+  07_Festival/STORKONK/Taxi.jpg
+    -> HYSJ/2026/07_Festival/STORKONK/Taxi.jpg
+  07_Festival/STORKONK/STOR KONKURANNSE.af
+    -> HYSJ/2026/07_Festival/STORKONK/STOR KONKURANNSE.af
+  07_Festival/STORKONK/Scandic.jpg
+    -> HYSJ/2026/07_Festival/STORKONK/Scandic.jpg
+  07_Festival/STORKONK/Hysj.jpg
+    -> HYSJ/2026/07_Festival/STORKONK/Hysj.jpg
+  07_Festival/STORKONK/Værstetorvet.jpg
+    -> HYSJ/2026/07_Festival/STORKONK/Værstetorvet.jpg
+  07_Festival/STORKONK/Forside.jpg
+    -> HYSJ/2026/07_Festival/STORKONK/Forside.jpg
+  07_Festival/17Mai/17Mai-Video-v4.mp4
+    -> HYSJ/2026/07_Festival/17Mai/17Mai-Video-v4.mp4
+  07_Festival/17Mai/17Mai-Video-v2.mp4
+    -> HYSJ/2026/07_Festival/17Mai/17Mai-Video-v2.mp4
+  07_Festival/17Mai/17Mai-Video-v3.mp4
+    -> HYSJ/2026/07_Festival/17Mai/17Mai-Video-v3.mp4
+  07_Festival/17Mai/17mai-blender-3.jpg
+    -> HYSJ/2026/07_Festival/17Mai/17mai-blender-3.jpg
+  07_Festival/17Mai/17mai-blender-2.jpg
+    -> HYSJ/2026/07_Festival/17Mai/17mai-blender-2.jpg
+  07_Festival/17Mai/17mai-blender-4.jpg
+    -> HYSJ/2026/07_Festival/17Mai/17mai-blender-4.jpg
+  07_Festival/17Mai/17Mai-Video.mp4
+    -> HYSJ/2026/07_Festival/17Mai/17Mai-Video.mp4
+  07_Festival/17Mai/17mai.af
+    -> HYSJ/2026/07_Festival/17Mai/17mai.af
+  07_Festival/17Mai/17mai-blender.jpg
+    -> HYSJ/2026/07_Festival/17Mai/17mai-blender.jpg
+  07_Festival/17Mai/17mai.jpg
+    -> HYSJ/2026/07_Festival/17Mai/17mai.jpg
+  07_Festival/Solli-Savoy_afterparty/solli-savoy-afterparty.jpg
+    -> HYSJ/2026/07_Festival/Solli-Savoy_afterparty/solli-savoy-afterparty.jpg
+  07_Festival/Solli-Savoy_afterparty/v2-solli-savoy-afterparty.jpg
+    -> HYSJ/2026/07_Festival/Solli-Savoy_afterparty/v2-solli-savoy-afterparty.jpg
+  07_Festival/Solli-Savoy_afterparty/solli-savoy-afterparty.af
+    -> HYSJ/2026/07_Festival/Solli-Savoy_afterparty/solli-savoy-afterparty.af
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094658_0060_D.JPG
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094658_0060_D.JPG
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094229_0051_D.LRF
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094229_0051_D.LRF
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094441_0055_D.SRT
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094441_0055_D.SRT
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094810_0064_D.SRT
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094810_0064_D.SRT
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094624_0058_D.SRT
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094624_0058_D.SRT
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094357_0053_D.LRF
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094357_0053_D.LRF
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094250_0052_D.LRF
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094250_0052_D.LRF
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094547_0057_D.MP4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094547_0057_D.MP4
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094729_0063_D.SRT
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094729_0063_D.SRT
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094729_0063_D.LRF
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094729_0063_D.LRF
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094709_0061_D.DNG
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094709_0061_D.DNG
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094721_0062_D.JPG
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094721_0062_D.JPG
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094517_0056_D.MP4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094517_0056_D.MP4
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094810_0064_D.LRF
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094810_0064_D.LRF
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094357_0053_D.SRT
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094357_0053_D.SRT
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094250_0052_D.SRT
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094250_0052_D.SRT
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094624_0058_D.LRF
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094624_0058_D.LRF
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094229_0051_D.SRT
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094229_0051_D.SRT
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094441_0055_D.LRF
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094441_0055_D.LRF
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094217_0050_D.MP4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094217_0050_D.MP4
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094406_0054_D.MP4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094406_0054_D.MP4
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094633_0059_D.MP4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094633_0059_D.MP4
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094547_0057_D.LRF
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094547_0057_D.LRF
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094517_0056_D.SRT
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094517_0056_D.SRT
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094357_0053_D.MP4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094357_0053_D.MP4
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094250_0052_D.MP4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094250_0052_D.MP4
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094229_0051_D.MP4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094229_0051_D.MP4
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094658_0060_D.DNG
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094658_0060_D.DNG
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094217_0050_D.SRT
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094217_0050_D.SRT
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094633_0059_D.SRT
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094633_0059_D.SRT
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094406_0054_D.SRT
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094406_0054_D.SRT
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094406_0054_D.LRF
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094406_0054_D.LRF
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094633_0059_D.LRF
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094633_0059_D.LRF
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094441_0055_D.MP4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094441_0055_D.MP4
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094517_0056_D.LRF
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094517_0056_D.LRF
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094810_0064_D.MP4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094810_0064_D.MP4
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094721_0062_D.DNG
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094721_0062_D.DNG
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094624_0058_D.MP4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094624_0058_D.MP4
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094729_0063_D.MP4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094729_0063_D.MP4
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094547_0057_D.SRT
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094547_0057_D.SRT
+  07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094709_0061_D.JPG
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Footage/DJI Mavic 4 Pro/DJI_20260708094709_0061_D.JPG
+  07_Festival/08062026-OmrådetDroneKart/Export/Utkast/Test-v7-1.mp4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Export/Utkast/Test-v7-1.mp4
+  07_Festival/08062026-OmrådetDroneKart/Export/Utkast/Test-v7-2.mp4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Export/Utkast/Test-v7-2.mp4
+  07_Festival/08062026-OmrådetDroneKart/Export/Utkast/Test-v7-3.mp4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Export/Utkast/Test-v7-3.mp4
+  07_Festival/08062026-OmrådetDroneKart/Export/Utkast/Test-v6.mp4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Export/Utkast/Test-v6.mp4
+  07_Festival/08062026-OmrådetDroneKart/Export/Utkast/v2_EDIT-Området-drone-kart.mp4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Export/Utkast/v2_EDIT-Området-drone-kart.mp4
+  07_Festival/08062026-OmrådetDroneKart/Export/Utkast/Test-v5.mp4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Export/Utkast/Test-v5.mp4
+  07_Festival/08062026-OmrådetDroneKart/Export/Utkast/Test-v4.mp4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Export/Utkast/Test-v4.mp4
+  07_Festival/08062026-OmrådetDroneKart/Export/Utkast/Test-v3.mp4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Export/Utkast/Test-v3.mp4
+  07_Festival/08062026-OmrådetDroneKart/Export/Ferdig/v13_EDIT copy 1-Området-drone-kart.mp4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Export/Ferdig/v13_EDIT copy 1-Området-drone-kart.mp4
+  07_Festival/08062026-OmrådetDroneKart/Export/Ferdig/v14_EDIT copy 1-Området-drone-kart.mp4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Export/Ferdig/v14_EDIT copy 1-Området-drone-kart.mp4
+  07_Festival/08062026-OmrådetDroneKart/Export/Ferdig/v12_EDIT copy 1-Området-drone-kart.mp4
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Export/Ferdig/v12_EDIT copy 1-Området-drone-kart.mp4
+  07_Festival/08062026-OmrådetDroneKart/Grafikk/Kart-Grafikk.png
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Grafikk/Kart-Grafikk.png
+  07_Festival/08062026-OmrådetDroneKart/Grafikk/7dagertilhysj.jpg
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Grafikk/7dagertilhysj.jpg
+  07_Festival/08062026-OmrådetDroneKart/Grafikk/grafikk.af
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Grafikk/grafikk.af
+  07_Festival/08062026-OmrådetDroneKart/Grafikk/Grafikk-v2-still.png
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Grafikk/Grafikk-v2-still.png
+  07_Festival/08062026-OmrådetDroneKart/Grafikk/Grafikk-v2-festival.png
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Grafikk/Grafikk-v2-festival.png
+  07_Festival/08062026-OmrådetDroneKart/Grafikk/drone-frame-ungraded.jpg
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Grafikk/drone-frame-ungraded.jpg
+  07_Festival/08062026-OmrådetDroneKart/Grafikk/Asset 2.png
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Grafikk/Asset 2.png
+  07_Festival/08062026-OmrådetDroneKart/Grafikk/IMG_3031.PNG
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Grafikk/IMG_3031.PNG
+  07_Festival/08062026-OmrådetDroneKart/Grafikk/Grafikk-v2-div.png
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Grafikk/Grafikk-v2-div.png
+  07_Festival/08062026-OmrådetDroneKart/Grafikk/Grafikk-v2-toalett.png
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Grafikk/Grafikk-v2-toalett.png
+  07_Festival/08062026-OmrådetDroneKart/Grafikk/Kart-Satelitt.png
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Grafikk/Kart-Satelitt.png
+  07_Festival/08062026-OmrådetDroneKart/Grafikk/bfcb1d1a-7c24-4499-88da-4c65130f18b6.png
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Grafikk/bfcb1d1a-7c24-4499-88da-4c65130f18b6.png
+  07_Festival/08062026-OmrådetDroneKart/Grafikk/Grafikk-v1-still.png
+    -> HYSJ/2026/07_Festival/08062026-OmrådetDroneKart/Grafikk/Grafikk-v1-still.png
+  07_Festival/BilettmotBand/masala-a3-1.jpg
+    -> HYSJ/2026/07_Festival/BilettmotBand/masala-a3-1.jpg
+  07_Festival/BilettmotBand/IMG_4881.HEIC
+    -> HYSJ/2026/07_Festival/BilettmotBand/IMG_4881.HEIC
+  07_Festival/BilettmotBand/masala-a3-2.jpg
+    -> HYSJ/2026/07_Festival/BilettmotBand/masala-a3-2.jpg
+  07_Festival/BilettmotBand/billettmotband-v5-ikkevinnevm.jpg
+    -> HYSJ/2026/07_Festival/BilettmotBand/billettmotband-v5-ikkevinnevm.jpg
+  07_Festival/BilettmotBand/billettmotband-v2-ikkevinnevm.jpg
+    -> HYSJ/2026/07_Festival/BilettmotBand/billettmotband-v2-ikkevinnevm.jpg
+  07_Festival/BilettmotBand/Vi vinner ikke VM-v3.jpg
+    -> HYSJ/2026/07_Festival/BilettmotBand/Vi vinner ikke VM-v3.jpg
+  07_Festival/BilettmotBand/MASALA.jpg
+    -> HYSJ/2026/07_Festival/BilettmotBand/MASALA.jpg
+  07_Festival/BilettmotBand/IMG_4872.HEIC
+    -> HYSJ/2026/07_Festival/BilettmotBand/IMG_4872.HEIC
+  07_Festival/BilettmotBand/billetmotbanndmasala.af
+    -> HYSJ/2026/07_Festival/BilettmotBand/billetmotbanndmasala.af
+  07_Festival/BilettmotBand/billettmotband.af~lock~
+    -> HYSJ/2026/07_Festival/BilettmotBand/billettmotband.af~lock~
+  07_Festival/BilettmotBand/billettmotband-v4-ikkevinnevm.jpg
+    -> HYSJ/2026/07_Festival/BilettmotBand/billettmotband-v4-ikkevinnevm.jpg
+  07_Festival/BilettmotBand/billettmotband.af
+    -> HYSJ/2026/07_Festival/BilettmotBand/billettmotband.af
+  07_Festival/BilettmotBand/Masala-over-dør-148_5x70_5-netto-Brutto-156_5x78_5-cm_.png
+    -> HYSJ/2026/07_Festival/BilettmotBand/Masala-over-dør-148_5x70_5-netto-Brutto-156_5x78_5-cm_.png
+  07_Festival/BilettmotBand/billettmotband-v6-ikkevinnevm.jpg
+    -> HYSJ/2026/07_Festival/BilettmotBand/billettmotband-v6-ikkevinnevm.jpg
+  07_Festival/BilettmotBand/Masala-over-dør-148_5x70_5-netto-Brutto-156_5x78_5-cm_.avif
+    -> HYSJ/2026/07_Festival/BilettmotBand/Masala-over-dør-148_5x70_5-netto-Brutto-156_5x78_5-cm_.avif
+  07_Festival/BilettmotBand/billettmotband.jpg
+    -> HYSJ/2026/07_Festival/BilettmotBand/billettmotband.jpg
+  07_Festival/BilettmotBand/Element/armbånd-v1.svg
+    -> HYSJ/2026/07_Festival/BilettmotBand/Element/armbånd-v1.svg
+  07_Festival/BilettmotBand/Element/render_dobbel_final.png
+    -> HYSJ/2026/07_Festival/BilettmotBand/Element/render_dobbel_final.png
+  07_Festival/BilettmotBand/Element/armbånd-dobbel-final.svg
+    -> HYSJ/2026/07_Festival/BilettmotBand/Element/armbånd-dobbel-final.svg
+  07_Festival/BilettmotBand/Element/armbånd-v3-test.svg
+    -> HYSJ/2026/07_Festival/BilettmotBand/Element/armbånd-v3-test.svg
+  07_Festival/BilettmotBand/Element/armbånd-v3refined.svg
+    -> HYSJ/2026/07_Festival/BilettmotBand/Element/armbånd-v3refined.svg
+  07_Festival/Sjangerplakat/Sjangerplakat.af
+    -> HYSJ/2026/07_Festival/Sjangerplakat/Sjangerplakat.af
+  07_Festival/Sjangerplakat/HYSJSjangere-v1.mp4
+    -> HYSJ/2026/07_Festival/Sjangerplakat/HYSJSjangere-v1.mp4
+  07_Festival/Sjangerplakat/HYSJSjangere-v3.mp4
+    -> HYSJ/2026/07_Festival/Sjangerplakat/HYSJSjangere-v3.mp4
+  07_Festival/Sjangerplakat/HYSJSjangere-v2.mp4
+    -> HYSJ/2026/07_Festival/Sjangerplakat/HYSJSjangere-v2.mp4
+  07_Festival/øktbilettpris/hysj-prisøkning.af
+    -> HYSJ/2026/07_Festival/øktbilettpris/hysj-prisøkning.af
+  07_Festival/øktbilettpris/PrisØker1Mai.jpg
+    -> HYSJ/2026/07_Festival/øktbilettpris/PrisØker1Mai.jpg
+  07_Festival/øktbilettpris/1time-prisøkning.jpg
+    -> HYSJ/2026/07_Festival/øktbilettpris/1time-prisøkning.jpg
+  07_Festival/øktbilettpris/KONK-4xfestivalpass.jpg
+    -> HYSJ/2026/07_Festival/øktbilettpris/KONK-4xfestivalpass.jpg
+  07_Festival/øktbilettpris/PrisØkerIMorgen.jpg
+    -> HYSJ/2026/07_Festival/øktbilettpris/PrisØkerIMorgen.jpg
+  07_Festival/øktbilettpris/50dager.jpg
+    -> HYSJ/2026/07_Festival/øktbilettpris/50dager.jpg
+  07_Festival/øktbilettpris/Dagsprogram-mFB.jpg
+    -> HYSJ/2026/07_Festival/øktbilettpris/Dagsprogram-mFB.jpg
+  07_Festival/øktbilettpris/6timer-prisøkning.jpg
+    -> HYSJ/2026/07_Festival/øktbilettpris/6timer-prisøkning.jpg
+  07_Festival/øktbilettpris/3timer-prisøkning.jpg
+    -> HYSJ/2026/07_Festival/øktbilettpris/3timer-prisøkning.jpg
+  05_Newsletter/HysjNewsletter-Lokasjon-TidAsset 1.png
+    -> HYSJ/2026/05_Newsletter/HysjNewsletter-Lokasjon-TidAsset 1.png
+  05_Newsletter/instagramhysjoransj.png
+    -> HYSJ/2026/05_Newsletter/instagramhysjoransj.png
+  05_Newsletter/Roping.png
+    -> HYSJ/2026/05_Newsletter/Roping.png
+  05_Newsletter/Untitled-1.psd
+    -> HYSJ/2026/05_Newsletter/Untitled-1.psd
+  05_Newsletter/5xartistslipp@4x.png
+    -> HYSJ/2026/05_Newsletter/5xartistslipp@4x.png
+  05_Newsletter/TiktokHYSJ.png
+    -> HYSJ/2026/05_Newsletter/TiktokHYSJ.png
+  05_Newsletter/Hysjjjj.png
+    -> HYSJ/2026/05_Newsletter/Hysjjjj.png
+  05_Newsletter/billettmotband-lokasjon.png
+    -> HYSJ/2026/05_Newsletter/billettmotband-lokasjon.png
+  05_Newsletter/InstagramHYSJ.png
+    -> HYSJ/2026/05_Newsletter/InstagramHYSJ.png
+  05_Newsletter/tiktokhysjoransj.png
+    -> HYSJ/2026/05_Newsletter/tiktokhysjoransj.png
+  05_Newsletter/FacebookHYSJ.png
+    -> HYSJ/2026/05_Newsletter/FacebookHYSJ.png
+  05_Newsletter/HysjNewsletter-Lokasjon-TidArtboard 3.jpg
+    -> HYSJ/2026/05_Newsletter/HysjNewsletter-Lokasjon-TidArtboard 3.jpg
+  05_Newsletter/facebookhysjoransj.png
+    -> HYSJ/2026/05_Newsletter/facebookhysjoransj.png
+  05_Newsletter/HysjNewsletter-Lokasjon-Tid.ai
+    -> HYSJ/2026/05_Newsletter/HysjNewsletter-Lokasjon-Tid.ai
+  03_Profil/Elementer/Fonter/TypeType - TT Nooks Script Bold.otf
+    -> HYSJ/2026/07_Festival/Backdrop/Assets/Font/TypeType - TT Nooks Script Bold.otf
+  03_Profil/Elementer/Fonter/Bowlby_One/BowlbyOne-Regular.ttf
+    -> HYSJ/2026/07_Festival/Backdrop/Assets/Font/BowlbyOne-Regular.ttf
+  03_Profil/Elementer/Fonter/Bowlby_One/OFL.txt
+    -> HYSJ/2026/02_Videoprosjekter/JONASDIVHYSJ/Brand/Profilelementer-2/Fonter/Bowlby_One/OFL.txt
+  03_Profil/Select-Brand/Oransje enkel med hysj element.png
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Oransje enkel med hysj element.png
+  03_Profil/Select-Brand/HYSJ-kvadrat-red-01..png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-red-01..png
+  03_Profil/Select-Brand/Oransje enkel 9:16.png
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Oransje enkel 9:16.png
+  03_Profil/Select-Brand/Oransje enkel.png
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Oransje enkel.png
+  03_Profil/Select-Brand/Hysjfinger-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjfinger-04.png
+  03_Profil/Select-Brand/Oransje HYSJ.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Oransje HYSJ.png
+  03_Profil/Select-Brand/HYSJ-red-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-red-01.png
+  03_Profil/Select-Brand/Oransje enkel med HYSJ 9:16.png
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Oransje enkel med HYSJ 9:16.png
+  03_Profil/Select-Brand/Hysjmunn-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Hysjmunn-04.png
+  03_Profil/Select-Brand/Ropemunn-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropemunn-04.png
+  03_Profil/Select-Brand/Oransje skrik.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Oransje skrik.png
+  03_Profil/Select-Brand/Oransje skrik 9:16.png
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Oransje skrik 9:16.png
+  03_Profil/Select-Brand/Ropehender-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Profilelementer/Emblemer/Ropehender-04.png
+  03_Profil/Select-Brand/Oransje HYSJ 9:16.png
+    -> HYSJ/2026/01_Artister/_Maler/News-HYSJ.dra/MediaFiles/Dropbox/03_Jobb/HYSJ/Brand/Select-Brand/Oransje HYSJ 9:16.png
+  03_Profil/Logo/Kvadratisk/HYSJ-logo-kvadratisk-samlet.pdf
+    -> HYSJ/2026/02_Videoprosjekter/JONASDIVHYSJ/Brand/Profilelementer-2/Logo/Kvadratisk/HYSJ-logo-kvadratisk-samlet.pdf
+  03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-red-01..png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-red-01..png
+  03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-red-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-red-03.png
+  03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-blue-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-blue-04.png
+  03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-black-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-black-04.png
+  03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-pink-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-pink-04.png
+  03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-red-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-red-02.png
+  03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-blue-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-blue-01.png
+  03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-black-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-black-01.png
+  03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-pink-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-pink-01.png
+  03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-blue-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-blue-02.png
+  03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-black-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-black-02.png
+  03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-black-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-black-03.png
+  03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-red-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-red-04.png
+  03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-blue-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-blue-03.png
+  03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-yellow-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-yellow-01.png
+  03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-yellow-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-yellow-02.png
+  03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-yellow-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-yellow-03.png
+  03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-yellow-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-yellow-04.png
+  03_Profil/Logo/Liggende/HYSJ-logo-liggende-samlet.pdf
+    -> HYSJ/2026/02_Videoprosjekter/JONASDIVHYSJ/Brand/Profilelementer-2/Logo/Liggende/HYSJ-logo-liggende-samlet.pdf
+  03_Profil/Logo/Liggende/PNGs/HYSJ-blue-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-blue-04.png
+  03_Profil/Logo/Liggende/PNGs/HYSJ-yellow-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-yellow-03.png
+  03_Profil/Logo/Liggende/PNGs/HYSJ-yellow-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-yellow-02.png
+  03_Profil/Logo/Liggende/PNGs/HYSJ-pink-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-pink-04.png
+  03_Profil/Logo/Liggende/PNGs/HYSJ-black-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-black-04.png
+  03_Profil/Logo/Liggende/PNGs/HYSJ-yellow-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-yellow-01.png
+  03_Profil/Logo/Liggende/PNGs/HYSJ-black-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-black-03.png
+  03_Profil/Logo/Liggende/PNGs/HYSJ-blue-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-blue-02.png
+  03_Profil/Logo/Liggende/PNGs/HYSJ-pink-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-pink-03.png
+  03_Profil/Logo/Liggende/PNGs/HYSJ-yellow-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-yellow-04.png
+  03_Profil/Logo/Liggende/PNGs/HYSJ-pink-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-pink-02.png
+  03_Profil/Logo/Liggende/PNGs/HYSJ-blue-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-blue-03.png
+  03_Profil/Logo/Liggende/PNGs/HYSJ-black-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-black-02.png
+  03_Profil/Logo/Liggende/PNGs/HYSJ-blue-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-blue-01.png
+  03_Profil/Logo/Liggende/PNGs/HYSJ-pink-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-pink-01.png
+  03_Profil/Logo/Liggende/PNGs/HYSJ-black-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-black-01.png
+  03_Profil/Logo/Liggende/PNGs/HYSJ-red-01.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-red-01.png
+  03_Profil/Logo/Liggende/PNGs/HYSJ-red-03.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-red-03.png
+  03_Profil/Logo/Liggende/PNGs/HYSJ-red-02.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-red-02.png
+  03_Profil/Logo/Liggende/PNGs/HYSJ-red-04.png
+    -> ByHola/Projects/ALLEFESTIVALER-RULLERING/Davinci/v2_BYHOLA-PROFIL_RULLERING_ALLE.dra/MediaFiles/ByHola_1/HYSJ/01_PROFIL/Logo/Liggende/PNGs/HYSJ-red-04.png
+
+SAME NAME, DIFFERENT SIZE: 13
+  04_Partnere/Partnerslipp/Coca-Cola/output.mp4 (1695567)
+    -> HYSJ/2026/01_Artister/Stavangerkameratene/Artistslipp/output.mp4 (33949348)
+  04_Partnere/Partnerslipp/_Felles-kilder/Untitled-1.ai (1578446)
+    -> HYSJ/2026/02_Videoprosjekter/GåForbiLansering/03_Projekt/Untitled-1.ai (4349353)
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30004M01.XML (2135)
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30004M01.XML (2133)
+    -> HYSJ/2026/09_2026-Videoer/16072026-Velkommen/01_Råmateriale/Video/SW-FX30004M01.XML (2134)
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30006M01.XML (2133)
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30006M01.XML (2135)
+    -> HYSJ/2026/09_2026-Videoer/16072026-Velkommen/01_Råmateriale/Video/SW-FX30006M01.XML (2134)
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30006.MP4 (738474361)
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30006.MP4 (3892602311)
+    -> HYSJ/2026/09_2026-Videoer/16072026-Velkommen/01_Råmateriale/Video/SW-FX30006.MP4 (671365378)
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30005.MP4 (1275347111)
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30005.MP4 (738474361)
+    -> HYSJ/2026/09_2026-Videoer/16072026-Velkommen/01_Råmateriale/Video/SW-FX30005.MP4 (335819678)
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30002M01.XML (2135)
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30002M01.XML (2133)
+    -> HYSJ/2026/09_2026-Videoer/16072026-Velkommen/01_Råmateriale/Video/SW-FX30002M01.XML (2134)
+    -> HYSJ/2026/02_Videoprosjekter/20260623-mia-område/01_Råmateriale/Video/SW-FX30002M01.XML (2136)
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30004.MP4 (1678001915)
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30004.MP4 (1141128949)
+    -> HYSJ/2026/09_2026-Videoer/16072026-Velkommen/01_Råmateriale/Video/SW-FX30004.MP4 (537147170)
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30001.MP4 (2617529467)
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30001.MP4 (1745110995)
+    -> HYSJ/2026/09_2026-Videoer/16072026-Velkommen/01_Råmateriale/Video/SW-FX30001.MP4 (537147230)
+    -> HYSJ/2026/02_Videoprosjekter/20260623-mia-område/01_Råmateriale/Video/SW-FX30001.MP4 (5436118424)
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30003.MP4 (11677264015)
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30003.MP4 (1141128841)
+    -> HYSJ/2026/09_2026-Videoer/16072026-Velkommen/01_Råmateriale/Video/SW-FX30003.MP4 (335819738)
+    -> HYSJ/2026/02_Videoprosjekter/20260623-mia-område/01_Råmateriale/Video/SW-FX30003.MP4 (11677273088)
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30002.MP4 (1678001915)
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30002.MP4 (738474145)
+    -> HYSJ/2026/09_2026-Videoer/16072026-Velkommen/01_Råmateriale/Video/SW-FX30002.MP4 (470038006)
+    -> HYSJ/2026/02_Videoprosjekter/20260623-mia-område/01_Råmateriale/Video/SW-FX30002.MP4 (4093931364)
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30005M01.XML (2135)
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30005M01.XML (2133)
+    -> HYSJ/2026/09_2026-Videoer/16072026-Velkommen/01_Råmateriale/Video/SW-FX30005M01.XML (2134)
+  04_Partnere/Partnervideo/GretlandReno/Footage/01/SW-FX30003M01.XML (2135)
+    -> HYSJ/2026/07_Festival/rigg-video_14072026/01_Råmateriale/Video/SW-FX30003M01.XML (2133)
+    -> HYSJ/2026/09_2026-Videoer/16072026-Velkommen/01_Råmateriale/Video/SW-FX30003M01.XML (2134)
+    -> HYSJ/2026/02_Videoprosjekter/20260623-mia-område/01_Råmateriale/Video/SW-FX30003M01.XML (2136)
+
+MISSING: 384  total 80.52 GB
+  Icon (0.00 GB)
+  hysj-mappestruktur.txt (0.00 GB)
+  tikkioqrkode.svg (0.00 GB)
+  tikkioqrkode.png (0.00 GB)
+  04_Partnere/Partnerslipp/Partnerslipp-sjekkliste.xlsx (0.00 GB)
+  04_Partnere/Partnerslipp/CLAUDE.md (0.00 GB)
+  04_Partnere/Partnerslipp/Dominos/Dominos-PartnerSlipp-v2.mp4 (0.02 GB)
+  04_Partnere/Partnerslipp/Dominos/test1.mp4 (0.01 GB)
+  04_Partnere/Partnerslipp/Dominos/Video by quasicasanova (DWuEeOaDQ-_).mp3 (0.00 GB)
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3610.HEIC (0.01 GB)
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3615.jpeg (0.00 GB)
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3631.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3607.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3644.jpeg (0.01 GB)
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3633.jpeg (0.01 GB)
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3640.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3624.jpeg (0.00 GB)
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3604.jpeg (0.01 GB)
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3637.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3607.jpeg (0.01 GB)
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3631.jpeg (0.00 GB)
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3615.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3610.jpeg (0.01 GB)
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3637.jpeg (0.00 GB)
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3604.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3624.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3640.jpeg (0.01 GB)
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3633.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Dominos/Bilder/IMG_3644.HEIC (0.01 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/See you Wednesday! 🔥 We’re having a Worship Night!! you can’t miss it! 🔥Doors open at 6-15 PM..mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/HYSJ-CocaCola-Partnerslipp-v1.mp4 (0.05 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/HYSJ-CocaCola-Partnerslipp-v1 copy.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/Coca-Cola_logo_sort.png (0.00 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/See you Wednesday! 🔥 We’re having a Worship Night!! you can’t miss it! 🔥Doors open at 6-15 PM..m4a (0.00 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/Coca-Cola_logo_sort.eps (0.00 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2725.MP4 (0.27 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2724.MP4 (0.40 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2726.MP4 (0.34 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2727.MP4 (0.74 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2723.MP4 (1.41 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2723M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2722.MP4 (0.67 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2727M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2725M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2729M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2722M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2726M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2724M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2728M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2729.MP4 (0.27 GB)
+  04_Partnere/Partnerslipp/Coca-Cola/COCACOLA-HYSJ-RAW/FX320260508_2728.MP4 (0.27 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 14aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 9aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 13aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 6aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 7aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 12aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 15aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 8aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 17aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 18aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 5aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 10aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 11aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 19aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 4aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 16aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 22aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 30aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 25aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 24aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 23aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 29aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 21aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippBLANKaass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippBLANKaass-cbycv4.pdf (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 27aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 20aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Print/partnerslippArtboard 3 copy 28aass-cbycv4.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/4x/partnerslippArtboard 3 copy 7aass-cbycv3.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/4x/partnerslippArtboard 3 copy 13aass-cbycv3.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/4x/partnerslippArtboard 3 copy 4aass-cbycv3.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/4x/partnerslippArtboard 3 copy 10aass-cbycv3.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/4x/partnerslippArtboard 3 copy 5aass-cbycv3.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/4x/partnerslippArtboard 3 copy 30aass-cbycv3.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/4x/partnerslippArtboard 3 copy 27aass-cbycv3.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/4x/partnerslippArtboard 3 copy 28aass-cbycv3.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/4x/partnerslippBLANKaass-cbycv3.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/4x/partnerslippArtboard 3 copy 29aass-cbycv3.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/JPG/partnerslippArtboard 3 copy 10aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/JPG/partnerslippArtboard 3 copy 27aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/JPG/partnerslippArtboard 3 copy 7aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/JPG/partnerslippArtboard 3 copy 30aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/JPG/partnerslippArtboard 3 copy 5aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/JPG/partnerslippArtboard 3 copy 13aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/JPG/partnerslippArtboard 3 copy 4aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/JPG/partnerslippArtboard 3 copy 29aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/JPG/partnerslippArtboard 3 copy 28aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 6aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 21aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 17aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 10aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 20aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 7aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 11aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 16aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 25aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 22aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 5aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 14aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 13aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 4aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 23aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 24aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 12aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 15aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 18aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 9aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 19aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/cbyc/partnerslippArtboard 3 copy 8aass-cbyc.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/tester/aassSlipp-v2-ide1.mp4 (0.02 GB)
+  04_Partnere/Partnerslipp/Aass/tester/aassSlipp-v3.mp4 (0.02 GB)
+  04_Partnere/Partnerslipp/Aass/tester/aassSlipp-v1-ide1.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3714.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3702.HEIC (0.01 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3734.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3718.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3735.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3723.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3703.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3715.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3732.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3708.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3728.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3712.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3704.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3705.HEIC (0.01 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3713.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3729.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3709.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3733.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3725.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3730.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3726.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3710.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3711.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3707.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3727.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3731.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3736.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3720.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/Aass/Bilder/IMG_3721.HEIC (0.00 GB)
+  04_Partnere/Partnerslipp/_Felles-kilder/partnerslipp.ai (0.03 GB)
+  04_Partnere/Partnerslipp/_Felles-kilder/UTKAST-STORE/partnerslippArtboard 3-v2.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/_Felles-kilder/UTKAST-STORE/partnerslippArtboard 3_2-v1.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/_Felles-kilder/UTKAST-STORE/partnerslippArtboard 3-v1.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/_Felles-kilder/UTKAST-STORE/partnerslippArtboard 3_2-v2.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/_Felles-kilder/UTKAST-STORE/partnerslippArtboard 3_4-v2.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/_Felles-kilder/UTKAST-STORE/partnerslippArtboard 3_4-v1.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/_Felles-kilder/UTKAST-STORE/partnerslippArtboard 3_3-v2.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/_Felles-kilder/UTKAST-STORE/partnerslippArtboard 3_3-v1.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/_Felles-kilder/UTKAST-STORE/partnerslippArtboard 3_1-v1.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/_Felles-kilder/UTKAST-STORE/partnerslippArtboard 3_1-v2.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527122023_0214_D.MP4 (0.20 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527122056_0215_D.LRF (0.05 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527121845_0213_D.MP4 (1.36 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527122056_0215_D.SRT (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527122129_0216_D.MP4 (0.49 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527121845_0213_D.SRT (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527122056_0215_D.MP4 (0.26 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527122129_0216_D.SRT (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527122023_0214_D.LRF (0.04 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527122023_0214_D.SRT (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527122129_0216_D.LRF (0.07 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/DJI Mavic 4 Pro/DJI_20260527121845_0213_D.LRF (0.17 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8831M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8840M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8839.MP4 (0.87 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8838.MP4 (0.67 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8842M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8850M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8833M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8837M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8846M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8844M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8839M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8848M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8835M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8848.MP4 (0.47 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8849.MP4 (0.47 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8850.MP4 (3.15 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8844.MP4 (0.47 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8845.MP4 (1.07 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8847.MP4 (0.47 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8830M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8846.MP4 (2.08 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8841M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8842.MP4 (0.40 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8843M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8843.MP4 (0.34 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8832M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8841.MP4 (1.34 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8840.MP4 (2.01 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8836M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8833.MP4 (2.42 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8847M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8832.MP4 (3.09 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8830.MP4 (3.42 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8831.MP4 (2.62 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8835.MP4 (1.75 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8834.MP4 (0.60 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8838M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8845M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8836.MP4 (1.68 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8834M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8849M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Red-Bull/01_Råmateriale/Video/FX3/FX3_8837.MP4 (4.56 GB)
+  04_Partnere/Partnerslipp/Red-Bull/04_Eksport/Utkast/Redbull-Partnerslipp-v1.mp4 (0.01 GB)
+  04_Partnere/Partnerslipp/Red-Bull/04_Eksport/Utkast/Redbull-Partnerslipp-v3.mp4 (0.01 GB)
+  04_Partnere/Partnerslipp/Red-Bull/04_Eksport/Utkast/Redbull-Partnerslipp-v2.mp4 (0.01 GB)
+  04_Partnere/Partnerslipp/Red-Bull/04_Eksport/Final/Redbull-Partnerslipp-v4.mp4 (0.01 GB)
+  04_Partnere/Partnerslipp/Red-Bull/02_Ressurser/Musikk/SpotiDownloader.com - Movin' To The Sun - HUGEL.mp3 (0.01 GB)
+  04_Partnere/Partnerslipp/Red-Bull/02_Ressurser/Grafikk/Document@2x.png (0.00 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/Værstetorcet-v3.mp4 (0.05 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/Værstetorcet-v2.mp4 (0.02 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/Værstetorvet-v1.mp4 (0.04 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/Artboard 3_1Værstetorvet.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/Move over Fisher – we’ve got a new chart marathon champ.@jambackdj’s “Positive” held the #1 spot.mp4 (0.01 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2663.MP4 (0.07 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2662.MP4 (0.07 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2660.MP4 (0.07 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2656M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2660M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2661.MP4 (0.07 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2659.MP4 (0.13 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2658M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2671.MP4 (0.07 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2665.MP4 (0.07 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2662M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2670M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2664.MP4 (0.07 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2670.MP4 (0.07 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2658.MP4 (0.07 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2666.MP4 (0.07 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2667.MP4 (0.07 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2666M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2664M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2668M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2661M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2657M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2663M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2671M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2659M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2655M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2656.MP4 (0.07 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2657.MP4 (0.07 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2655.MP4 (0.07 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2669.MP4 (0.07 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2667M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2668.MP4 (0.07 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2665M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Værstetorvet/CLIP/FX320260427_2669M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Modish/ModishSlipp-v1.mp4 (0.01 GB)
+  04_Partnere/Partnerslipp/Modish/ModishSlipp-v2.mp4 (0.01 GB)
+  04_Partnere/Partnerslipp/Modish/ModishSlipp-v2-helhvit.mp4 (0.01 GB)
+  04_Partnere/Partnerslipp/PSS/stillllll.png (0.01 GB)
+  04_Partnere/Partnerslipp/PSS/Still 2026-05-18 120759_3.4.1.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/PSS/FX320260518_3000.MP4 (1.14 GB)
+  04_Partnere/Partnerslipp/PSS/Giacomo Maraboli - Brawl - Body Hit Metal Surface.wav (0.00 GB)
+  04_Partnere/Partnerslipp/PSS/Still 2026-05-18 120759_3.4.1.drx (0.00 GB)
+  04_Partnere/Partnerslipp/PSS/PSS-ARTISTSLIPP-V1.mp4 (0.03 GB)
+  04_Partnere/Partnerslipp/PSS/Kaska Paluch - Sounds of Iceland - Peninsula Ocean Waves Wind and Birds.wav (0.08 GB)
+  04_Partnere/Partnerslipp/PSS/FX320260518_3000M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Studio-Wallin/SW-Partnerslipp-v5.mp4 (0.09 GB)
+  04_Partnere/Partnerslipp/Studio-Wallin/SW-Partnerslipp-v4.mp4 (0.09 GB)
+  04_Partnere/Partnerslipp/Studio-Wallin/SW-Partnerslipp-v6.mp4 (0.09 GB)
+  04_Partnere/Partnerslipp/Studio-Wallin/IMG_1492.MOV (0.07 GB)
+  04_Partnere/Partnerslipp/Studio-Wallin/Video by canelayyc (DXfun3TDX1R).mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Studio-Wallin/FX320260505_2711.MP4 (4.70 GB)
+  04_Partnere/Partnerslipp/Studio-Wallin/FX320260505_2711M01.XML (0.00 GB)
+  04_Partnere/Partnerslipp/Studio-Wallin/595637_Out Of Focus Visually Impaired Pov Blurry_By_Yojanan_Montano_Artlist_HD.mp4 (0.02 GB)
+  04_Partnere/Partnerslipp/Studio-Wallin/Dårlig/SW-Partnerslipp-v3.mp4 (0.01 GB)
+  04_Partnere/Partnerslipp/Studio-Wallin/Dårlig/SW-Partnerslipp-v2.mp4 (0.01 GB)
+  04_Partnere/Partnerslipp/Studio-Wallin/Dårlig/SW-Partnerslipp-v1.mp4 (0.05 GB)
+  04_Partnere/Partnerslipp/Studio-Wallin/Dårlig/6493067_Sunlight Line House Interior_By_Daniel_Megias_Del_Pozo_Artlist_4K.mp4 (0.04 GB)
+  04_Partnere/Partnerslipp/Studio-Wallin/Dårlig/IMG_1492.MOV (0.07 GB)
+  04_Partnere/Partnerslipp/Studio-Wallin/Dårlig/test1.mp4 (0.02 GB)
+  04_Partnere/Partnerslipp/Studio-Wallin/Dårlig/3U7A9945.MP4 (8.49 GB)
+  04_Partnere/Partnerslipp/Studio-Wallin/Dårlig/3U7A9946.MP4 (10.74 GB)
+  04_Partnere/Partnerslipp/Småslipp/Eir-Rosa.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/torvbyen.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/PurBlu-Blå.mp4 (0.01 GB)
+  04_Partnere/Partnerslipp/Småslipp/touch-blå.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/scandic-oransj.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/støy-blå.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/litthuset-oransj.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/partnerslippArtboard 3 copy 2joker.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/partnerslippArtboard 3 copy 3joker.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/TM-Beige.mp4 (0.01 GB)
+  04_Partnere/Partnerslipp/Småslipp/solibrug-oransj.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/touch.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/scandic.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/partnerslippArtboard 3 copy 2_1installatørencover.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/ceci.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/domino-interiør-rosa.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/XLUtleie-Beige.mp4 (0.01 GB)
+  04_Partnere/Partnerslipp/Småslipp/matværste-oransj.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/partnerslippArtboard 31_1-copyland.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/SP1-Beige.mp4 (0.01 GB)
+  04_Partnere/Partnerslipp/Småslipp/torvbyen-blå.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/Solli-beige.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/marsel-partnerslipp.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/copyland.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/Norli-Beige.mp4 (0.01 GB)
+  04_Partnere/Partnerslipp/Småslipp/partnerslippArtboard 3 copyjoker.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/Freequent-Rosa.mp4 (0.01 GB)
+  04_Partnere/Partnerslipp/Småslipp/GretlandReno-Blå.mp4 (0.01 GB)
+  04_Partnere/Partnerslipp/Småslipp/Deluxe-Rosa.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/domino.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/InstallatørenSlipp-v1.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/InstallatørenSlipp-v3.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/støy.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/InstallatørenSlipp-v2.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/StHarry-Blå.mp4 (0.01 GB)
+  04_Partnere/Partnerslipp/Småslipp/Ferner-blå.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/ceci-oransj.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/JokerSlipp-v1.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/Cutters-Rosa.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/thonsenter-beige.mp4 (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/solibrug.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/matværste.jpg (0.00 GB)
+  04_Partnere/Partnerslipp/Småslipp/Hvila-Blå.mp4 (0.01 GB)
+  04_Partnere/Partnervideo/Restauranter/hysj-resturant-ting.psd (0.01 GB)
+  04_Partnere/Partnervideo/Restauranter/hysj-resturant-ting.jpg (0.00 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/HYSJ-VieduVIP-6x1m(50%).pdf (0.00 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/vieduviplogo.png (0.00 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/viedulogo.png (0.00 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/viedu-hysj-manus.pdf (0.00 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Subtitle 1-v1.srt (0.00 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9177.MP4 (0.47 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9176.MP4 (1.61 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9177M01.XML (0.00 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9175.MP4 (2.82 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9179M01.XML (0.00 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9175M01.XML (0.00 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9180M01.XML (0.00 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9176M01.XML (0.00 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9178M01.XML (0.00 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9180.MP4 (2.22 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9178.MP4 (1.34 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Footage/FX3/QAS_FX3_9179.MP4 (2.28 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_006_Tr1.WAV (0.06 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_006_Tr2.WAV (0.06 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_004_Tr1.WAV (0.06 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_004_Tr2.WAV (0.06 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_005_Tr2.WAV (0.07 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_005_Tr1.WAV (0.07 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_001_Tr2.WAV (0.11 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_001_Tr1.WAV (0.11 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_003_Tr2.WAV (0.02 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_003_Tr1.WAV (0.02 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_002_Tr1.WAV (0.07 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Video/Sound/F3/260608_002_Tr2.WAV (0.07 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Export/Utkast/v3_EDIT-9x16-Viedu-Partnervideo.mp4 (0.07 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Export/Utkast/v1_EDIT-16x9-Viedu-Partnervideo.mp4 (0.07 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Export/Utkast/v2_EDIT-9x16-Viedu-Partnervideo.mp4 (0.07 GB)
+  04_Partnere/Partnervideo/Viedu/Partnerfilm/Export/Final/v4_EDIT-9x16-Viedu-Partnervideo.mp4 (0.07 GB)
+  Backuped Safe to Delete/liste-backed-up.txt (0.00 GB)
+  Not Backuped Yet/liste-ikke-backet-opp.txt (0.00 GB)
+  03_Profil/2000følgerev3.jpg (0.00 GB)
+  03_Profil/2000følgerev2.jpg (0.00 GB)
+  03_Profil/2000følgere.psd (0.01 GB)
+  03_Profil/2000følgere.jpg (0.00 GB)
+  03_Profil/Farger/sebsnartutsolgtArtboard 2-v2.jpg (0.00 GB)
+  03_Profil/Farger/sebsnartutsolgtArtboard 2-v1.jpg (0.00 GB)
+  03_Profil/Farger/sebsnartutsolgtArtboard 1-v4.jpg (0.00 GB)
+  03_Profil/Farger/sebsnartutsolgtArtboard 1-v5.jpg (0.00 GB)
+  03_Profil/Farger/sebsnartutsolgtArtboard 1-v2.jpg (0.00 GB)
+  03_Profil/Farger/sebsnartutsolgtArtboard 1-v3.jpg (0.00 GB)
+  03_Profil/Farger/sebsnartutsolgtArtboard 1-v1.jpg (0.00 GB)
+  03_Profil/Farger/sebsnartutsolgt.ai (0.00 GB)
+  03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-pink-012.png (0.00 GB)
+  03_Profil/Logo/Kvadratisk/PNGs/HYSJ-kvadrat-pink-013.png (0.00 GB)
+  03_Profil/Logo/Liggende/HYSJ-logo-liggende-samlet.af (0.00 GB)
