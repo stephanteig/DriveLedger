@@ -6,7 +6,7 @@
 ## Status
 - [x] Phase 0: Repo and workspace bootstrap
 - [x] Phase 1: Core index and scan
-- [ ] Phase 2: Fingerprinting and incremental rescan
+- [x] Phase 2: Fingerprinting and incremental rescan
 - [ ] Phase 3: Compare engine
 - [ ] Phase 4: CLI
 - [ ] Phase 5: MCP server
