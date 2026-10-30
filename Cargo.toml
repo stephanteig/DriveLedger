@@ -14,3 +14,13 @@ unsafe_code = "forbid"
 
 [workspace.lints.clippy]
 all = { level = "warn", priority = -1 }
+
+# Optimise dependencies (SQLite, BLAKE3, hashing) in dev and test builds so
+# fixture tests and the compare benchmark run at realistic speed.
+[profile.dev.package."*"]
+opt-level = 2
+
+# Tests include a timing budget (compare 100k x 100k < 2 s), so build them
+# with light optimisation.
+[profile.test]
+opt-level = 1
